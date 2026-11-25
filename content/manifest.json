@@ -1008,6 +1008,10 @@
    "sha256": "4426b6bc5af818e5de98051056d0382b679d5cdf3295b7b482359873394a0abf",
    "size": 117410
   },
+  "verbs_a1.json": {
+   "sha256": "eed907095abaaf06ce580af2322ea08d127c9d2a9de23f4d1313c8f83f54586f",
+   "size": 34776
+  },
   "writing.json": {
    "sha256": "2d6d9bfef3699e68605cee3d3d44473d2401243cf2bdac90db1845039a32835a",
    "size": 51537
