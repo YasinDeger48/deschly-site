@@ -14,8 +14,174 @@
   "bis bald",
   "tschüss",
   "bis dann",
-  "bis morgen"
+  "bis morgen",
+  "bis gleich"
  ],
+ "pattern": {
+  "informal": [
+   {
+    "title": {
+     "tr": "1 · Hitap",
+     "en": "1 · Greeting"
+    },
+    "phrases": [
+     "Liebe …,",
+     "Lieber …,",
+     "Hallo …,"
+    ]
+   },
+   {
+    "title": {
+     "tr": "2 · Giriş",
+     "en": "2 · Opening"
+    },
+    "phrases": [
+     "wie geht es dir?",
+     "danke für deine Nachricht.",
+     "ich schreibe dir, weil …"
+    ]
+   },
+   {
+    "title": {
+     "tr": "3 · Konu",
+     "en": "3 · The reason"
+    },
+    "phrases": [
+     "Leider kann ich am … nicht kommen.",
+     "Ich bin krank.",
+     "Am Samstag habe ich Geburtstag.",
+     "Ich mache eine Party.",
+     "Es tut mir leid, aber …",
+     "Am Wochenende war ich …"
+    ]
+   },
+   {
+    "title": {
+     "tr": "4 · Rica / soru",
+     "en": "4 · Request / question"
+    },
+    "phrases": [
+     "Kannst du …?",
+     "Hast du am … Zeit?",
+     "Kannst du bitte … mitbringen?",
+     "Möchtest du mitkommen?"
+    ]
+   },
+   {
+    "title": {
+     "tr": "5 · Zaman ve yer",
+     "en": "5 · Time and place"
+    },
+    "phrases": [
+     "am Samstag um … Uhr",
+     "bei mir zu Hause",
+     "Wir treffen uns vor dem …"
+    ]
+   },
+   {
+    "title": {
+     "tr": "6 · Kapanış",
+     "en": "6 · Closing"
+    },
+    "phrases": [
+     "Ich freue mich auf dich!",
+     "Schreib mir bitte.",
+     "Bis bald!"
+    ]
+   },
+   {
+    "title": {
+     "tr": "7 · Selam",
+     "en": "7 · Sign-off"
+    },
+    "phrases": [
+     "Viele Grüße",
+     "Liebe Grüße",
+     "Bis dann"
+    ]
+   }
+  ],
+  "formal": [
+   {
+    "title": {
+     "tr": "1 · Hitap",
+     "en": "1 · Greeting"
+    },
+    "phrases": [
+     "Sehr geehrte Frau …,",
+     "Sehr geehrter Herr …,",
+     "Sehr geehrte Damen und Herren,"
+    ]
+   },
+   {
+    "title": {
+     "tr": "2 · Giriş",
+     "en": "2 · Opening"
+    },
+    "phrases": [
+     "ich schreibe Ihnen, weil …",
+     "vielen Dank für Ihre E-Mail."
+    ]
+   },
+   {
+    "title": {
+     "tr": "3 · Konu",
+     "en": "3 · The reason"
+    },
+    "phrases": [
+     "Leider kann ich morgen nicht kommen.",
+     "Ich habe ein Problem mit …",
+     "Ich möchte vom … bis … in Hamburg bleiben.",
+     "Ich habe Ihre Anzeige gelesen.",
+     "Am … habe ich bei Ihnen … bestellt."
+    ]
+   },
+   {
+    "title": {
+     "tr": "4 · Rica / soru",
+     "en": "4 · Request / question"
+    },
+    "phrases": [
+     "Können Sie bitte …?",
+     "Könnten Sie mir bitte … schicken?",
+     "Haben Sie noch ein Zimmer frei?",
+     "Was kostet …?",
+     "Ich möchte gern wissen, …"
+    ]
+   },
+   {
+    "title": {
+     "tr": "5 · Zaman ve yer",
+     "en": "5 · Time and place"
+    },
+    "phrases": [
+     "am … um … Uhr",
+     "Ich bin ab … Uhr zu Hause.",
+     "seit Montag"
+    ]
+   },
+   {
+    "title": {
+     "tr": "6 · Kapanış",
+     "en": "6 · Closing"
+    },
+    "phrases": [
+     "Vielen Dank im Voraus.",
+     "Ich freue mich auf Ihre Antwort."
+    ]
+   },
+   {
+    "title": {
+     "tr": "7 · Selam",
+     "en": "7 · Sign-off"
+    },
+    "phrases": [
+     "Mit freundlichen Grüßen",
+     "Viele Grüße"
+    ]
+   }
+  ]
+ },
  "tasks": [
   {
    "id": "a1-f1",
@@ -303,7 +469,8 @@
     }
    ],
    "minWords": 25,
-   "sample": "Liebe Frau Weber, leider kann ich morgen nicht zum Kurs kommen. Ich bin krank und muss zum Arzt. Was sind die Hausaufgaben? Am Donnerstag komme ich wieder. Viele Grüße, Elif"
+   "sample": "Liebe Frau Weber, leider kann ich morgen nicht zum Kurs kommen. Ich bin krank und muss zum Arzt. Was sind die Hausaufgaben? Am Donnerstag komme ich wieder. Viele Grüße, Elif",
+   "formal": true
   },
   {
    "id": "a1-m2",
@@ -363,7 +530,8 @@
     }
    ],
    "minWords": 25,
-   "sample": "Hallo Tom, am Samstag habe ich Geburtstag und mache eine Party. Sie beginnt um 19 Uhr bei mir zu Hause. Kannst du bitte einen Salat mitbringen? Ich freue mich auf dich! Viele Grüße, Murat"
+   "sample": "Hallo Tom, am Samstag habe ich Geburtstag und mache eine Party. Sie beginnt um 19 Uhr bei mir zu Hause. Kannst du bitte einen Salat mitbringen? Ich freue mich auf dich! Viele Grüße, Murat",
+   "formal": false
   },
   {
    "id": "a1-m3",
@@ -419,7 +587,8 @@
     }
    ],
    "minWords": 25,
-   "sample": "Sehr geehrter Herr Braun, in meiner Wohnung ist die Heizung kaputt. Das Problem gibt es seit Montag und es ist sehr kalt. Ich bin jeden Tag ab 16 Uhr zu Hause. Können Sie bitte kommen? Mit freundlichen Grüßen, Anna Kaya"
+   "sample": "Sehr geehrter Herr Braun, in meiner Wohnung ist die Heizung kaputt. Das Problem gibt es seit Montag und es ist sehr kalt. Ich bin jeden Tag ab 16 Uhr zu Hause. Können Sie bitte kommen? Mit freundlichen Grüßen, Anna Kaya",
+   "formal": true
   },
   {
    "id": "a1-m4",
@@ -475,7 +644,8 @@
     }
    ],
    "minWords": 25,
-   "sample": "Hallo Sara, hast du am Sonntag Zeit? Ich möchte den neuen Film im Kino sehen. Er beginnt um 18 Uhr. Wir treffen uns um Viertel vor sechs vor dem Kino. Schreib mir bitte! Liebe Grüße, Ece"
+   "sample": "Hallo Sara, hast du am Sonntag Zeit? Ich möchte den neuen Film im Kino sehen. Er beginnt um 18 Uhr. Wir treffen uns um Viertel vor sechs vor dem Kino. Schreib mir bitte! Liebe Grüße, Ece",
+   "formal": false
   },
   {
    "id": "a1-m5",
@@ -532,7 +702,8 @@
     }
    ],
    "minWords": 25,
-   "sample": "Liebe Tante Ayşe, vielen Dank für das Geschenk! Der Schal ist sehr schön und warm, er gefällt mir sehr. Möchtest du am Sonntag zum Essen kommen? Ich koche für dich. Viele Grüße, deine Selin"
+   "sample": "Liebe Tante Ayşe, vielen Dank für das Geschenk! Der Schal ist sehr schön und warm, er gefällt mir sehr. Möchtest du am Sonntag zum Essen kommen? Ich koche für dich. Viele Grüße, deine Selin",
+   "formal": false
   },
   {
    "id": "a1-m6",
@@ -583,7 +754,940 @@
     }
    ],
    "minWords": 25,
-   "sample": "Sehr geehrte Damen und Herren, haben Sie vom 3. bis 6. Juli ein Einzelzimmer frei? Was kostet das Zimmer pro Nacht? Ist das Frühstück inklusive? Vielen Dank für Ihre Antwort. Mit freundlichen Grüßen, Can Öztürk"
+   "sample": "Sehr geehrte Damen und Herren, haben Sie vom 3. bis 6. Juli ein Einzelzimmer frei? Was kostet das Zimmer pro Nacht? Ist das Frühstück inklusive? Vielen Dank für Ihre Antwort. Mit freundlichen Grüßen, Can Öztürk",
+   "formal": true
+  },
+  {
+   "id": "a2-m1",
+   "level": "A2",
+   "kind": "message",
+   "title": {
+    "tr": "Mesaj: Akşam yemeğine geç kalıyorum",
+    "en": "Message: I'm late for dinner"
+   },
+   "prompt": "Sie sind heute Abend bei Ihrer Freundin Julia zum Essen eingeladen, aber Sie kommen später. Schreiben Sie Julia eine Nachricht.",
+   "help": {
+    "tr": "Neden geç kaldığını, ne zaman geleceğini yaz ve bir şey getirip getirmeyeceğini sor.",
+    "en": "Say why you are late and when you will come, and ask if you should bring something."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Neden geç",
+      "en": "Why late"
+     },
+     "say": "Ich komme später, weil ich länger arbeiten muss.",
+     "keys": [
+      "weil",
+      "leider",
+      "später",
+      "muss"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Ne zaman",
+      "en": "When"
+     },
+     "say": "Ich bin um halb acht bei dir.",
+     "keys": [
+      "uhr",
+      "halb",
+      "viertel",
+      "minuten"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Bir şey getireyim mi",
+      "en": "Shall I bring something"
+     },
+     "say": "Soll ich etwas mitbringen?",
+     "keys": [
+      "mitbringen",
+      "soll ich",
+      "brauchst du"
+     ]
+    }
+   ],
+   "minWords": 30,
+   "sample": "Hallo Julia, es tut mir leid, aber ich komme heute später, weil ich länger arbeiten muss. Ich bin um halb acht bei dir. Soll ich noch etwas mitbringen, vielleicht Brot oder einen Nachtisch? Liebe Grüße, Deniz",
+   "formal": false
+  },
+  {
+   "id": "a2-m2",
+   "level": "A2",
+   "kind": "message",
+   "title": {
+    "tr": "E-posta: Komşulara parti haberi",
+    "en": "E-mail: telling the neighbours about a party"
+   },
+   "prompt": "Sie machen am Samstag eine Party in Ihrer Wohnung. Schreiben Sie Ihrer Nachbarin, Frau Klein, eine E-Mail.",
+   "help": {
+    "tr": "Partiyi haber ver, gürültü için özür dile ve onu da davet et.",
+    "en": "Tell her about the party, apologise for the noise and invite her too."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Parti",
+      "en": "The party"
+     },
+     "say": "Am Samstag mache ich eine Party.",
+     "keys": [
+      "party",
+      "feier",
+      "feiern",
+      "geburtstag"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Özür",
+      "en": "Apology"
+     },
+     "say": "Es tut mir leid, wenn es laut wird.",
+     "keys": [
+      "tut mir leid",
+      "entschuldigung",
+      "laut",
+      "lärm"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Davet",
+      "en": "Invitation"
+     },
+     "say": "Möchten Sie auch kommen?",
+     "keys": [
+      "möchten sie",
+      "kommen sie",
+      "einladen",
+      "eingeladen",
+      "herzlich willkommen"
+     ]
+    }
+   ],
+   "minWords": 40,
+   "sample": "Sehr geehrte Frau Klein, am Samstag feiere ich meinen Geburtstag und mache ab 19 Uhr eine kleine Party in meiner Wohnung. Es tut mir leid, wenn es etwas laut wird. Um 23 Uhr machen wir die Musik leiser. Möchten Sie auch kommen? Sie sind herzlich eingeladen. Mit freundlichen Grüßen, Emre Yıldız",
+   "formal": true
+  },
+  {
+   "id": "a2-m3",
+   "level": "A2",
+   "kind": "message",
+   "title": {
+    "tr": "E-posta: Yanlış ürün geldi",
+    "en": "E-mail: the wrong product arrived"
+   },
+   "prompt": "Sie haben im Online-Shop „Modehaus Berg“ eine blaue Jacke bestellt, aber eine rote bekommen. Schreiben Sie dem Kundenservice eine E-Mail.",
+   "help": {
+    "tr": "Ne sipariş ettiğini, ne geldiğini yaz ve ne istediğini söyle (değişim ya da para iadesi).",
+    "en": "Say what you ordered and what arrived, and what you want (an exchange or your money back)."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Sipariş",
+      "en": "Your order"
+     },
+     "say": "Ich habe eine blaue Jacke bestellt.",
+     "keys": [
+      "bestellt",
+      "bestellung"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Sorun",
+      "en": "The problem"
+     },
+     "say": "Ich habe aber eine rote Jacke bekommen.",
+     "keys": [
+      "bekommen",
+      "falsch",
+      "geliefert",
+      "rote"
+     ]
+    },
+    {
+     "label": {
+      "tr": "İsteğin",
+      "en": "What you want"
+     },
+     "say": "Ich möchte die Jacke umtauschen.",
+     "keys": [
+      "umtauschen",
+      "zurückschicken",
+      "geld zurück",
+      "zurück"
+     ]
+    }
+   ],
+   "minWords": 40,
+   "sample": "Sehr geehrte Damen und Herren, am 4. März habe ich bei Ihnen eine blaue Jacke in Größe M bestellt. Leider habe ich gestern eine rote Jacke bekommen. Ich möchte die Jacke gern umtauschen. Können Sie mir bitte die blaue Jacke schicken? Mit freundlichen Grüßen, Aylin Koç",
+   "formal": true
+  },
+  {
+   "id": "a2-m4",
+   "level": "A2",
+   "kind": "message",
+   "title": {
+    "tr": "Mesaj: Tren rötar yaptı",
+    "en": "Message: the train is late"
+   },
+   "prompt": "Sie sind mit Ihrem Kollegen Jonas zu einem Termin verabredet. Ihr Zug hat Verspätung. Schreiben Sie Jonas eine Nachricht.",
+   "help": {
+    "tr": "Ne olduğunu, ne zaman varacağını yaz ve ondan bir rica et.",
+    "en": "Say what happened and when you will arrive, and ask him for a favour."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Ne oldu",
+      "en": "What happened"
+     },
+     "say": "Mein Zug hat Verspätung.",
+     "keys": [
+      "verspätung",
+      "verpasst",
+      "zug",
+      "bus",
+      "später"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Ne zaman varıyorsun",
+      "en": "When you arrive"
+     },
+     "say": "Ich bin gegen zehn Uhr da.",
+     "keys": [
+      "uhr",
+      "minuten",
+      "gegen"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Rica",
+      "en": "A favour"
+     },
+     "say": "Kannst du bitte schon anfangen?",
+     "keys": [
+      "kannst du",
+      "bitte",
+      "sag"
+     ]
+    }
+   ],
+   "minWords": 30,
+   "sample": "Hallo Jonas, mein Zug hat leider zwanzig Minuten Verspätung und ich habe den Anschluss verpasst. Ich bin gegen zehn Uhr da. Kannst du bitte schon mit dem Kunden anfangen? Bis gleich, Kerem",
+   "formal": false
+  },
+  {
+   "id": "a2-m5",
+   "level": "A2",
+   "kind": "message",
+   "title": {
+    "tr": "E-posta: Hastayım, işe gelemiyorum",
+    "en": "E-mail: I'm ill and can't come to work"
+   },
+   "prompt": "Sie sind krank und können nicht zur Arbeit gehen. Schreiben Sie Ihrem Chef, Herrn Hoffmann, eine E-Mail.",
+   "help": {
+    "tr": "Neyin olduğunu, doktorun ne dediğini ve ne zaman döneceğini yaz.",
+    "en": "Say what is wrong, what the doctor said and when you will be back."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Neyin var",
+      "en": "What's wrong"
+     },
+     "say": "Ich habe Fieber und Halsschmerzen.",
+     "keys": [
+      "krank",
+      "fieber",
+      "schmerzen",
+      "erkältet",
+      "grippe"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Doktor",
+      "en": "The doctor"
+     },
+     "say": "Der Arzt hat gesagt, dass ich zu Hause bleiben muss.",
+     "keys": [
+      "arzt",
+      "ärztin",
+      "krankschreibung",
+      "krankgeschrieben"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Dönüş",
+      "en": "When you are back"
+     },
+     "say": "Ich komme am Montag wieder.",
+     "keys": [
+      "wieder",
+      "montag",
+      "dienstag",
+      "mittwoch",
+      "donnerstag",
+      "freitag",
+      "nächste woche"
+     ]
+    }
+   ],
+   "minWords": 40,
+   "sample": "Sehr geehrter Herr Hoffmann, leider bin ich krank. Ich habe Fieber und starke Halsschmerzen. Ich war heute beim Arzt und er hat gesagt, dass ich bis Freitag zu Hause bleiben muss. Am Montag komme ich wieder zur Arbeit. Die Krankschreibung schicke ich Ihnen per Post. Mit freundlichen Grüßen, Selin Arslan",
+   "formal": true
+  },
+  {
+   "id": "a2-m6",
+   "level": "A2",
+   "kind": "message",
+   "title": {
+    "tr": "E-posta: Staj hakkında bilgi",
+    "en": "E-mail: asking about an internship"
+   },
+   "prompt": "Sie haben eine Anzeige für ein Praktikum in einem Hotel gelesen. Schreiben Sie Frau Schulz von der Firma eine E-Mail.",
+   "help": {
+    "tr": "Kendini kısaca tanıt, çalışma saatlerini sor ve neden ilgilendiğini yaz.",
+    "en": "Introduce yourself briefly, ask about the working hours and say why you are interested."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Tanıtım",
+      "en": "About you"
+     },
+     "say": "Ich bin 22 Jahre alt und lerne Deutsch.",
+     "keys": [
+      "ich bin",
+      "ich heiße",
+      "jahre alt",
+      "ich komme aus"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Saatler",
+      "en": "Working hours"
+     },
+     "say": "Wie sind die Arbeitszeiten?",
+     "keys": [
+      "arbeitszeit",
+      "stunden",
+      "wann"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Neden",
+      "en": "Why"
+     },
+     "say": "Ich interessiere mich für das Praktikum, weil ich gern mit Menschen arbeite.",
+     "keys": [
+      "weil",
+      "interessiere",
+      "gern"
+     ]
+    }
+   ],
+   "minWords": 40,
+   "sample": "Sehr geehrte Frau Schulz, ich habe Ihre Anzeige gelesen und interessiere mich für das Praktikum. Ich bin 22 Jahre alt, komme aus der Türkei und lerne seit einem Jahr Deutsch. Ich möchte im Hotel arbeiten, weil ich gern mit Menschen arbeite. Wie sind die Arbeitszeiten? Mit freundlichen Grüßen, Baran Çelik",
+   "formal": true
+  },
+  {
+   "id": "a2-m7",
+   "level": "A2",
+   "kind": "message",
+   "title": {
+    "tr": "E-posta: Hafta sonu konserdeydim",
+    "en": "E-mail: I was at a concert at the weekend"
+   },
+   "prompt": "Sie waren am Wochenende auf einem Konzert. Schreiben Sie Ihrem Freund Max eine E-Mail.",
+   "help": {
+    "tr": "Nerede olduğunu, nasıl geçtiğini anlat ve onu bir sonraki konsere davet et.",
+    "en": "Say where you were and how it was, and invite him to the next concert."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Nerede",
+      "en": "Where"
+     },
+     "say": "Am Samstag war ich auf einem Konzert im Park.",
+     "keys": [
+      "war ich",
+      "bin ich",
+      "konzert",
+      "gewesen"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Nasıl geçti",
+      "en": "How it was"
+     },
+     "say": "Die Musik war super und es hat viel Spaß gemacht.",
+     "keys": [
+      "war super",
+      "toll",
+      "spaß",
+      "gefallen",
+      "schön"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Davet",
+      "en": "Invitation"
+     },
+     "say": "Hast du Lust, nächsten Monat mitzukommen?",
+     "keys": [
+      "lust",
+      "mitkommen",
+      "mitzukommen",
+      "kommst du"
+     ]
+    }
+   ],
+   "minWords": 40,
+   "sample": "Lieber Max, wie geht es dir? Am Samstag war ich mit Lena auf einem Konzert im Stadtpark. Die Band war super und wir haben viel getanzt. Es hat wirklich Spaß gemacht! Im nächsten Monat spielt die Band wieder. Hast du Lust mitzukommen? Viele Grüße, Ece",
+   "formal": false
+  },
+  {
+   "id": "a2-m8",
+   "level": "A2",
+   "kind": "message",
+   "title": {
+    "tr": "Mesaj: Telefonum bozuldu",
+    "en": "Message: my phone is broken"
+   },
+   "prompt": "Ihr Handy ist kaputt und Sie haben jetzt eine neue Nummer. Schreiben Sie Ihrer Freundin Mia eine Nachricht.",
+   "help": {
+    "tr": "Ne olduğunu yaz, yeni numaranı ver ve fotoğrafları tekrar göndermesini rica et.",
+    "en": "Say what happened, give your new number and ask her to send the photos again."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Ne oldu",
+      "en": "What happened"
+     },
+     "say": "Mein Handy ist kaputt.",
+     "keys": [
+      "kaputt",
+      "funktioniert nicht",
+      "runtergefallen",
+      "heruntergefallen"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Yeni numara",
+      "en": "New number"
+     },
+     "say": "Meine neue Nummer ist 0176 …",
+     "keys": [
+      "nummer"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Fotoğraflar",
+      "en": "The photos"
+     },
+     "say": "Kannst du mir die Fotos noch einmal schicken?",
+     "keys": [
+      "foto",
+      "bilder",
+      "schicken"
+     ]
+    }
+   ],
+   "minWords": 30,
+   "sample": "Hallo Mia, mein Handy ist gestern runtergefallen und jetzt ist es kaputt. Meine neue Nummer ist 0176 5523190. Kannst du mir bitte die Fotos vom Ausflug noch einmal schicken? Danke! Liebe Grüße, Zeynep",
+   "formal": false
+  },
+  {
+   "id": "a2-m9",
+   "level": "A2",
+   "kind": "message",
+   "title": {
+    "tr": "E-posta: Dil kursu hakkında soru",
+    "en": "E-mail: asking about a language course"
+   },
+   "prompt": "Sie möchten einen B1-Kurs an der Sprachschule „Lingua“ machen. Schreiben Sie der Sprachschule eine E-Mail.",
+   "help": {
+    "tr": "Hangi kursu istediğini yaz, saatleri ve fiyatı sor.",
+    "en": "Say which course you want and ask about the times and the price."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Hangi kurs",
+      "en": "Which course"
+     },
+     "say": "Ich möchte gern einen B1-Kurs machen.",
+     "keys": [
+      "kurs",
+      "b1"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Saatler",
+      "en": "Times"
+     },
+     "say": "Wann findet der Kurs statt?",
+     "keys": [
+      "wann",
+      "uhrzeit",
+      "abends",
+      "morgens",
+      "beginnt",
+      "findet"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Fiyat",
+      "en": "Price"
+     },
+     "say": "Was kostet der Kurs?",
+     "keys": [
+      "kostet",
+      "preis",
+      "wie viel",
+      "gebühr"
+     ]
+    }
+   ],
+   "minWords": 40,
+   "sample": "Sehr geehrte Damen und Herren, ich habe einen A2-Kurs gemacht und möchte gern im Herbst einen B1-Kurs bei Ihnen besuchen. Ich arbeite am Tag, deshalb suche ich einen Kurs am Abend. Wann findet der Kurs statt und was kostet er? Vielen Dank für Ihre Antwort. Mit freundlichen Grüßen, Mert Aydın",
+   "formal": true
+  },
+  {
+   "id": "a2-m10",
+   "level": "A2",
+   "kind": "message",
+   "title": {
+    "tr": "Mesaj: Parkı birlikte temizleyelim",
+    "en": "Message: let's clean the park together"
+   },
+   "prompt": "In Ihrem Viertel gibt es am Samstag einen Aufräumtag im Park. Schreiben Sie Ihrem Freund Paul eine Nachricht.",
+   "help": {
+    "tr": "Ne olduğunu, ne zaman başladığını yaz ve ne getirmesi gerektiğini söyle.",
+    "en": "Say what it is and when it starts, and what he should bring."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Ne",
+      "en": "What"
+     },
+     "say": "Am Samstag räumen wir den Park auf.",
+     "keys": [
+      "aufräum",
+      "park",
+      "müll",
+      "sammeln"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Ne zaman",
+      "en": "When"
+     },
+     "say": "Wir treffen uns um zehn Uhr am Eingang.",
+     "keys": [
+      "uhr",
+      "samstag",
+      "treffen"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Ne getirsin",
+      "en": "What to bring"
+     },
+     "say": "Bring bitte Handschuhe mit.",
+     "keys": [
+      "mitbringen",
+      "bring",
+      "handschuhe",
+      "tüten"
+     ]
+    }
+   ],
+   "minWords": 30,
+   "sample": "Hallo Paul, am Samstag gibt es in unserem Viertel einen Aufräumtag. Wir sammeln Müll im Park. Wir treffen uns um zehn Uhr am Eingang. Kommst du mit? Bring bitte Handschuhe mit! Viele Grüße, Lara",
+   "formal": false
+  },
+  {
+   "id": "b1-m1",
+   "level": "B1",
+   "kind": "message",
+   "title": {
+    "tr": "E-posta: Yeni evime taşındım",
+    "en": "E-mail: I have moved"
+   },
+   "prompt": "Sie sind vor kurzem umgezogen. Schreiben Sie Ihrer Freundin Hanna eine E-Mail.",
+   "help": {
+    "tr": "Yeni evini anlat, taşınmanın nasıl geçtiğini yaz ve onu ziyarete davet et; bir tarih öner.",
+    "en": "Describe your new home, say how the move went and invite her to visit; suggest a date."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Yeni ev",
+      "en": "The new home"
+     },
+     "say": "Die Wohnung, die ich gefunden habe, ist hell und hat einen Balkon.",
+     "keys": [
+      "wohnung",
+      "zimmer",
+      "balkon",
+      "haus"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Taşınma",
+      "en": "The move"
+     },
+     "say": "Der Umzug war anstrengend, aber meine Freunde haben mir geholfen.",
+     "keys": [
+      "umzug",
+      "umgezogen",
+      "kartons",
+      "geholfen"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Davet ve tarih",
+      "en": "Invitation and date"
+     },
+     "say": "Hättest du am Samstag, dem 12., Zeit?",
+     "keys": [
+      "besuch",
+      "kommen",
+      "zeit",
+      "samstag",
+      "sonntag",
+      "wochenende"
+     ]
+    }
+   ],
+   "minWords": 80,
+   "sample": "Liebe Hanna, wie geht es dir? Stell dir vor, ich bin endlich umgezogen! Die Wohnung, die ich gefunden habe, liegt im Zentrum. Sie ist hell, hat drei Zimmer und einen kleinen Balkon, auf dem ich morgens Kaffee trinke. Der Umzug war ziemlich anstrengend, weil wir keinen Aufzug haben, aber zum Glück haben mir zwei Freunde geholfen. Jetzt stehen nur noch ein paar Kartons im Flur. Hättest du Lust, mich zu besuchen? Wie wäre es mit Samstag, dem 12.? Ich koche für uns. Liebe Grüße, Ayla",
+   "formal": false
+  },
+  {
+   "id": "b1-m2",
+   "level": "B1",
+   "kind": "message",
+   "title": {
+    "tr": "E-posta: Tatilden selamlar",
+    "en": "E-mail: greetings from my holiday"
+   },
+   "prompt": "Sie haben eine Reise gemacht, aber nicht alles hat geklappt. Schreiben Sie Ihrem Freund Lukas eine E-Mail.",
+   "help": {
+    "tr": "Nereye gittiğini, neyin iyi neyin kötü gittiğini yaz ve bir sonraki yolculuk için öneride bulun.",
+    "en": "Say where you went, what went well and what went wrong, and suggest the next trip together."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Nereye",
+      "en": "Where"
+     },
+     "say": "Letzte Woche war ich in Wien.",
+     "keys": [
+      "war ich",
+      "bin",
+      "gefahren",
+      "gereist",
+      "reise"
+     ]
+    },
+    {
+     "label": {
+      "tr": "İyi ve kötü",
+      "en": "Good and bad"
+     },
+     "say": "Obwohl der Zug Verspätung hatte, war die Stadt wunderschön.",
+     "keys": [
+      "obwohl",
+      "leider",
+      "verspätung",
+      "aber",
+      "schön"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Öneri",
+      "en": "Suggestion"
+     },
+     "say": "Nächstes Mal könnten wir zusammen fahren.",
+     "keys": [
+      "nächstes mal",
+      "zusammen",
+      "könnten wir",
+      "hast du lust"
+     ]
+    }
+   ],
+   "minWords": 80,
+   "sample": "Hallo Lukas, ich bin gerade aus Wien zurückgekommen und muss dir unbedingt erzählen, wie es war. Die Stadt ist wunderschön: Wir haben viele Museen besucht und jeden Tag in einem anderen Café gesessen. Leider hatte unser Zug auf der Hinfahrt drei Stunden Verspätung, und am zweiten Tag hat es nur geregnet. Obwohl nicht alles geklappt hat, möchte ich unbedingt noch einmal hinfahren. Nächstes Mal könnten wir zusammen fahren, vielleicht im Frühling, wenn es wärmer ist? Hast du Lust? Viele Grüße, Burak",
+   "formal": false
+  },
+  {
+   "id": "b1-m3",
+   "level": "B1",
+   "kind": "message",
+   "title": {
+    "tr": "Forum: Evden çalışmak",
+    "en": "Forum: working from home"
+   },
+   "prompt": "In einem Online-Forum wird gefragt: „Ist Homeoffice besser als Arbeiten im Büro?“ Schreiben Sie Ihre Meinung.",
+   "help": {
+    "tr": "Görüşünü söyle, gerekçe ver ve kendi deneyiminden bir örnek ekle.",
+    "en": "Give your opinion, give reasons and add an example from your own experience."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Görüş",
+      "en": "Opinion"
+     },
+     "say": "Meiner Meinung nach ist eine Mischung am besten.",
+     "keys": [
+      "meiner meinung",
+      "ich finde",
+      "ich denke",
+      "ich bin der meinung",
+      "meines erachtens"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Gerekçe",
+      "en": "Reasons"
+     },
+     "say": "Einerseits spart man Zeit, andererseits fehlt der Kontakt.",
+     "keys": [
+      "weil",
+      "denn",
+      "einerseits",
+      "andererseits",
+      "vorteil",
+      "nachteil"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Deneyim",
+      "en": "Your experience"
+     },
+     "say": "Ich selbst arbeite zweimal pro Woche zu Hause.",
+     "keys": [
+      "ich selbst",
+      "bei mir",
+      "meine erfahrung",
+      "ich arbeite"
+     ]
+    }
+   ],
+   "minWords": 80,
+   "sample": "Hallo zusammen, meiner Meinung nach ist eine Mischung aus Homeoffice und Büro am besten. Einerseits spart man im Homeoffice viel Zeit, weil man nicht pendeln muss, und man kann sich besser konzentrieren. Andererseits fehlt der Kontakt zu den Kollegen, und manche Probleme lassen sich im Gespräch schneller lösen. Ich selbst arbeite zweimal pro Woche zu Hause und an den anderen Tagen im Büro. So habe ich Ruhe für schwierige Aufgaben und trotzdem genug Austausch im Team. Das funktioniert für mich sehr gut. Viele Grüße, Elif",
+   "formal": false
+  },
+  {
+   "id": "b1-m4",
+   "level": "B1",
+   "kind": "message",
+   "title": {
+    "tr": "Forum: Çocuklar ve akıllı telefon",
+    "en": "Forum: children and smartphones"
+   },
+   "prompt": "In einem Online-Forum wird diskutiert: „Sollten Kinder unter zwölf Jahren ein eigenes Smartphone haben?“ Schreiben Sie Ihre Meinung.",
+   "help": {
+    "tr": "Görüşünü söyle, avantaj ve dezavantaj say, bir öneride bulun.",
+    "en": "Give your opinion, name advantages and disadvantages, make a suggestion."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Görüş",
+      "en": "Opinion"
+     },
+     "say": "Ich finde, dass Kinder erst später ein Smartphone brauchen.",
+     "keys": [
+      "meiner meinung",
+      "ich finde",
+      "ich denke",
+      "ich bin der meinung"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Artı ve eksi",
+      "en": "Pros and cons"
+     },
+     "say": "Ein Vorteil ist …, ein Nachteil ist …",
+     "keys": [
+      "vorteil",
+      "nachteil",
+      "einerseits",
+      "andererseits",
+      "gefahr"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Öneri",
+      "en": "Suggestion"
+     },
+     "say": "Eltern sollten klare Regeln machen.",
+     "keys": [
+      "sollten",
+      "regeln",
+      "vorschlag",
+      "am besten"
+     ]
+    }
+   ],
+   "minWords": 80,
+   "sample": "Hallo zusammen, ich finde, dass Kinder unter zwölf Jahren noch kein eigenes Smartphone brauchen. Ein Vorteil ist natürlich, dass Eltern ihre Kinder immer erreichen können. Ein großer Nachteil ist aber, dass viele Kinder zu viel Zeit am Bildschirm verbringen und weniger draußen spielen. Außerdem gibt es im Internet Gefahren, die Kinder noch nicht verstehen. Am besten wäre ein einfaches Handy zum Telefonieren. Wenn Kinder doch ein Smartphone bekommen, sollten Eltern klare Regeln machen, zum Beispiel kein Handy beim Essen und am Abend. Viele Grüße, Murat",
+   "formal": false
+  },
+  {
+   "id": "b1-m5",
+   "level": "B1",
+   "kind": "message",
+   "title": {
+    "tr": "E-posta: Toplantıya katılamıyorum",
+    "en": "E-mail: I can't come to the meeting"
+   },
+   "prompt": "Sie können nicht zu einem wichtigen Termin mit Ihrer Kursleiterin, Frau Dr. Neumann, kommen. Schreiben Sie ihr eine E-Mail.",
+   "help": {
+    "tr": "Kibarca özür dile, nedenini yaz ve yeni bir tarih öner.",
+    "en": "Apologise politely, give the reason and suggest a new date."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Özür",
+      "en": "Apology"
+     },
+     "say": "Leider kann ich am Donnerstag nicht kommen.",
+     "keys": [
+      "leider",
+      "entschuldigung",
+      "tut mir leid",
+      "entschuldigen"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Neden",
+      "en": "Reason"
+     },
+     "say": "Ich muss an dem Tag arbeiten.",
+     "keys": [
+      "weil",
+      "da ich",
+      "muss",
+      "termin"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Yeni tarih",
+      "en": "New date"
+     },
+     "say": "Wäre es möglich, das Gespräch zu verschieben?",
+     "keys": [
+      "verschieben",
+      "anderen termin",
+      "möglich",
+      "nächste woche"
+     ]
+    }
+   ],
+   "minWords": 40,
+   "sample": "Sehr geehrte Frau Dr. Neumann, leider kann ich am Donnerstag nicht zu unserem Gespräch kommen, weil ich an diesem Tag kurzfristig arbeiten muss. Das tut mir sehr leid. Wäre es möglich, den Termin auf nächste Woche zu verschieben? Mit freundlichen Grüßen, Can Yılmaz",
+   "formal": true
+  },
+  {
+   "id": "b1-m6",
+   "level": "B1",
+   "kind": "message",
+   "title": {
+    "tr": "E-posta: Gönüllü olmak istiyorum",
+    "en": "E-mail: I would like to volunteer"
+   },
+   "prompt": "Ein Verein sucht Freiwillige für ein Stadtfest. Schreiben Sie Herrn Becker vom Verein eine E-Mail.",
+   "help": {
+    "tr": "Kendini tanıt, neden katılmak istediğini yaz ve bir şey sor.",
+    "en": "Introduce yourself, say why you want to take part and ask a question."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Tanıtım",
+      "en": "About you"
+     },
+     "say": "Ich heiße … und wohne seit zwei Jahren in der Stadt.",
+     "keys": [
+      "ich heiße",
+      "mein name",
+      "ich bin",
+      "ich wohne"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Neden",
+      "en": "Why"
+     },
+     "say": "Ich möchte mithelfen, weil ich neue Leute kennenlernen will.",
+     "keys": [
+      "weil",
+      "möchte",
+      "gern",
+      "interessiere"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Soru",
+      "en": "Question"
+     },
+     "say": "Könnten Sie mir sagen, wann die Helfer da sein müssen?",
+     "keys": [
+      "könnten sie",
+      "ob",
+      "wann",
+      "wie viele",
+      "frage"
+     ]
+    }
+   ],
+   "minWords": 40,
+   "sample": "Sehr geehrter Herr Becker, mein Name ist Selin Kaya und ich wohne seit zwei Jahren in der Stadt. Ich möchte beim Stadtfest gern mithelfen, weil ich neue Leute kennenlernen will. Könnten Sie mir sagen, wann die Helfer da sein müssen? Mit freundlichen Grüßen, Selin Kaya",
+   "formal": true
   }
  ]
 }

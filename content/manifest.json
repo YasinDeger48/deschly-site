@@ -1,8 +1,8 @@
 {
  "files": {
   "a1.json": {
-   "sha256": "620c0f8de3a9ab6bbd7da473836d5a6fbd0564ca68cb968b5898a927169bb4b7",
-   "size": 850610
+   "sha256": "e75c9d19efd70f29ddc36fcec11b9ff03782730e78fb5f1fadc9735fa8a32e4f",
+   "size": 912264
   },
   "a2.json": {
    "sha256": "24c1b5ad9f16639fe3eac79e91a66ffbea63a005a0d0e28891ce625435bde982",
@@ -996,13 +996,21 @@
    "sha256": "8422a305883172dc48bafcb78013dd1efaee3d6a1324055c2a7ac214f9fc2628",
    "size": 399054
   },
+  "memorize.json": {
+   "sha256": "9ec58d6afe8a2671d2b921a28160a961bc6627453984a1acb516218b80cad6d6",
+   "size": 25910
+  },
   "speaking.json": {
    "sha256": "79d34110f593f3af8177b3795f7941d60aaf35bed0cd1515169f5801dbf7af5f",
    "size": 79885
   },
+  "units.json": {
+   "sha256": "25b804971587a53b2eefaa5c3b61da4680e6867871a5548c7b121e8a5ff7cb4d",
+   "size": 83099
+  },
   "writing.json": {
-   "sha256": "cbd0beabac5bfaa1a7fa43f1fc174b53affb551e742d1eb36d15b14012b742b7",
-   "size": 12513
+   "sha256": "b1d1466e1ba4efb2dcd13f9f832e0346cf5be3837d0269fbd240d7d2c65dadb5",
+   "size": 41573
   }
  },
  "schema": 2
