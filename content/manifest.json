@@ -1,20 +1,20 @@
 {
  "files": {
   "a1.json": {
-   "sha256": "d089f6c088d6e390f5d65ef996330d6921978d1aad5280ac74b4ce0593f9996d",
-   "size": 1865318
+   "sha256": "c4356a0ad1c9889870ca56cce24202031a6a51b6543b13a6ae89b4213ed65590",
+   "size": 1896289
   },
   "a2.json": {
-   "sha256": "abc058ada50304b4a7555a0ac6237dbc85cad907159ed16e623a90c7941cc638",
-   "size": 654891
+   "sha256": "d645598781cb635babafe134b53bb0d4eaac32c8f7151d1830714f04f572a321",
+   "size": 951891
   },
   "b1.json": {
-   "sha256": "ee2582936505d64e36e2f3288d15c7a0d46abc12c063585e110686e64ae1fbe7",
-   "size": 765640
+   "sha256": "04cf3618997f238dee94ac2aac6d3ce236cda281db568e355ae6a6b7414b4aef",
+   "size": 767602
   },
   "b2.json": {
-   "sha256": "39eb04c08677cf5088b16b3593bc4b33247eb62a621322e7398fff2785b4eb11",
-   "size": 912622
+   "sha256": "5ce3b1d45616709933d7f1826004d474baad3821bb5773a76c9be1a76ad99dd7",
+   "size": 914097
   },
   "covers/a1-001.jpg": {
    "sha256": "ffb61825043c584137a13b60dcd40bb90f990877601702f9f6c6a4dc6cc8f2db",
@@ -1901,44 +1901,44 @@
    "size": 12380
   },
   "daily_a1.json": {
-   "sha256": "adf339ae42d211ab23563f66c8dfbc20373c734e7271aa760fb43f579bf563c2",
-   "size": 329596
+   "sha256": "0601a2014c8a889e4418a2c17dc058f2ab375711f20584103ddf9bf7e933820a",
+   "size": 357662
   },
   "daily_a2.json": {
-   "sha256": "ac825e93bed1100d9351ebff901640532c922489062f4df8cf75e14db207c3dd",
-   "size": 241883
+   "sha256": "d42c3c528a6f89555633b44310719722f970252757f1818769e61242fa92676e",
+   "size": 341601
   },
   "daily_b1.json": {
-   "sha256": "df9858a3b6c4890d74d7a4758abc419c9823458df1d7daa6086ace00f46610e2",
-   "size": 325438
+   "sha256": "3dce283dcaa74e65697d39d5a4a466594f4883f6865d0e3bf8001261f541d6f7",
+   "size": 343554
   },
   "daily_b2.json": {
-   "sha256": "59749a35bde6bcd882aaef1c5218a33e2e226a3ea172520d2a29c4e237bd82f3",
-   "size": 454761
+   "sha256": "eb3792342eed88c5d7c5f856785f1ce021d3d225e382a92ff80ba520d139db2e",
+   "size": 476369
   },
   "lexicon.json": {
-   "sha256": "6d903779378e14a0cd9bc9020c4906df0521c418d081da475213c7032645dd6b",
-   "size": 629905
+   "sha256": "9eb5a90a7a0eaf923b0add3d27f8baff0a973d29db3bf0348ac598489b5cf0f9",
+   "size": 707628
   },
   "memorize.json": {
-   "sha256": "ee506dc21dc447e50983ff5f51e7fdf528a28ee6aff17e5430ea88a2305e369e",
-   "size": 32503
+   "sha256": "a63a5aaef2e772f2f8cd37e31b1e635b82ceac9d0f95640289c3472edfdc18b0",
+   "size": 45478
   },
   "speaking.json": {
-   "sha256": "50d833f45952b8eb96ab6e4d4bcb884fb22fc2e96be776428743db376eaf10d9",
-   "size": 103209
+   "sha256": "4e519d150eefb62fa58dc473d6addcebd83bf0d3ded7ac29c303c939809c25f2",
+   "size": 140362
   },
   "units.json": {
-   "sha256": "93cba0790bc017f8f91cb3bf02f8a7f4bc8b5ede1901647e3b1543262ab69ab0",
-   "size": 163960
+   "sha256": "8b99a29d7ff3e2e0652dfe2f6901a6dcd0753bc0cf37da9cabc68fb00f42c67c",
+   "size": 279272
   },
   "verbs_a1.json": {
-   "sha256": "f14206466641912c0e3a4c77379dcf8a2c39450071332cea162c6bb0c3b013a5",
-   "size": 36406
+   "sha256": "50486ef8f94c6369db4d934081d8f105fa5832c75525a4020339f9d1601ab5af",
+   "size": 82319
   },
   "writing.json": {
-   "sha256": "988620bb9bf42de08dca81509a9fca512c0da08bfc98370a31d0b00bfbd4b82e",
-   "size": 64539
+   "sha256": "ebb3de6d035078b76f8295af55fcd9cd86884c43dc630a76a957ae8c085ec2e0",
+   "size": 86789
   }
  },
  "schema": 2
