@@ -7,11 +7,15 @@
    "kind": "drill",
    "title": {
     "tr": "sein (olmak)",
-    "en": "sein (to be)"
+    "en": "sein (to be)",
+    "es": "sein (ser/estar)",
+    "ku": "sein (to be)"
    },
    "intro": {
     "tr": "En önemli fiil; düzensizdir, mutlaka ezberle.",
-    "en": "The most important verb; irregular, learn it by heart."
+    "en": "The most important verb; irregular, learn it by heart.",
+    "es": "El verbo más importante; es irregular, apréndelo de memoria.",
+    "ku": "Lêkera herî girîng e; nerêkûpêk e, wê ji ber bike."
    },
    "ask": "sein: {q} ___",
    "rows": [
@@ -54,11 +58,15 @@
    "kind": "drill",
    "title": {
     "tr": "haben (sahip olmak)",
-    "en": "haben (to have)"
+    "en": "haben (to have)",
+    "es": "haben (tener)",
+    "ku": "haben (to have)"
    },
    "intro": {
     "tr": "Perfekt için de gerekir (hat gemacht).",
-    "en": "Also needed for the Perfekt (hat gemacht)."
+    "en": "Also needed for the Perfekt (hat gemacht).",
+    "es": "También se necesita para el Perfekt (hat gemacht).",
+    "ku": "Ji bo Perfekt jî pêwîst e (hat gemacht)."
    },
    "ask": "haben: {q} ___",
    "rows": [
@@ -101,11 +109,18 @@
    "kind": "drill",
    "title": {
     "tr": "Modal fiiller",
-    "en": "Modal verbs"
+    "en": "Modal verbs",
+    "es": "Verbos modales",
+    "ku": "Lêkerên modal",
+    "fr": "Verbes modaux",
+    "it": "Verbi modali",
+    "ar": "الأفعال الناقصة"
    },
    "intro": {
     "tr": "ich ve er aynı: ich kann, er kann. İkinci fiil cümle sonuna gider.",
-    "en": "ich and er are the same: ich kann, er kann. The second verb goes to the end."
+    "en": "ich and er are the same: ich kann, er kann. The second verb goes to the end.",
+    "es": "ich y er son iguales: ich kann, er kann. El segundo verbo va al final.",
+    "ku": "ich û er wek hev in: ich kann, er kann. Lêkera duyemîn diçe dawiya hevokê."
    },
    "ask": "{q} ___",
    "rows": [
@@ -243,11 +258,15 @@
    "kind": "drill",
    "title": {
     "tr": "Düzensiz fiiller",
-    "en": "Irregular verbs"
+    "en": "Irregular verbs",
+    "es": "Verbos irregulares",
+    "ku": "Lêkerên nerêkûpêk"
    },
    "intro": {
     "tr": "er-biçimi ve Perfekt birlikte ezberlenir.",
-    "en": "Learn the er-form and the Perfekt together."
+    "en": "Learn the er-form and the Perfekt together.",
+    "es": "Aprende juntos la forma de er y el Perfekt.",
+    "ku": "Forma er û Perfekt bi hev re fêr bibe."
    },
    "ask": "{q}: er … / Perfekt?",
    "rows": [
@@ -356,11 +375,15 @@
    "kind": "drill",
    "title": {
     "tr": "Artikel tablosu (der/die/das)",
-    "en": "Article table (der/die/das)"
+    "en": "Article table (der/die/das)",
+    "es": "Tabla de artículos (der/die/das)",
+    "ku": "Tabloya artikêlan (der/die/das)"
    },
    "intro": {
     "tr": "Akkusativ'te sadece eril değişir (der → den). Dativ: dem, der, dem, den.",
-    "en": "In the Akkusativ only the masculine changes (der → den). Dativ: dem, der, dem, den."
+    "en": "In the Akkusativ only the masculine changes (der → den). Dativ: dem, der, dem, den.",
+    "es": "En Akkusativ solo cambia el masculino (der → den). Dativ: dem, der, dem, den.",
+    "ku": "Di Akkusativ de tenê forma nêr diguhere (der → den). Dativ: dem, der, dem, den."
    },
    "ask": "{q}: ?",
    "rows": [
@@ -433,11 +456,15 @@
    "kind": "drill",
    "title": {
     "tr": "ein / kein",
-    "en": "ein / kein"
+    "en": "ein / kein",
+    "es": "ein / kein",
+    "ku": "ein / kein"
    },
    "intro": {
     "tr": "kein, ein gibi çekilir; çoğulu da vardır: keine.",
-    "en": "kein works like ein and also has a plural: keine."
+    "en": "kein works like ein and also has a plural: keine.",
+    "es": "kein funciona como ein y también tiene plural: keine.",
+    "ku": "kein mîna ein tê guhertin û forma pirjimar jî heye: keine."
    },
    "ask": "{q}: ?",
    "rows": [
@@ -500,11 +527,15 @@
    "kind": "drill",
    "title": {
     "tr": "Şahıs zamirleri",
-    "en": "Personal pronouns"
+    "en": "Personal pronouns",
+    "es": "Pronombres personales",
+    "ku": "Cînavkên kesane"
    },
    "intro": {
     "tr": "Nominativ → Akkusativ → Dativ: ich → mich → mir.",
-    "en": "Nominativ → Akkusativ → Dativ: ich → mich → mir."
+    "en": "Nominativ → Akkusativ → Dativ: ich → mich → mir.",
+    "es": "Nominativ → Akkusativ → Dativ: ich → mich → mir.",
+    "ku": "Nominativ → Akkusativ → Dativ: ich → mich → mir."
    },
    "ask": "{q}: ?",
    "rows": [
@@ -585,11 +616,15 @@
    "kind": "drill",
    "title": {
     "tr": "İyelik (mein, dein …)",
-    "en": "Possessives (mein, dein …)"
+    "en": "Possessives (mein, dein …)",
+    "es": "Posesivos (mein, dein …)",
+    "ku": "Xwedîtiyê (mein, dein …)"
    },
    "intro": {
     "tr": "Dişil ve çoğulda -e: meine Mutter, meine Eltern.",
-    "en": "Feminine and plural add -e: meine Mutter, meine Eltern."
+    "en": "Feminine and plural add -e: meine Mutter, meine Eltern.",
+    "es": "En femenino y plural se añade -e: meine Mutter, meine Eltern.",
+    "ku": "Ji bo mê û pirjimar -e tê zêdekirin: meine Mutter, meine Eltern."
    },
    "ask": "{q} → ?",
    "rows": [
@@ -647,11 +682,15 @@
    "kind": "drill",
    "title": {
     "tr": "Edatlar: hangi hal?",
-    "en": "Prepositions: which case?"
+    "en": "Prepositions: which case?",
+    "es": "Preposiciones: ¿qué caso?",
+    "ku": "Pêşdaçek: kîjan hal?"
    },
    "intro": {
     "tr": "Dativ: aus, bei, mit, nach, seit, von, zu. Akkusativ: durch, für, gegen, ohne, um. İkili: Wo? Dativ / Wohin? Akkusativ.",
-    "en": "Dativ: aus, bei, mit, nach, seit, von, zu. Akkusativ: durch, für, gegen, ohne, um. Two-way: Wo? Dativ / Wohin? Akkusativ."
+    "en": "Dativ: aus, bei, mit, nach, seit, von, zu. Akkusativ: durch, für, gegen, ohne, um. Two-way: Wo? Dativ / Wohin? Akkusativ.",
+    "es": "Dativ: aus, bei, mit, nach, seit, von, zu. Akkusativ: durch, für, gegen, ohne, um. Dos casos: Wo? Dativ / Wohin? Akkusativ.",
+    "ku": "Dativ: aus, bei, mit, nach, seit, von, zu. Akkusativ: durch, für, gegen, ohne, um. Du halî: Wo? Dativ / Wohin? Akkusativ."
    },
    "ask": "{q} + ?",
    "rows": [
@@ -769,18 +808,24 @@
    "kind": "drill",
    "title": {
     "tr": "Soru kelimeleri",
-    "en": "Question words"
+    "en": "Question words",
+    "es": "Palabras interrogativas",
+    "ku": "Pirsiyarên pirsê"
    },
    "intro": {
     "tr": "W-sorularında fiil ikinci sırada: Wo wohnst du?",
-    "en": "In W-questions the verb comes second: Wo wohnst du?"
+    "en": "In W-questions the verb comes second: Wo wohnst du?",
+    "es": "En las preguntas W, el verbo va en segunda posición: Wo wohnst du?",
+    "ku": "Di pirsên W de lêker di rêza duyemîn de tê: Wo wohnst du?"
    },
    "ask": "{q}",
    "rows": [
     {
      "q": {
       "tr": "Kim?",
-      "en": "Who?"
+      "en": "Who?",
+      "es": "¿Quién?",
+      "ku": "Kî?"
      },
      "a": "Wer?",
      "x": "Wer ist das?"
@@ -788,7 +833,9 @@
     {
      "q": {
       "tr": "Ne?",
-      "en": "What?"
+      "en": "What?",
+      "es": "¿Qué?",
+      "ku": "Çi?"
      },
      "a": "Was?",
      "x": "Was machst du?"
@@ -796,7 +843,9 @@
     {
      "q": {
       "tr": "Nerede?",
-      "en": "Where?"
+      "en": "Where?",
+      "es": "¿Dónde?",
+      "ku": "Li ku derê?"
      },
      "a": "Wo?",
      "x": "Wo wohnst du?"
@@ -804,7 +853,9 @@
     {
      "q": {
       "tr": "Nereye?",
-      "en": "Where to?"
+      "en": "Where to?",
+      "es": "¿Adónde?",
+      "ku": "Ber bi ku ve?"
      },
      "a": "Wohin?",
      "x": "Wohin fährst du?"
@@ -812,7 +863,9 @@
     {
      "q": {
       "tr": "Nereden?",
-      "en": "Where from?"
+      "en": "Where from?",
+      "es": "¿De dónde?",
+      "ku": "Ji ku derê?"
      },
      "a": "Woher?",
      "x": "Woher kommst du?"
@@ -820,7 +873,9 @@
     {
      "q": {
       "tr": "Ne zaman?",
-      "en": "When?"
+      "en": "When?",
+      "es": "¿Cuándo?",
+      "ku": "Kengî?"
      },
      "a": "Wann?",
      "x": "Wann beginnt der Kurs?"
@@ -828,7 +883,9 @@
     {
      "q": {
       "tr": "Nasıl?",
-      "en": "How?"
+      "en": "How?",
+      "es": "¿Cómo?",
+      "ku": "Çawa?"
      },
      "a": "Wie?",
      "x": "Wie heißt du?"
@@ -836,7 +893,9 @@
     {
      "q": {
       "tr": "Neden?",
-      "en": "Why?"
+      "en": "Why?",
+      "es": "¿Por qué?",
+      "ku": "Çima?"
      },
      "a": "Warum?",
      "x": "Warum lernst du Deutsch?"
@@ -844,7 +903,9 @@
     {
      "q": {
       "tr": "Kaç tane?",
-      "en": "How many?"
+      "en": "How many?",
+      "es": "¿Cuántos?",
+      "ku": "Çend?"
      },
      "a": "Wie viele?",
      "x": "Wie viele Kinder hast du?"
@@ -852,7 +913,9 @@
     {
      "q": {
       "tr": "Ne kadar?",
-      "en": "How much?"
+      "en": "How much?",
+      "es": "¿Cuánto?",
+      "ku": "Çiqas?"
      },
      "a": "Wie viel?",
      "x": "Wie viel kostet das?"
@@ -860,7 +923,9 @@
     {
      "q": {
       "tr": "Hangi?",
-      "en": "Which?"
+      "en": "Which?",
+      "es": "¿Cuál?",
+      "ku": "Kîjan?"
      },
      "a": "Welcher / Welche / Welches?",
      "x": "Welche Farbe magst du?"
@@ -868,7 +933,9 @@
     {
      "q": {
       "tr": "Kimi?",
-      "en": "Whom?"
+      "en": "Whom?",
+      "es": "¿A quién?",
+      "ku": "Kîjan kesî?"
      },
      "a": "Wen?",
      "x": "Wen besuchst du?"
@@ -876,7 +943,9 @@
     {
      "q": {
       "tr": "Kime?",
-      "en": "To whom?"
+      "en": "To whom?",
+      "es": "¿A quién?",
+      "ku": "Ji kê re?"
      },
      "a": "Wem?",
      "x": "Wem gehört das?"
@@ -890,144 +959,211 @@
    "kind": "drill",
    "title": {
     "tr": "Günler ve aylar",
-    "en": "Days and months"
+    "en": "Days and months",
+    "es": "Días y meses",
+    "ku": "Roj û meh"
    },
    "intro": {
     "tr": "Günlerde \"am\", aylarda \"im\": am Montag, im Mai.",
-    "en": "Days take \"am\", months \"im\": am Montag, im Mai."
+    "en": "Days take \"am\", months \"im\": am Montag, im Mai.",
+    "es": "Con los días se usa «am» y con los meses «im»: am Montag, im Mai.",
+    "ku": "Rojan \"am\" werdigirin, mehan \"im\": am Montag, im Mai."
    },
    "ask": "{q}",
    "rows": [
     {
      "q": {
       "tr": "Pazartesi",
-      "en": "Monday"
+      "en": "Monday",
+      "es": "lunes",
+      "ku": "Duşem",
+      "fr": "lundi"
      },
      "a": "Montag"
     },
     {
      "q": {
       "tr": "Salı",
-      "en": "Tuesday"
+      "en": "Tuesday",
+      "es": "martes",
+      "ku": "Sêşem",
+      "fr": "mardi",
+      "it": "martedì"
      },
      "a": "Dienstag"
     },
     {
      "q": {
       "tr": "Çarşamba",
-      "en": "Wednesday"
+      "en": "Wednesday",
+      "es": "miércoles",
+      "ku": "Çarşem",
+      "fr": "mercredi"
      },
      "a": "Mittwoch"
     },
     {
      "q": {
       "tr": "Perşembe",
-      "en": "Thursday"
+      "en": "Thursday",
+      "es": "jueves",
+      "ku": "Pêncşem",
+      "fr": "jeudi",
+      "it": "giovedì"
      },
      "a": "Donnerstag"
     },
     {
      "q": {
       "tr": "Cuma",
-      "en": "Friday"
+      "en": "Friday",
+      "es": "viernes",
+      "ku": "Înê",
+      "fr": "vendredi",
+      "it": "venerdì"
      },
      "a": "Freitag"
     },
     {
      "q": {
       "tr": "Cumartesi",
-      "en": "Saturday"
+      "en": "Saturday",
+      "es": "sábado",
+      "ku": "Şemî",
+      "fr": "samedi"
      },
      "a": "Samstag"
     },
     {
      "q": {
       "tr": "Pazar",
-      "en": "Sunday"
+      "en": "Sunday",
+      "es": "domingo",
+      "ku": "Yekşem",
+      "fr": "dimanche",
+      "it": "domenica"
      },
      "a": "Sonntag"
     },
     {
      "q": {
       "tr": "Ocak",
-      "en": "January"
+      "en": "January",
+      "es": "enero",
+      "ku": "Çile",
+      "fr": "janvier"
      },
      "a": "Januar"
     },
     {
      "q": {
       "tr": "Şubat",
-      "en": "February"
+      "en": "February",
+      "es": "febrero",
+      "ku": "Sibat",
+      "fr": "février",
+      "it": "febbraio"
      },
      "a": "Februar"
     },
     {
      "q": {
       "tr": "Mart",
-      "en": "March"
+      "en": "March",
+      "es": "Marzo",
+      "ku": "Adar"
      },
      "a": "März"
     },
     {
      "q": {
       "tr": "Nisan",
-      "en": "April"
+      "en": "April",
+      "es": "Abril",
+      "ku": "Nîsan"
      },
      "a": "April"
     },
     {
      "q": {
       "tr": "Mayıs",
-      "en": "May"
+      "en": "May",
+      "es": "mayo",
+      "ku": "Gulan",
+      "fr": "mai"
      },
      "a": "Mai"
     },
     {
      "q": {
       "tr": "Haziran",
-      "en": "June"
+      "en": "June",
+      "es": "junio",
+      "ku": "Hezîran",
+      "fr": "juin"
      },
      "a": "Juni"
     },
     {
      "q": {
       "tr": "Temmuz",
-      "en": "July"
+      "en": "July",
+      "es": "julio",
+      "ku": "Tîrmeh",
+      "fr": "juillet"
      },
      "a": "Juli"
     },
     {
      "q": {
       "tr": "Ağustos",
-      "en": "August"
+      "en": "August",
+      "es": "agosto",
+      "ku": "Tebax",
+      "fr": "août",
+      "it": "agosto"
      },
      "a": "August"
     },
     {
      "q": {
       "tr": "Eylül",
-      "en": "September"
+      "en": "September",
+      "es": "septiembre",
+      "ku": "Îlon",
+      "fr": "septembre",
+      "it": "settembre"
      },
      "a": "September"
     },
     {
      "q": {
       "tr": "Ekim",
-      "en": "October"
+      "en": "October",
+      "es": "octubre",
+      "ku": "Cotmeh",
+      "fr": "octobre"
      },
      "a": "Oktober"
     },
     {
      "q": {
       "tr": "Kasım",
-      "en": "November"
+      "en": "November",
+      "es": "noviembre",
+      "ku": "Mijdar",
+      "fr": "novembre"
      },
      "a": "November"
     },
     {
      "q": {
       "tr": "Aralık",
-      "en": "December"
+      "en": "December",
+      "es": "diciembre",
+      "ku": "Kanûn",
+      "fr": "décembre",
+      "it": "dicembre"
      },
      "a": "Dezember"
     }
@@ -1040,11 +1176,15 @@
    "kind": "drill",
    "title": {
     "tr": "Saat söyleme",
-    "en": "Telling the time"
+    "en": "Telling the time",
+    "es": "Decir la hora",
+    "ku": "Saet gotin"
    },
    "intro": {
     "tr": "\"halb neun\" = 8:30 (dokuza yarım var)! Resmî: acht Uhr dreißig.",
-    "en": "\"halb neun\" = 8:30 (half to nine)! Formal: acht Uhr dreißig."
+    "en": "\"halb neun\" = 8:30 (half to nine)! Formal: acht Uhr dreißig.",
+    "es": "«halb neun» = 8:30 (¡las ocho y media)! Formal: acht Uhr dreißig.",
+    "ku": "\"halb neun\" = 8:30 (nîv saet kêm ji neh)! Bi fermî: acht Uhr dreißig."
    },
    "ask": "{q} → ?",
    "rows": [
@@ -1097,11 +1237,15 @@
    "kind": "drill",
    "title": {
     "tr": "Sayılar (tuzaklı olanlar)",
-    "en": "Numbers (the tricky ones)"
+    "en": "Numbers (the tricky ones)",
+    "es": "Números (los más complicados)",
+    "ku": "Hejmar (yên dijwar)"
    },
    "intro": {
     "tr": "Birler önce okunur: 21 = einundzwanzig (bir-ve-yirmi).",
-    "en": "Units come first: 21 = einundzwanzig (one-and-twenty)."
+    "en": "Units come first: 21 = einundzwanzig (one-and-twenty).",
+    "es": "Primero van las unidades: 21 = einundzwanzig (uno y veinte).",
+    "ku": "Yekî pêşî tê: 21 = einundzwanzig (yek û bîst)."
    },
    "ask": "{q} = ?",
    "rows": [
@@ -1166,95 +1310,135 @@
    "kind": "drill",
    "title": {
     "tr": "Kurtarıcı cümleler",
-    "en": "Survival phrases"
+    "en": "Survival phrases",
+    "es": "Frases útiles",
+    "ku": "Hevokên alîkar"
    },
    "intro": {
     "tr": "İlk gün işine yarayacak cümleler.",
-    "en": "Phrases you will need on day one."
+    "en": "Phrases you will need on day one.",
+    "es": "Frases que necesitarás desde el primer día.",
+    "ku": "Hevokên ku di roja yekem de dê pêwîst bibin."
    },
    "ask": "{q}",
    "rows": [
     {
      "q": {
       "tr": "Anlamadım.",
-      "en": "I don't understand."
+      "en": "I don't understand.",
+      "es": "No entiendo.",
+      "ku": "Ez fam nakim."
      },
      "a": "Ich verstehe das nicht."
     },
     {
      "q": {
       "tr": "Tekrar eder misiniz?",
-      "en": "Can you repeat that?"
+      "en": "Can you repeat that?",
+      "es": "¿Puedes repetirlo?",
+      "ku": "Dikarî wê dubare bikî?"
      },
      "a": "Können Sie das bitte wiederholen?"
     },
     {
      "q": {
       "tr": "Daha yavaş konuşur musunuz?",
-      "en": "Can you speak more slowly?"
+      "en": "Can you speak more slowly?",
+      "es": "¿Puedes hablar más despacio?",
+      "ku": "Dikarî hêdîtir biaxivî?"
      },
      "a": "Können Sie bitte langsamer sprechen?"
     },
     {
      "q": {
       "tr": "Bu Almancada ne demek?",
-      "en": "What is that in German?"
+      "en": "What is that in German?",
+      "es": "¿Cómo se dice eso en alemán?",
+      "ku": "Ev bi Almanî çi ye?"
      },
      "a": "Was heißt das auf Deutsch?"
     },
     {
      "q": {
       "tr": "Nasıl yazılır?",
-      "en": "How do you spell it?"
+      "en": "How do you spell it?",
+      "es": "¿Cómo se deletrea?",
+      "ku": "Tu çawa wê tîp bi tîp dibêjî?"
      },
      "a": "Wie schreibt man das?"
     },
     {
      "q": {
       "tr": "Affedersiniz!",
-      "en": "Excuse me!"
+      "en": "Excuse me!",
+      "es": "¡Disculpe!",
+      "ku": "Bibore!"
      },
      "a": "Entschuldigung!"
     },
     {
      "q": {
       "tr": "Rica ederim.",
-      "en": "You're welcome."
+      "en": "You're welcome.",
+      "es": "De nada.",
+      "ku": "Ser çavan."
      },
      "a": "Gern geschehen."
     },
     {
      "q": {
       "tr": "Bu ne kadar?",
-      "en": "How much is it?"
+      "en": "How much is it?",
+      "es": "¿Cuánto cuesta?",
+      "ku": "Ev çiqas e?"
      },
      "a": "Wie viel kostet das?"
     },
     {
      "q": {
       "tr": "Tuvalet nerede?",
-      "en": "Where is the toilet?"
+      "en": "Where is the toilet?",
+      "es": "¿Dónde está el baño?",
+      "ku": "Tuvalet li ku ye?",
+      "fr": "Où sont les toilettes ?",
+      "it": "Dov'è la toilette?",
+      "ar": "أين المرحاض؟"
      },
      "a": "Wo ist die Toilette?"
     },
     {
      "q": {
       "tr": "Bilmiyorum.",
-      "en": "I don't know."
+      "en": "I don't know.",
+      "es": "No lo sé.",
+      "ku": "Ez nizanim.",
+      "fr": "Je ne sais pas.",
+      "it": "Non lo so.",
+      "ar": "لا أعرف."
      },
      "a": "Ich weiß es nicht."
     },
     {
      "q": {
       "tr": "Bana yardım edebilir misiniz?",
-      "en": "Can you help me?"
+      "en": "Can you help me?",
+      "es": "¿Puedes ayudarme?",
+      "ku": "Tu dikarî alîkariya min bikî?",
+      "fr": "Tu peux m'aider ?",
+      "it": "Puoi aiutarmi?",
+      "ar": "هل يمكنك مساعدتي؟"
      },
      "a": "Können Sie mir helfen?"
     },
     {
      "q": {
       "tr": "Biraz Almanca konuşuyorum.",
-      "en": "I speak a little German."
+      "en": "I speak a little German.",
+      "es": "Hablo un poco de alemán.",
+      "ku": "Ez hinek almanî diaxivim.",
+      "fr": "Je parle un peu allemand.",
+      "it": "Parlo un po' di tedesco.",
+      "ar": "أتحدث قليلًا بالألمانية."
      },
      "a": "Ich spreche ein bisschen Deutsch."
     }
