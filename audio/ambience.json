@@ -319,6 +319,18 @@
   "s-a1-11-1": "train",
   "s-a1-11-2": "train",
   "s-a1-12-1": "office",
-  "s-a1-12-2": "office"
+  "s-a1-12-2": "office",
+  "s-a2-01-2": "shop",
+  "s-a2-03-1": "shop",
+  "s-a2-03-2": "shop",
+  "s-a2-04-1": "bus",
+  "s-a2-04-2": "bus",
+  "s-a2-06-1": "office",
+  "s-a2-06-2": "office",
+  "s-a2-07-1": "nature",
+  "s-a2-09-1": "school",
+  "s-a2-09-2": "school",
+  "s-a2-10-1": "street",
+  "s-a2-10-2": "rain"
  }
 }
