@@ -156,7 +156,8 @@
    "spelling": "ä",
    "say": {
     "tr": "Açık bir „e“ gibi.",
-    "en": "Like the \"e\" in \"bed\"."
+    "en": "Like the \"e\" in \"bed\".",
+    "es": "Como la «e» de «bed»."
    },
    "examples": [
     "Käse",
@@ -167,7 +168,8 @@
    "spelling": "ö",
    "say": {
     "tr": "Türkçedeki „ö“ gibi.",
-    "en": "Round your lips and say \"e\"."
+    "en": "Round your lips and say \"e\".",
+    "es": "Redondea los labios y di «e»."
    },
    "examples": [
     "schön",
@@ -178,7 +180,8 @@
    "spelling": "ü",
    "say": {
     "tr": "Türkçedeki „ü“ gibi.",
-    "en": "Round your lips and say \"i\"."
+    "en": "Round your lips and say \"i\".",
+    "es": "Redondea los labios y di «i»."
    },
    "examples": [
     "Tür",
@@ -189,7 +192,8 @@
    "spelling": "ß",
    "say": {
     "tr": "Çift „s“ gibi: ss.",
-    "en": "A sharp \"ss\"."
+    "en": "A sharp \"ss\".",
+    "es": "Una «ss» fuerte."
    },
    "examples": [
     "Straße",
@@ -200,7 +204,8 @@
    "spelling": "ei",
    "say": {
     "tr": "„ay“ diye okunur: drei → dray.",
-    "en": "Says \"eye\": drei → \"dry\"."
+    "en": "Says \"eye\": drei → \"dry\".",
+    "es": "Suena como «eye»: drei → «dry»."
    },
    "examples": [
     "drei",
@@ -212,7 +217,8 @@
    "spelling": "ie",
    "say": {
     "tr": "Uzun „i“: Liebe → liibe.",
-    "en": "A long \"ee\": Liebe."
+    "en": "A long \"ee\": Liebe.",
+    "es": "Una «ee» larga: Liebe."
    },
    "examples": [
     "Liebe",
@@ -224,7 +230,8 @@
    "spelling": "eu / äu",
    "say": {
     "tr": "„oy“ diye okunur: heute → hoyte.",
-    "en": "Says \"oy\": heute → \"hoy-te\"."
+    "en": "Says \"oy\": heute → \"hoy-te\".",
+    "es": "Suena como «oy»: heute → «hoy-te»."
    },
    "examples": [
     "heute",
@@ -236,7 +243,8 @@
    "spelling": "au",
    "say": {
     "tr": "„av“ diye okunur: Haus → havs.",
-    "en": "Says \"ow\" as in \"house\"."
+    "en": "Says \"ow\" as in \"house\".",
+    "es": "Suena como «ow» en «house»."
    },
    "examples": [
     "Haus",
@@ -247,7 +255,8 @@
    "spelling": "sch",
    "say": {
     "tr": "„ş“ diye okunur.",
-    "en": "Says \"sh\"."
+    "en": "Says \"sh\".",
+    "es": "Suena como «sh»."
    },
    "examples": [
     "Schule",
@@ -258,7 +267,8 @@
    "spelling": "ch",
    "say": {
     "tr": "a, o, u’dan sonra boğazdan hırıltılı „h“ (Buch); başka yerlerde yumuşak „h“ (ich).",
-    "en": "After a, o, u a throaty sound (Buch); elsewhere a soft hiss (ich)."
+    "en": "After a, o, u a throaty sound (Buch); elsewhere a soft hiss (ich).",
+    "es": "Después de a, o, u tiene un sonido gutural (Buch); en otros casos, un sonido suave (ich)."
    },
    "examples": [
     "Buch",
@@ -270,7 +280,8 @@
    "spelling": "st / sp",
    "say": {
     "tr": "Kelime başında „şt / şp“: Straße → ştrase.",
-    "en": "At the start of a word \"sht / shp\"."
+    "en": "At the start of a word \"sht / shp\".",
+    "es": "Al principio de una palabra suena como «sht / shp»."
    },
    "examples": [
     "Straße",
@@ -281,7 +292,8 @@
    "spelling": "z",
    "say": {
     "tr": "„ts“ diye okunur: Zug → tsuk.",
-    "en": "Says \"ts\": Zug → \"tsook\"."
+    "en": "Says \"ts\": Zug → \"tsook\".",
+    "es": "Suena como «ts»: Zug → «tsook»."
    },
    "examples": [
     "Zug",
@@ -292,7 +304,8 @@
    "spelling": "v",
    "say": {
     "tr": "Çoğunlukla „f“ diye okunur: Vater → fater.",
-    "en": "Usually says \"f\": Vater."
+    "en": "Usually says \"f\": Vater.",
+    "es": "Normalmente suena como «f»: Vater."
    },
    "examples": [
     "Vater",
@@ -303,7 +316,8 @@
    "spelling": "w",
    "say": {
     "tr": "„v“ diye okunur: Wasser → vasser.",
-    "en": "Says \"v\": Wasser."
+    "en": "Says \"v\": Wasser.",
+    "es": "Suena como «v»: Wasser."
    },
    "examples": [
     "Wasser",
@@ -314,7 +328,8 @@
    "spelling": "j",
    "say": {
     "tr": "„y“ diye okunur: ja → ya.",
-    "en": "Says \"y\": ja → \"yah\"."
+    "en": "Says \"y\": ja → \"yah\".",
+    "es": "Suena como «y»: ja → «yah»."
    },
    "examples": [
     "ja",
@@ -325,7 +340,8 @@
    "spelling": "h",
    "say": {
     "tr": "Ünlüden sonra okunmaz, ünlüyü uzatır: Uhr → uur.",
-    "en": "After a vowel it is silent and makes the vowel long."
+    "en": "After a vowel it is silent and makes the vowel long.",
+    "es": "Después de una vocal es muda y alarga la vocal."
    },
    "examples": [
     "Uhr",
@@ -336,7 +352,8 @@
    "spelling": "-er",
    "say": {
     "tr": "Kelime sonunda hafif bir „a“ gibi: Mutter → mutta.",
-    "en": "At the end of a word like a soft \"a\"."
+    "en": "At the end of a word like a soft \"a\".",
+    "es": "Al final de una palabra suena como una «a» suave."
    },
    "examples": [
     "Mutter",
@@ -347,7 +364,8 @@
    "spelling": "-ig",
    "say": {
     "tr": "Kelime sonunda „-iş“ gibi (ich’teki ses).",
-    "en": "At the end like the \"ch\" in ich."
+    "en": "At the end like the \"ch\" in ich.",
+    "es": "Al final suena como la «ch» de ich."
    },
    "examples": [
     "zwanzig",
@@ -358,7 +376,8 @@
    "spelling": "e",
    "say": {
     "tr": "Kelime sonundaki „e“ de okunur: Name → naame.",
-    "en": "A final \"e\" is spoken too: Name."
+    "en": "A final \"e\" is spoken too: Name.",
+    "es": "La «e» final también se pronuncia: Name."
    },
    "examples": [
     "Name",
@@ -371,105 +390,132 @@
    "de": "Hallo!",
    "mean": {
     "tr": "Merhaba!",
-    "en": "Hello!"
+    "en": "Hello!",
+    "es": "¡Hola!"
    }
   },
   {
    "de": "Guten Morgen!",
    "mean": {
     "tr": "Günaydın!",
-    "en": "Good morning!"
+    "en": "Good morning!",
+    "es": "¡Buenos días!"
    }
   },
   {
    "de": "Guten Tag!",
    "mean": {
     "tr": "İyi günler! / Merhaba!",
-    "en": "Good day! / Hello!"
+    "en": "Good day! / Hello!",
+    "es": "¡Buen día! / ¡Hola!"
    }
   },
   {
    "de": "Guten Abend!",
    "mean": {
     "tr": "İyi akşamlar!",
-    "en": "Good evening!"
+    "en": "Good evening!",
+    "es": "¡Buenas tardes!"
    }
   },
   {
    "de": "Gute Nacht!",
    "mean": {
     "tr": "İyi geceler!",
-    "en": "Good night!"
+    "en": "Good night!",
+    "es": "¡Buenas noches!"
    }
   },
   {
    "de": "Tschüss!",
    "mean": {
     "tr": "Hoşça kal!",
-    "en": "Bye!"
+    "en": "Bye!",
+    "es": "¡Hasta luego!"
    }
   },
   {
    "de": "Auf Wiedersehen!",
    "mean": {
     "tr": "Görüşmek üzere! (resmî)",
-    "en": "Goodbye! (formal)"
+    "en": "Goodbye! (formal)",
+    "es": "¡Adiós! (formal)"
    }
   },
   {
    "de": "Danke!",
    "mean": {
     "tr": "Teşekkürler!",
-    "en": "Thank you!"
+    "en": "Thank you!",
+    "es": "¡Gracias!"
    }
   },
   {
    "de": "Bitte!",
    "mean": {
     "tr": "Lütfen! / Rica ederim!",
-    "en": "Please! / You are welcome!"
+    "en": "Please! / You are welcome!",
+    "es": "¡Por favor! / ¡De nada!"
    }
   },
   {
    "de": "Entschuldigung!",
    "mean": {
     "tr": "Affedersiniz!",
-    "en": "Excuse me!"
+    "en": "Excuse me!",
+    "es": "¡Disculpe!",
+    "fr": "Excusez-moi !",
+    "it": "Mi scusi!",
+    "ku": "Bibore!",
+    "ar": "اعذرني!"
    }
   },
   {
    "de": "Wie geht’s?",
    "mean": {
     "tr": "Nasılsın?",
-    "en": "How are you?"
+    "en": "How are you?",
+    "es": "¿Qué tal?",
+    "fr": "Comment vas-tu ?",
+    "it": "Come stai?",
+    "ku": "Tu çawa yî?",
+    "ar": "كيف حالك؟"
    }
   },
   {
    "de": "Gut, danke. Und dir?",
    "mean": {
     "tr": "İyiyim, teşekkürler. Ya sen?",
-    "en": "Fine, thanks. And you?"
+    "en": "Fine, thanks. And you?",
+    "es": "Bien, gracias. ¿Y tú?"
    }
   },
   {
    "de": "Ja. / Nein.",
    "mean": {
     "tr": "Evet. / Hayır.",
-    "en": "Yes. / No."
+    "en": "Yes. / No.",
+    "es": "Sí. / No."
    }
   },
   {
    "de": "Ich verstehe nicht.",
    "mean": {
     "tr": "Anlamıyorum.",
-    "en": "I don't understand."
+    "en": "I don't understand.",
+    "es": "No entiendo.",
+    "fr": "Je ne comprends pas.",
+    "it": "Non capisco.",
+    "ku": "Ez fam nakim.",
+    "ar": "لا أفهم."
    }
   },
   {
    "de": "Noch einmal, bitte.",
    "mean": {
     "tr": "Bir kez daha, lütfen.",
-    "en": "Once more, please."
+    "en": "Once more, please.",
+    "es": "Otra vez, por favor."
    }
   }
  ]

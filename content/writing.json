@@ -926,18 +926,21 @@
    "kind": "message",
    "title": {
     "tr": "Mesaj: Marketten ne alalım?",
-    "en": "Message: what shall we buy?"
+    "en": "Message: what shall we buy?",
+    "es": "Mensaje: ¿qué vamos a comprar?"
    },
    "prompt": "Sie gehen heute einkaufen. Schreiben Sie Ihrem Mitbewohner Jonas eine Nachricht.",
    "help": {
     "tr": "Ne alacağını yaz, ona bir şey isteyip istemediğini sor ve ne zaman eve döneceğini söyle.",
-    "en": "Say what you will buy, ask if he wants something and say when you are back."
+    "en": "Say what you will buy, ask if he wants something and say when you are back.",
+    "es": "Di qué vas a comprar, pregúntale si quiere algo y dile cuándo vuelves."
    },
    "points": [
     {
      "label": {
       "tr": "Ne alacaksın",
-      "en": "What you buy"
+      "en": "What you buy",
+      "es": "Qué compras"
      },
      "say": "Ich kaufe Brot, Milch und Käse.",
      "keys": [
@@ -953,7 +956,8 @@
     {
      "label": {
       "tr": "Ona soru",
-      "en": "Ask him"
+      "en": "Ask him",
+      "es": "Pregúntale"
      },
      "say": "Brauchst du auch etwas?",
      "keys": [

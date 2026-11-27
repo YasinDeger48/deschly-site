@@ -1,0 +1,3672 @@
+{
+ "level": "A1",
+ "songs": [
+  {
+   "id": "a1-lied-01",
+   "title": "Alle meine Entchen",
+   "title_tr": "Bütün ördekçiklerim",
+   "title_en": "All my little ducklings",
+   "bpm": 108,
+   "lines": [
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Alle meine Entchen",
+     "tr": "Bütün ördekçiklerim",
+     "en": "All my little ducklings",
+     "syl": [
+      {
+       "text": "Al",
+       "join": true,
+       "start": 2.222,
+       "end": 2.5
+      },
+      {
+       "text": "le",
+       "join": false,
+       "start": 2.5,
+       "end": 2.778
+      },
+      {
+       "text": "mei",
+       "join": true,
+       "start": 2.778,
+       "end": 3.056
+      },
+      {
+       "text": "ne",
+       "join": false,
+       "start": 3.056,
+       "end": 3.333
+      },
+      {
+       "text": "Ent",
+       "join": true,
+       "start": 3.333,
+       "end": 3.889
+      },
+      {
+       "text": "chen",
+       "join": false,
+       "start": 3.889,
+       "end": 4.444
+      }
+     ],
+     "es": "Todos mis patitos"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "schwimmen auf dem See,",
+     "tr": "gölde yüzüyor,",
+     "en": "swim on the lake,",
+     "syl": [
+      {
+       "text": "schwim",
+       "join": true,
+       "start": 4.444,
+       "end": 4.722
+      },
+      {
+       "text": "men",
+       "join": false,
+       "start": 4.722,
+       "end": 5.0
+      },
+      {
+       "text": "auf",
+       "join": false,
+       "start": 5.0,
+       "end": 5.278
+      },
+      {
+       "text": "dem",
+       "join": false,
+       "start": 5.278,
+       "end": 5.556
+      },
+      {
+       "text": "See,",
+       "join": false,
+       "start": 5.556,
+       "end": 6.667
+      }
+     ],
+     "es": "nadan en el lago,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "schwimmen auf dem See,",
+     "tr": "gölde yüzüyor,",
+     "en": "swim on the lake,",
+     "syl": [
+      {
+       "text": "schwim",
+       "join": true,
+       "start": 6.667,
+       "end": 6.944
+      },
+      {
+       "text": "men",
+       "join": false,
+       "start": 6.944,
+       "end": 7.222
+      },
+      {
+       "text": "auf",
+       "join": false,
+       "start": 7.222,
+       "end": 7.5
+      },
+      {
+       "text": "dem",
+       "join": false,
+       "start": 7.5,
+       "end": 7.778
+      },
+      {
+       "text": "See,",
+       "join": false,
+       "start": 7.778,
+       "end": 8.889
+      }
+     ],
+     "es": "nadan en el lago,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Köpfchen in das Wasser,",
+     "tr": "başları suyun içinde,",
+     "en": "little heads in the water,",
+     "syl": [
+      {
+       "text": "Köpf",
+       "join": true,
+       "start": 8.889,
+       "end": 9.167
+      },
+      {
+       "text": "chen",
+       "join": false,
+       "start": 9.167,
+       "end": 9.444
+      },
+      {
+       "text": "in",
+       "join": false,
+       "start": 9.444,
+       "end": 9.722
+      },
+      {
+       "text": "das",
+       "join": false,
+       "start": 9.722,
+       "end": 10.0
+      },
+      {
+       "text": "Was",
+       "join": true,
+       "start": 10.0,
+       "end": 10.556
+      },
+      {
+       "text": "ser,",
+       "join": false,
+       "start": 10.556,
+       "end": 11.111
+      }
+     ],
+     "es": "con sus cabecitas en el agua,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Schwänzchen in die Höh.",
+     "tr": "kuyrukları havada.",
+     "en": "little tails up high.",
+     "syl": [
+      {
+       "text": "Schwänz",
+       "join": true,
+       "start": 11.111,
+       "end": 11.389
+      },
+      {
+       "text": "chen",
+       "join": false,
+       "start": 11.389,
+       "end": 11.667
+      },
+      {
+       "text": "in",
+       "join": false,
+       "start": 11.667,
+       "end": 11.944
+      },
+      {
+       "text": "die",
+       "join": false,
+       "start": 11.944,
+       "end": 12.222
+      },
+      {
+       "text": "Höh.",
+       "join": false,
+       "start": 12.222,
+       "end": 13.333
+      }
+     ],
+     "es": "y sus colitas bien arriba."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Wo schwimmen die Entchen?",
+     "options": [
+      "Auf dem See",
+      "Im Haus",
+      "Im Bus"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mc",
+     "q": "Was ist im Wasser?",
+     "options": [
+      "Die Köpfchen",
+      "Die Schwänzchen",
+      "Die Füße"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "tf",
+     "q": "Die Schwänzchen sind in der Höh.",
+     "answer": 0
+    }
+   ],
+   "timeline": [
+    {
+     "start": 2.222,
+     "end": 4.444
+    },
+    {
+     "start": 4.444,
+     "end": 6.667
+    },
+    {
+     "start": 6.667,
+     "end": 8.889
+    },
+    {
+     "start": 8.889,
+     "end": 11.111
+    },
+    {
+     "start": 11.111,
+     "end": 13.333
+    }
+   ],
+   "duration": 15.83,
+   "audio": "songs/a1-lied-01.mp3",
+   "hash": "daf35fed6f8c8588"
+  },
+  {
+   "id": "a1-lied-02",
+   "title": "Bruder Jakob",
+   "title_tr": "Yakup kardeş",
+   "title_en": "Brother Jacob",
+   "bpm": 108,
+   "lines": [
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Bruder Jakob,",
+     "tr": "Yakup kardeş,",
+     "en": "Brother Jacob,",
+     "syl": [
+      {
+       "text": "Bru",
+       "join": true,
+       "start": 2.222,
+       "end": 2.778
+      },
+      {
+       "text": "der",
+       "join": false,
+       "start": 2.778,
+       "end": 3.333
+      },
+      {
+       "text": "Ja",
+       "join": true,
+       "start": 3.333,
+       "end": 3.889
+      },
+      {
+       "text": "kob,",
+       "join": false,
+       "start": 3.889,
+       "end": 4.444
+      }
+     ],
+     "es": "Hermano Jacob,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Bruder Jakob,",
+     "tr": "Yakup kardeş,",
+     "en": "Brother Jacob,",
+     "syl": [
+      {
+       "text": "Bru",
+       "join": true,
+       "start": 4.444,
+       "end": 5.0
+      },
+      {
+       "text": "der",
+       "join": false,
+       "start": 5.0,
+       "end": 5.556
+      },
+      {
+       "text": "Ja",
+       "join": true,
+       "start": 5.556,
+       "end": 6.111
+      },
+      {
+       "text": "kob,",
+       "join": false,
+       "start": 6.111,
+       "end": 6.667
+      }
+     ],
+     "es": "Hermano Jacob,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "schläfst du noch?",
+     "tr": "hâlâ uyuyor musun?",
+     "en": "are you still asleep?",
+     "syl": [
+      {
+       "text": "schläfst",
+       "join": false,
+       "start": 6.667,
+       "end": 7.222
+      },
+      {
+       "text": "du",
+       "join": false,
+       "start": 7.222,
+       "end": 7.778
+      },
+      {
+       "text": "noch?",
+       "join": false,
+       "start": 7.778,
+       "end": 8.889
+      }
+     ],
+     "es": "¿todavía estás dormido?"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "schläfst du noch?",
+     "tr": "hâlâ uyuyor musun?",
+     "en": "are you still asleep?",
+     "syl": [
+      {
+       "text": "schläfst",
+       "join": false,
+       "start": 8.889,
+       "end": 9.444
+      },
+      {
+       "text": "du",
+       "join": false,
+       "start": 9.444,
+       "end": 10.0
+      },
+      {
+       "text": "noch?",
+       "join": false,
+       "start": 10.0,
+       "end": 11.111
+      }
+     ],
+     "es": "¿todavía estás dormido?"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Hörst du nicht die Glocken?",
+     "tr": "Çanları duymuyor musun?",
+     "en": "Don't you hear the bells?",
+     "syl": [
+      {
+       "text": "Hörst",
+       "join": false,
+       "start": 11.111,
+       "end": 11.528
+      },
+      {
+       "text": "du",
+       "join": false,
+       "start": 11.528,
+       "end": 11.667
+      },
+      {
+       "text": "nicht",
+       "join": false,
+       "start": 11.667,
+       "end": 11.944
+      },
+      {
+       "text": "die",
+       "join": false,
+       "start": 11.944,
+       "end": 12.222
+      },
+      {
+       "text": "Glo",
+       "join": true,
+       "start": 12.222,
+       "end": 12.778
+      },
+      {
+       "text": "cken?",
+       "join": false,
+       "start": 12.778,
+       "end": 13.333
+      }
+     ],
+     "es": "¿No oyes las campanas?"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Hörst du nicht die Glocken?",
+     "tr": "Çanları duymuyor musun?",
+     "en": "Don't you hear the bells?",
+     "syl": [
+      {
+       "text": "Hörst",
+       "join": false,
+       "start": 13.333,
+       "end": 13.75
+      },
+      {
+       "text": "du",
+       "join": false,
+       "start": 13.75,
+       "end": 13.889
+      },
+      {
+       "text": "nicht",
+       "join": false,
+       "start": 13.889,
+       "end": 14.167
+      },
+      {
+       "text": "die",
+       "join": false,
+       "start": 14.167,
+       "end": 14.444
+      },
+      {
+       "text": "Glo",
+       "join": true,
+       "start": 14.444,
+       "end": 15.0
+      },
+      {
+       "text": "cken?",
+       "join": false,
+       "start": 15.0,
+       "end": 15.556
+      }
+     ],
+     "es": "¿No oyes las campanas?"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Ding, dang, dong.",
+     "tr": "Ding, dang, dong.",
+     "en": "Ding, dang, dong.",
+     "syl": [
+      {
+       "text": "Ding,",
+       "join": false,
+       "start": 15.556,
+       "end": 16.111
+      },
+      {
+       "text": "dang,",
+       "join": false,
+       "start": 16.111,
+       "end": 16.667
+      },
+      {
+       "text": "dong.",
+       "join": false,
+       "start": 16.667,
+       "end": 17.778
+      }
+     ],
+     "es": "Din, dan, don."
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Ding, dang, dong.",
+     "tr": "Ding, dang, dong.",
+     "en": "Ding, dang, dong.",
+     "syl": [
+      {
+       "text": "Ding,",
+       "join": false,
+       "start": 17.778,
+       "end": 18.333
+      },
+      {
+       "text": "dang,",
+       "join": false,
+       "start": 18.333,
+       "end": 18.889
+      },
+      {
+       "text": "dong.",
+       "join": false,
+       "start": 18.889,
+       "end": 20.0
+      }
+     ],
+     "es": "Din, dan, don."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Was macht Bruder Jakob?",
+     "options": [
+      "Er schläft.",
+      "Er isst.",
+      "Er singt."
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mc",
+     "q": "Was hört man?",
+     "options": [
+      "Die Glocken",
+      "Den Hund",
+      "Das Auto"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "tf",
+     "q": "Die Glocken machen „ding, dang, dong“.",
+     "answer": 0
+    }
+   ],
+   "timeline": [
+    {
+     "start": 2.222,
+     "end": 4.444
+    },
+    {
+     "start": 4.444,
+     "end": 6.667
+    },
+    {
+     "start": 6.667,
+     "end": 8.889
+    },
+    {
+     "start": 8.889,
+     "end": 11.111
+    },
+    {
+     "start": 11.111,
+     "end": 13.333
+    },
+    {
+     "start": 13.333,
+     "end": 15.556
+    },
+    {
+     "start": 15.556,
+     "end": 17.778
+    },
+    {
+     "start": 17.778,
+     "end": 20.0
+    }
+   ],
+   "duration": 22.5,
+   "audio": "songs/a1-lied-02.mp3",
+   "hash": "13974087e24bebbe"
+  },
+  {
+   "id": "a1-lied-03",
+   "title": "Hänschen klein",
+   "title_tr": "Küçük Hans",
+   "title_en": "Little Hans",
+   "bpm": 100,
+   "lines": [
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Hänschen klein ging allein",
+     "tr": "Küçük Hans tek başına",
+     "en": "Little Hans went off alone",
+     "syl": [
+      {
+       "text": "Häns",
+       "join": true,
+       "start": 1.2,
+       "end": 1.5
+      },
+      {
+       "text": "chen",
+       "join": false,
+       "start": 1.5,
+       "end": 1.8
+      },
+      {
+       "text": "klein",
+       "join": false,
+       "start": 1.8,
+       "end": 2.4
+      },
+      {
+       "text": "ging",
+       "join": false,
+       "start": 2.4,
+       "end": 2.7
+      },
+      {
+       "text": "al",
+       "join": true,
+       "start": 2.7,
+       "end": 3.0
+      },
+      {
+       "text": "lein",
+       "join": false,
+       "start": 3.0,
+       "end": 3.6
+      }
+     ],
+     "es": "El pequeño Hans se fue solo"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "in die weite Welt hinein.",
+     "tr": "geniş dünyaya gitti.",
+     "en": "into the wide world.",
+     "syl": [
+      {
+       "text": "in",
+       "join": false,
+       "start": 3.6,
+       "end": 3.9
+      },
+      {
+       "text": "die",
+       "join": false,
+       "start": 3.9,
+       "end": 4.2
+      },
+      {
+       "text": "wei",
+       "join": true,
+       "start": 4.2,
+       "end": 4.5
+      },
+      {
+       "text": "te",
+       "join": false,
+       "start": 4.5,
+       "end": 4.8
+      },
+      {
+       "text": "Welt",
+       "join": false,
+       "start": 4.8,
+       "end": 5.1
+      },
+      {
+       "text": "hi",
+       "join": true,
+       "start": 5.1,
+       "end": 5.4
+      },
+      {
+       "text": "nein.",
+       "join": false,
+       "start": 5.4,
+       "end": 6.0
+      }
+     ],
+     "es": "por el ancho mundo."
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Stock und Hut stehn ihm gut,",
+     "tr": "Bastonu ve şapkası ona yakışıyor,",
+     "en": "Stick and hat suit him well,",
+     "syl": [
+      {
+       "text": "Stock",
+       "join": false,
+       "start": 6.0,
+       "end": 6.3
+      },
+      {
+       "text": "und",
+       "join": false,
+       "start": 6.3,
+       "end": 6.6
+      },
+      {
+       "text": "Hut",
+       "join": false,
+       "start": 6.6,
+       "end": 7.2
+      },
+      {
+       "text": "stehn",
+       "join": false,
+       "start": 7.2,
+       "end": 7.5
+      },
+      {
+       "text": "ihm",
+       "join": false,
+       "start": 7.5,
+       "end": 7.8
+      },
+      {
+       "text": "gut,",
+       "join": false,
+       "start": 7.8,
+       "end": 8.4
+      }
+     ],
+     "es": "El bastón y el sombrero le quedan bien,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "ist gar wohlgemut.",
+     "tr": "keyfi pek yerinde.",
+     "en": "he is in a good mood.",
+     "syl": [
+      {
+       "text": "ist",
+       "join": false,
+       "start": 8.4,
+       "end": 8.7
+      },
+      {
+       "text": "gar",
+       "join": false,
+       "start": 8.7,
+       "end": 9.0
+      },
+      {
+       "text": "wohl",
+       "join": true,
+       "start": 9.0,
+       "end": 9.3
+      },
+      {
+       "text": "ge",
+       "join": true,
+       "start": 9.3,
+       "end": 9.6
+      },
+      {
+       "text": "mut.",
+       "join": false,
+       "start": 9.6,
+       "end": 10.2
+      }
+     ],
+     "es": "está de buen humor."
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Aber Mutter weinet sehr,",
+     "tr": "Ama annesi çok ağlıyor,",
+     "en": "But mother cries a lot,",
+     "syl": [
+      {
+       "text": "A",
+       "join": true,
+       "start": 10.8,
+       "end": 11.1
+      },
+      {
+       "text": "ber",
+       "join": false,
+       "start": 11.1,
+       "end": 11.4
+      },
+      {
+       "text": "Mut",
+       "join": true,
+       "start": 11.4,
+       "end": 11.7
+      },
+      {
+       "text": "ter",
+       "join": false,
+       "start": 11.7,
+       "end": 12.0
+      },
+      {
+       "text": "wei",
+       "join": true,
+       "start": 12.0,
+       "end": 12.3
+      },
+      {
+       "text": "net",
+       "join": false,
+       "start": 12.3,
+       "end": 12.6
+      },
+      {
+       "text": "sehr,",
+       "join": false,
+       "start": 12.6,
+       "end": 13.2
+      }
+     ],
+     "es": "Pero mamá llora mucho,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "hat ja nun kein Hänschen mehr!",
+     "tr": "artık Hans’ı yok!",
+     "en": "she has no Hans any more!",
+     "syl": [
+      {
+       "text": "hat",
+       "join": false,
+       "start": 13.2,
+       "end": 13.5
+      },
+      {
+       "text": "ja",
+       "join": false,
+       "start": 13.5,
+       "end": 13.8
+      },
+      {
+       "text": "nun",
+       "join": false,
+       "start": 13.8,
+       "end": 14.1
+      },
+      {
+       "text": "kein",
+       "join": false,
+       "start": 14.1,
+       "end": 14.4
+      },
+      {
+       "text": "Häns",
+       "join": true,
+       "start": 14.4,
+       "end": 14.7
+      },
+      {
+       "text": "chen",
+       "join": false,
+       "start": 14.7,
+       "end": 15.0
+      },
+      {
+       "text": "mehr!",
+       "join": false,
+       "start": 15.0,
+       "end": 15.6
+      }
+     ],
+     "es": "¡ya no tiene a Hans!"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Da besinnt sich das Kind,",
+     "tr": "Çocuk düşünüyor,",
+     "en": "The child thinks it over,",
+     "syl": [
+      {
+       "text": "Da",
+       "join": false,
+       "start": 15.6,
+       "end": 15.9
+      },
+      {
+       "text": "be",
+       "join": true,
+       "start": 15.9,
+       "end": 16.2
+      },
+      {
+       "text": "sinnt",
+       "join": false,
+       "start": 16.2,
+       "end": 16.8
+      },
+      {
+       "text": "sich",
+       "join": false,
+       "start": 16.8,
+       "end": 17.1
+      },
+      {
+       "text": "das",
+       "join": false,
+       "start": 17.1,
+       "end": 17.4
+      },
+      {
+       "text": "Kind,",
+       "join": false,
+       "start": 17.4,
+       "end": 18.0
+      }
+     ],
+     "es": "El niño lo piensa,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "läuft nach Haus geschwind.",
+     "tr": "hemen eve koşuyor.",
+     "en": "and runs home quickly.",
+     "syl": [
+      {
+       "text": "läuft",
+       "join": false,
+       "start": 18.0,
+       "end": 18.3
+      },
+      {
+       "text": "nach",
+       "join": false,
+       "start": 18.3,
+       "end": 18.6
+      },
+      {
+       "text": "Haus",
+       "join": false,
+       "start": 18.6,
+       "end": 18.9
+      },
+      {
+       "text": "ge",
+       "join": true,
+       "start": 18.9,
+       "end": 19.2
+      },
+      {
+       "text": "schwind.",
+       "join": false,
+       "start": 19.2,
+       "end": 20.4
+      }
+     ],
+     "es": "y vuelve corriendo a casa."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Wohin geht Hänschen?",
+     "options": [
+      "In die weite Welt",
+      "In die Schule",
+      "In den Park"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mc",
+     "q": "Wer weint?",
+     "options": [
+      "Die Mutter",
+      "Der Vater",
+      "Hänschen"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "tf",
+     "q": "Am Ende läuft das Kind nach Haus.",
+     "answer": 0
+    }
+   ],
+   "timeline": [
+    {
+     "start": 1.2,
+     "end": 3.6
+    },
+    {
+     "start": 3.6,
+     "end": 6.0
+    },
+    {
+     "start": 6.0,
+     "end": 8.4
+    },
+    {
+     "start": 8.4,
+     "end": 10.2
+    },
+    {
+     "start": 10.8,
+     "end": 13.2
+    },
+    {
+     "start": 13.2,
+     "end": 15.6
+    },
+    {
+     "start": 15.6,
+     "end": 18.0
+    },
+    {
+     "start": 18.0,
+     "end": 20.4
+    }
+   ],
+   "duration": 22.9,
+   "audio": "songs/a1-lied-03.mp3",
+   "hash": "3115041bfd1b2577"
+  },
+  {
+   "id": "a1-lied-04",
+   "title": "Summ, summ, summ",
+   "title_tr": "Vız, vız, vız",
+   "title_en": "Buzz, buzz, buzz",
+   "bpm": 100,
+   "lines": [
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Summ, summ, summ!",
+     "tr": "Vız, vız, vız!",
+     "en": "Buzz, buzz, buzz!",
+     "syl": [
+      {
+       "text": "Summ,",
+       "join": false,
+       "start": 1.2,
+       "end": 1.8
+      },
+      {
+       "text": "summ,",
+       "join": false,
+       "start": 1.8,
+       "end": 2.4
+      },
+      {
+       "text": "summ!",
+       "join": false,
+       "start": 2.4,
+       "end": 3.0
+      }
+     ],
+     "es": "¡Zum, zum, zum!"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Bienchen summ herum!",
+     "tr": "Arıcık, vızılda dur!",
+     "en": "Little bee, buzz around!",
+     "syl": [
+      {
+       "text": "Bien",
+       "join": true,
+       "start": 3.6,
+       "end": 3.9
+      },
+      {
+       "text": "chen",
+       "join": false,
+       "start": 3.9,
+       "end": 4.2
+      },
+      {
+       "text": "summ",
+       "join": false,
+       "start": 4.2,
+       "end": 4.5
+      },
+      {
+       "text": "her",
+       "join": true,
+       "start": 4.5,
+       "end": 4.8
+      },
+      {
+       "text": "um!",
+       "join": false,
+       "start": 4.8,
+       "end": 5.4
+      }
+     ],
+     "es": "¡Abeja pequeña, zumba y vuela!"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Ei, wir tun dir nichts zuleide,",
+     "tr": "Ey, sana bir şey yapmayız,",
+     "en": "Hey, we won't hurt you,",
+     "syl": [
+      {
+       "text": "Ei,",
+       "join": false,
+       "start": 6.0,
+       "end": 6.3
+      },
+      {
+       "text": "wir",
+       "join": false,
+       "start": 6.3,
+       "end": 6.6
+      },
+      {
+       "text": "tun",
+       "join": false,
+       "start": 6.6,
+       "end": 6.9
+      },
+      {
+       "text": "dir",
+       "join": false,
+       "start": 6.9,
+       "end": 7.2
+      },
+      {
+       "text": "nichts",
+       "join": false,
+       "start": 7.2,
+       "end": 7.5
+      },
+      {
+       "text": "zu",
+       "join": true,
+       "start": 7.5,
+       "end": 7.8
+      },
+      {
+       "text": "lei",
+       "join": true,
+       "start": 7.8,
+       "end": 8.1
+      },
+      {
+       "text": "de,",
+       "join": false,
+       "start": 8.1,
+       "end": 8.4
+      }
+     ],
+     "es": "Oye, no te haremos daño,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "flieg nur aus in Wald und Heide!",
+     "tr": "ormana ve kıra uç git!",
+     "en": "fly out to the woods and the heath!",
+     "syl": [
+      {
+       "text": "flieg",
+       "join": false,
+       "start": 8.4,
+       "end": 8.7
+      },
+      {
+       "text": "nur",
+       "join": false,
+       "start": 8.7,
+       "end": 9.0
+      },
+      {
+       "text": "aus",
+       "join": false,
+       "start": 9.0,
+       "end": 9.3
+      },
+      {
+       "text": "in",
+       "join": false,
+       "start": 9.3,
+       "end": 9.6
+      },
+      {
+       "text": "Wald",
+       "join": false,
+       "start": 9.6,
+       "end": 9.9
+      },
+      {
+       "text": "und",
+       "join": false,
+       "start": 9.9,
+       "end": 10.2
+      },
+      {
+       "text": "Hei",
+       "join": true,
+       "start": 10.2,
+       "end": 10.5
+      },
+      {
+       "text": "de!",
+       "join": false,
+       "start": 10.5,
+       "end": 10.8
+      }
+     ],
+     "es": "¡vuela hacia el bosque y el brezal!"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Summ, summ, summ!",
+     "tr": "Vız, vız, vız!",
+     "en": "Buzz, buzz, buzz!",
+     "syl": [
+      {
+       "text": "Summ,",
+       "join": false,
+       "start": 10.8,
+       "end": 11.4
+      },
+      {
+       "text": "summ,",
+       "join": false,
+       "start": 11.4,
+       "end": 12.0
+      },
+      {
+       "text": "summ!",
+       "join": false,
+       "start": 12.0,
+       "end": 12.6
+      }
+     ],
+     "es": "¡Zum, zum, zum!"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Bienchen summ herum!",
+     "tr": "Arıcık, vızılda dur!",
+     "en": "Little bee, buzz around!",
+     "syl": [
+      {
+       "text": "Bien",
+       "join": true,
+       "start": 13.2,
+       "end": 13.5
+      },
+      {
+       "text": "chen",
+       "join": false,
+       "start": 13.5,
+       "end": 13.8
+      },
+      {
+       "text": "summ",
+       "join": false,
+       "start": 13.8,
+       "end": 14.1
+      },
+      {
+       "text": "her",
+       "join": true,
+       "start": 14.1,
+       "end": 14.4
+      },
+      {
+       "text": "um!",
+       "join": false,
+       "start": 14.4,
+       "end": 15.0
+      }
+     ],
+     "es": "¡Abeja pequeña, zumba y vuela!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Wer summt?",
+     "options": [
+      "Das Bienchen",
+      "Der Hund",
+      "Die Katze"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mc",
+     "q": "Wohin fliegt das Bienchen?",
+     "options": [
+      "In Wald und Heide",
+      "In die Stadt",
+      "Ins Haus"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "tf",
+     "q": "Wir tun dem Bienchen nichts.",
+     "answer": 0
+    }
+   ],
+   "timeline": [
+    {
+     "start": 1.2,
+     "end": 3.0
+    },
+    {
+     "start": 3.6,
+     "end": 5.4
+    },
+    {
+     "start": 6.0,
+     "end": 8.4
+    },
+    {
+     "start": 8.4,
+     "end": 10.8
+    },
+    {
+     "start": 10.8,
+     "end": 12.6
+    },
+    {
+     "start": 13.2,
+     "end": 15.0
+    }
+   ],
+   "duration": 18.1,
+   "audio": "songs/a1-lied-04.mp3",
+   "hash": "b17245b12d55dfb4"
+  },
+  {
+   "id": "a1-lied-05",
+   "title": "Auf der Mauer, auf der Lauer",
+   "title_tr": "Duvarın üstünde, pusuda",
+   "title_en": "On the wall, lying in wait",
+   "bpm": 92,
+   "lines": [
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Auf der Mauer, auf der Lauer",
+     "tr": "Duvarın üstünde, pusuda",
+     "en": "On the wall, lying in wait",
+     "syl": [
+      {
+       "text": "Auf",
+       "join": false,
+       "start": 1.304,
+       "end": 1.63
+      },
+      {
+       "text": "der",
+       "join": false,
+       "start": 1.63,
+       "end": 1.957
+      },
+      {
+       "text": "Mau",
+       "join": true,
+       "start": 1.957,
+       "end": 2.283
+      },
+      {
+       "text": "er,",
+       "join": false,
+       "start": 2.283,
+       "end": 2.609
+      },
+      {
+       "text": "auf",
+       "join": false,
+       "start": 2.609,
+       "end": 2.935
+      },
+      {
+       "text": "der",
+       "join": false,
+       "start": 2.935,
+       "end": 3.261
+      },
+      {
+       "text": "Lau",
+       "join": true,
+       "start": 3.261,
+       "end": 3.587
+      },
+      {
+       "text": "er",
+       "join": false,
+       "start": 3.587,
+       "end": 3.913
+      }
+     ],
+     "es": "En la pared, al acecho,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "sitzt ’ne kleine Wanze.",
+     "tr": "küçük bir tahtakurusu oturuyor.",
+     "en": "sits a little bug.",
+     "syl": [
+      {
+       "text": "sitzt",
+       "join": false,
+       "start": 3.913,
+       "end": 4.239
+      },
+      {
+       "text": "’ne",
+       "join": false,
+       "start": 4.239,
+       "end": 4.565
+      },
+      {
+       "text": "klei",
+       "join": true,
+       "start": 4.565,
+       "end": 4.891
+      },
+      {
+       "text": "ne",
+       "join": false,
+       "start": 4.891,
+       "end": 5.217
+      },
+      {
+       "text": "Wan",
+       "join": true,
+       "start": 5.217,
+       "end": 5.87
+      },
+      {
+       "text": "ze.",
+       "join": false,
+       "start": 5.87,
+       "end": 6.522
+      }
+     ],
+     "es": "se sienta un bichito."
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Auf der Mauer, auf der Lauer",
+     "tr": "Duvarın üstünde, pusuda",
+     "en": "On the wall, lying in wait",
+     "syl": [
+      {
+       "text": "Auf",
+       "join": false,
+       "start": 6.522,
+       "end": 6.848
+      },
+      {
+       "text": "der",
+       "join": false,
+       "start": 6.848,
+       "end": 7.174
+      },
+      {
+       "text": "Mau",
+       "join": true,
+       "start": 7.174,
+       "end": 7.5
+      },
+      {
+       "text": "er,",
+       "join": false,
+       "start": 7.5,
+       "end": 7.826
+      },
+      {
+       "text": "auf",
+       "join": false,
+       "start": 7.826,
+       "end": 8.152
+      },
+      {
+       "text": "der",
+       "join": false,
+       "start": 8.152,
+       "end": 8.478
+      },
+      {
+       "text": "Lau",
+       "join": true,
+       "start": 8.478,
+       "end": 8.804
+      },
+      {
+       "text": "er",
+       "join": false,
+       "start": 8.804,
+       "end": 9.13
+      }
+     ],
+     "es": "En la pared, al acecho,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "sitzt ’ne kleine Wanze.",
+     "tr": "küçük bir tahtakurusu oturuyor.",
+     "en": "sits a little bug.",
+     "syl": [
+      {
+       "text": "sitzt",
+       "join": false,
+       "start": 9.13,
+       "end": 9.457
+      },
+      {
+       "text": "’ne",
+       "join": false,
+       "start": 9.457,
+       "end": 9.783
+      },
+      {
+       "text": "klei",
+       "join": true,
+       "start": 9.783,
+       "end": 10.109
+      },
+      {
+       "text": "ne",
+       "join": false,
+       "start": 10.109,
+       "end": 10.435
+      },
+      {
+       "text": "Wan",
+       "join": true,
+       "start": 10.435,
+       "end": 11.087
+      },
+      {
+       "text": "ze.",
+       "join": false,
+       "start": 11.087,
+       "end": 11.739
+      }
+     ],
+     "es": "se sienta un bichito."
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Seht euch nur die Wanze an,",
+     "tr": "Şu böceğe bir bakın,",
+     "en": "Just look at the bug,",
+     "syl": [
+      {
+       "text": "Seht",
+       "join": false,
+       "start": 11.739,
+       "end": 12.065
+      },
+      {
+       "text": "euch",
+       "join": false,
+       "start": 12.065,
+       "end": 12.391
+      },
+      {
+       "text": "nur",
+       "join": false,
+       "start": 12.391,
+       "end": 12.717
+      },
+      {
+       "text": "die",
+       "join": false,
+       "start": 12.717,
+       "end": 13.043
+      },
+      {
+       "text": "Wan",
+       "join": true,
+       "start": 13.043,
+       "end": 13.37
+      },
+      {
+       "text": "ze",
+       "join": false,
+       "start": 13.37,
+       "end": 13.696
+      },
+      {
+       "text": "an,",
+       "join": false,
+       "start": 13.696,
+       "end": 14.348
+      }
+     ],
+     "es": "Mira bien al bichito,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "wie die Wanze tanzen kann!",
+     "tr": "nasıl da dans edebiliyor!",
+     "en": "how the bug can dance!",
+     "syl": [
+      {
+       "text": "wie",
+       "join": false,
+       "start": 14.348,
+       "end": 14.674
+      },
+      {
+       "text": "die",
+       "join": false,
+       "start": 14.674,
+       "end": 15.0
+      },
+      {
+       "text": "Wan",
+       "join": true,
+       "start": 15.0,
+       "end": 15.326
+      },
+      {
+       "text": "ze",
+       "join": false,
+       "start": 15.326,
+       "end": 15.652
+      },
+      {
+       "text": "tan",
+       "join": true,
+       "start": 15.652,
+       "end": 15.978
+      },
+      {
+       "text": "zen",
+       "join": false,
+       "start": 15.978,
+       "end": 16.304
+      },
+      {
+       "text": "kann!",
+       "join": false,
+       "start": 16.304,
+       "end": 16.957
+      }
+     ],
+     "es": "¡cómo sabe bailar!"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Auf der Mauer, auf der Lauer",
+     "tr": "Duvarın üstünde, pusuda",
+     "en": "On the wall, lying in wait",
+     "syl": [
+      {
+       "text": "Auf",
+       "join": false,
+       "start": 16.957,
+       "end": 17.283
+      },
+      {
+       "text": "der",
+       "join": false,
+       "start": 17.283,
+       "end": 17.609
+      },
+      {
+       "text": "Mau",
+       "join": true,
+       "start": 17.609,
+       "end": 17.935
+      },
+      {
+       "text": "er,",
+       "join": false,
+       "start": 17.935,
+       "end": 18.261
+      },
+      {
+       "text": "auf",
+       "join": false,
+       "start": 18.261,
+       "end": 18.587
+      },
+      {
+       "text": "der",
+       "join": false,
+       "start": 18.587,
+       "end": 18.913
+      },
+      {
+       "text": "Lau",
+       "join": true,
+       "start": 18.913,
+       "end": 19.239
+      },
+      {
+       "text": "er",
+       "join": false,
+       "start": 19.239,
+       "end": 19.565
+      }
+     ],
+     "es": "En la pared, al acecho,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "sitzt ’ne kleine Wanze.",
+     "tr": "küçük bir tahtakurusu oturuyor.",
+     "en": "sits a little bug.",
+     "syl": [
+      {
+       "text": "sitzt",
+       "join": false,
+       "start": 19.565,
+       "end": 19.891
+      },
+      {
+       "text": "’ne",
+       "join": false,
+       "start": 19.891,
+       "end": 20.217
+      },
+      {
+       "text": "klei",
+       "join": true,
+       "start": 20.217,
+       "end": 20.543
+      },
+      {
+       "text": "ne",
+       "join": false,
+       "start": 20.543,
+       "end": 20.87
+      },
+      {
+       "text": "Wan",
+       "join": true,
+       "start": 20.87,
+       "end": 21.522
+      },
+      {
+       "text": "ze.",
+       "join": false,
+       "start": 21.522,
+       "end": 22.174
+      }
+     ],
+     "es": "se sienta un bichito."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Wo sitzt die Wanze?",
+     "options": [
+      "Auf der Mauer",
+      "Auf dem Tisch",
+      "Im Bett"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mc",
+     "q": "Was kann die Wanze?",
+     "options": [
+      "Tanzen",
+      "Schwimmen",
+      "Lesen"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "tf",
+     "q": "Die Wanze ist groß.",
+     "answer": 1
+    }
+   ],
+   "timeline": [
+    {
+     "start": 1.304,
+     "end": 3.913
+    },
+    {
+     "start": 3.913,
+     "end": 6.522
+    },
+    {
+     "start": 6.522,
+     "end": 9.13
+    },
+    {
+     "start": 9.13,
+     "end": 11.739
+    },
+    {
+     "start": 11.739,
+     "end": 14.348
+    },
+    {
+     "start": 14.348,
+     "end": 16.957
+    },
+    {
+     "start": 16.957,
+     "end": 19.565
+    },
+    {
+     "start": 19.565,
+     "end": 22.174
+    }
+   ],
+   "duration": 24.67,
+   "audio": "songs/a1-lied-05.mp3",
+   "hash": "8fa0c9c8919ce486"
+  },
+  {
+   "id": "a1-lied-06",
+   "title": "Häschen in der Grube",
+   "title_tr": "Çukurdaki tavşancık",
+   "title_en": "Little bunny in the hollow",
+   "bpm": 92,
+   "lines": [
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Häschen in der Grube",
+     "tr": "Tavşancık çukurda",
+     "en": "Little bunny in the hollow",
+     "syl": [
+      {
+       "text": "Häs",
+       "join": true,
+       "start": 1.304,
+       "end": 1.63
+      },
+      {
+       "text": "chen",
+       "join": false,
+       "start": 1.63,
+       "end": 1.957
+      },
+      {
+       "text": "in",
+       "join": false,
+       "start": 1.957,
+       "end": 2.283
+      },
+      {
+       "text": "der",
+       "join": false,
+       "start": 2.283,
+       "end": 2.609
+      },
+      {
+       "text": "Gru",
+       "join": true,
+       "start": 2.609,
+       "end": 3.261
+      },
+      {
+       "text": "be",
+       "join": false,
+       "start": 3.261,
+       "end": 3.913
+      }
+     ],
+     "es": "El conejito en la hondonada"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "saß und schlief,",
+     "tr": "oturup uyudu,",
+     "en": "sat and slept,",
+     "syl": [
+      {
+       "text": "saß",
+       "join": false,
+       "start": 3.913,
+       "end": 4.565
+      },
+      {
+       "text": "und",
+       "join": false,
+       "start": 4.565,
+       "end": 5.217
+      },
+      {
+       "text": "schlief,",
+       "join": false,
+       "start": 5.217,
+       "end": 5.87
+      }
+     ],
+     "es": "se sentó y se durmió,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "saß und schlief.",
+     "tr": "oturup uyudu.",
+     "en": "sat and slept.",
+     "syl": [
+      {
+       "text": "saß",
+       "join": false,
+       "start": 6.522,
+       "end": 7.174
+      },
+      {
+       "text": "und",
+       "join": false,
+       "start": 7.174,
+       "end": 7.826
+      },
+      {
+       "text": "schlief.",
+       "join": false,
+       "start": 7.826,
+       "end": 8.478
+      }
+     ],
+     "es": "se sentó y se durmió."
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Armes Häschen, bist du krank,",
+     "tr": "Zavallı tavşancık, hasta mısın,",
+     "en": "Poor little bunny, are you ill,",
+     "syl": [
+      {
+       "text": "Ar",
+       "join": true,
+       "start": 9.13,
+       "end": 9.457
+      },
+      {
+       "text": "mes",
+       "join": false,
+       "start": 9.457,
+       "end": 9.783
+      },
+      {
+       "text": "Häs",
+       "join": true,
+       "start": 9.783,
+       "end": 10.109
+      },
+      {
+       "text": "chen,",
+       "join": false,
+       "start": 10.109,
+       "end": 10.435
+      },
+      {
+       "text": "bist",
+       "join": false,
+       "start": 10.435,
+       "end": 10.761
+      },
+      {
+       "text": "du",
+       "join": false,
+       "start": 10.761,
+       "end": 11.087
+      },
+      {
+       "text": "krank,",
+       "join": false,
+       "start": 11.087,
+       "end": 11.739
+      }
+     ],
+     "es": "Pobre conejito, ¿estás enfermo?"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "dass du nicht mehr hüpfen kannst?",
+     "tr": "artık zıplayamıyor musun?",
+     "en": "that you can't hop any more?",
+     "syl": [
+      {
+       "text": "dass",
+       "join": false,
+       "start": 11.739,
+       "end": 12.065
+      },
+      {
+       "text": "du",
+       "join": false,
+       "start": 12.065,
+       "end": 12.391
+      },
+      {
+       "text": "nicht",
+       "join": false,
+       "start": 12.391,
+       "end": 12.717
+      },
+      {
+       "text": "mehr",
+       "join": false,
+       "start": 12.717,
+       "end": 13.043
+      },
+      {
+       "text": "hüp",
+       "join": true,
+       "start": 13.043,
+       "end": 13.37
+      },
+      {
+       "text": "fen",
+       "join": false,
+       "start": 13.37,
+       "end": 13.696
+      },
+      {
+       "text": "kannst?",
+       "join": false,
+       "start": 13.696,
+       "end": 14.348
+      }
+     ],
+     "es": "¿Ya no puedes saltar?"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Häschen, hüpf! Häschen, hüpf!",
+     "tr": "Tavşancık, zıpla! Tavşancık, zıpla!",
+     "en": "Little bunny, hop! Little bunny, hop!",
+     "syl": [
+      {
+       "text": "Häs",
+       "join": true,
+       "start": 14.348,
+       "end": 14.674
+      },
+      {
+       "text": "chen,",
+       "join": false,
+       "start": 14.674,
+       "end": 15.0
+      },
+      {
+       "text": "hüpf!",
+       "join": false,
+       "start": 15.0,
+       "end": 15.652
+      },
+      {
+       "text": "Häs",
+       "join": true,
+       "start": 15.652,
+       "end": 15.978
+      },
+      {
+       "text": "chen,",
+       "join": false,
+       "start": 15.978,
+       "end": 16.304
+      },
+      {
+       "text": "hüpf!",
+       "join": false,
+       "start": 16.304,
+       "end": 16.957
+      }
+     ],
+     "es": "¡Conejito, salta! ¡Conejito, salta!"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Häschen, hüpf!",
+     "tr": "Tavşancık, zıpla!",
+     "en": "Little bunny, hop!",
+     "syl": [
+      {
+       "text": "Häs",
+       "join": true,
+       "start": 16.957,
+       "end": 17.609
+      },
+      {
+       "text": "chen,",
+       "join": false,
+       "start": 17.609,
+       "end": 18.261
+      },
+      {
+       "text": "hüpf!",
+       "join": false,
+       "start": 18.261,
+       "end": 18.913
+      }
+     ],
+     "es": "¡Conejito, salta!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Wo sitzt das Häschen?",
+     "options": [
+      "In der Grube",
+      "Auf dem Baum",
+      "Im Auto"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mc",
+     "q": "Was macht das Häschen zuerst?",
+     "options": [
+      "Es schläft.",
+      "Es singt.",
+      "Es isst."
+     ],
+     "answer": 0
+    },
+    {
+     "type": "tf",
+     "q": "Am Ende hüpft das Häschen.",
+     "answer": 0
+    }
+   ],
+   "timeline": [
+    {
+     "start": 1.304,
+     "end": 3.913
+    },
+    {
+     "start": 3.913,
+     "end": 5.87
+    },
+    {
+     "start": 6.522,
+     "end": 8.478
+    },
+    {
+     "start": 9.13,
+     "end": 11.739
+    },
+    {
+     "start": 11.739,
+     "end": 14.348
+    },
+    {
+     "start": 14.348,
+     "end": 16.957
+    },
+    {
+     "start": 16.957,
+     "end": 18.913
+    }
+   ],
+   "duration": 22.07,
+   "audio": "songs/a1-lied-06.mp3",
+   "hash": "0a69a98d2af90195"
+  },
+  {
+   "id": "a1-lied-07",
+   "title": "Kommt ein Vogel geflogen",
+   "title_tr": "Bir kuş uçarak geliyor",
+   "title_en": "A little bird comes flying",
+   "bpm": 120,
+   "lines": [
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Kommt ein Vogel geflogen,",
+     "tr": "Bir kuş uçarak geliyor,",
+     "en": "A little bird comes flying,",
+     "syl": [
+      {
+       "text": "Kommt",
+       "join": false,
+       "start": 1.5,
+       "end": 1.75
+      },
+      {
+       "text": "ein",
+       "join": false,
+       "start": 1.75,
+       "end": 2.0
+      },
+      {
+       "text": "Vo",
+       "join": true,
+       "start": 2.0,
+       "end": 2.5
+      },
+      {
+       "text": "gel",
+       "join": false,
+       "start": 2.5,
+       "end": 3.0
+      },
+      {
+       "text": "ge",
+       "join": true,
+       "start": 3.0,
+       "end": 3.5
+      },
+      {
+       "text": "flo",
+       "join": true,
+       "start": 3.5,
+       "end": 4.0
+      },
+      {
+       "text": "gen,",
+       "join": false,
+       "start": 4.0,
+       "end": 4.5
+      }
+     ],
+     "es": "Un pajarito viene volando"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "setzt sich nieder auf mein Fuß,",
+     "tr": "ayağıma konuyor,",
+     "en": "and sits down on my foot,",
+     "syl": [
+      {
+       "text": "setzt",
+       "join": false,
+       "start": 4.5,
+       "end": 4.75
+      },
+      {
+       "text": "sich",
+       "join": false,
+       "start": 4.75,
+       "end": 5.0
+      },
+      {
+       "text": "nie",
+       "join": true,
+       "start": 5.0,
+       "end": 5.5
+      },
+      {
+       "text": "der",
+       "join": false,
+       "start": 5.5,
+       "end": 6.0
+      },
+      {
+       "text": "auf",
+       "join": false,
+       "start": 6.0,
+       "end": 6.25
+      },
+      {
+       "text": "mein",
+       "join": false,
+       "start": 6.25,
+       "end": 6.5
+      },
+      {
+       "text": "Fuß,",
+       "join": false,
+       "start": 6.5,
+       "end": 7.0
+      }
+     ],
+     "es": "y se posa en mi pie,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "hat ein Zettel im Schnabel,",
+     "tr": "gagasında bir not var,",
+     "en": "it has a note in its beak,",
+     "syl": [
+      {
+       "text": "hat",
+       "join": false,
+       "start": 7.5,
+       "end": 7.75
+      },
+      {
+       "text": "ein",
+       "join": false,
+       "start": 7.75,
+       "end": 8.0
+      },
+      {
+       "text": "Zet",
+       "join": true,
+       "start": 8.0,
+       "end": 8.5
+      },
+      {
+       "text": "tel",
+       "join": false,
+       "start": 8.5,
+       "end": 9.0
+      },
+      {
+       "text": "im",
+       "join": false,
+       "start": 9.0,
+       "end": 9.5
+      },
+      {
+       "text": "Schna",
+       "join": true,
+       "start": 9.5,
+       "end": 10.0
+      },
+      {
+       "text": "bel,",
+       "join": false,
+       "start": 10.0,
+       "end": 10.5
+      }
+     ],
+     "es": "lleva una nota en el pico,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "von der Mutter ein Gruß.",
+     "tr": "annemden bir selam.",
+     "en": "a greeting from mother.",
+     "syl": [
+      {
+       "text": "von",
+       "join": false,
+       "start": 10.5,
+       "end": 10.75
+      },
+      {
+       "text": "der",
+       "join": false,
+       "start": 10.75,
+       "end": 11.0
+      },
+      {
+       "text": "Mut",
+       "join": true,
+       "start": 11.0,
+       "end": 11.5
+      },
+      {
+       "text": "ter",
+       "join": false,
+       "start": 11.5,
+       "end": 12.0
+      },
+      {
+       "text": "ein",
+       "join": false,
+       "start": 12.0,
+       "end": 12.5
+      },
+      {
+       "text": "Gruß.",
+       "join": false,
+       "start": 12.5,
+       "end": 13.0
+      }
+     ],
+     "es": "un saludo de mamá."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Wer kommt geflogen?",
+     "options": [
+      "Ein Vogel",
+      "Ein Flugzeug",
+      "Eine Biene"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mc",
+     "q": "Was hat der Vogel im Schnabel?",
+     "options": [
+      "Einen Zettel",
+      "Ein Brot",
+      "Einen Apfel"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "tf",
+     "q": "Der Gruß ist vom Vater.",
+     "answer": 1
+    }
+   ],
+   "timeline": [
+    {
+     "start": 1.5,
+     "end": 4.5
+    },
+    {
+     "start": 4.5,
+     "end": 7.0
+    },
+    {
+     "start": 7.5,
+     "end": 10.5
+    },
+    {
+     "start": 10.5,
+     "end": 13.0
+    }
+   ],
+   "duration": 16.0,
+   "audio": "songs/a1-lied-07.mp3",
+   "hash": "44a22aa421d864c9"
+  },
+  {
+   "id": "a1-lied-08",
+   "title": "Schneeflöckchen, Weißröckchen",
+   "title_tr": "Kar tanesi, beyaz etekli",
+   "title_en": "Little snowflake, little white skirt",
+   "bpm": 112,
+   "lines": [
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Schneeflöckchen, Weißröckchen,",
+     "tr": "Kar tanesi, beyaz etekli,",
+     "en": "Little snowflake, little white skirt,",
+     "syl": [
+      {
+       "text": "Schnee",
+       "join": true,
+       "start": 1.607,
+       "end": 2.143
+      },
+      {
+       "text": "flöck",
+       "join": true,
+       "start": 2.143,
+       "end": 2.679
+      },
+      {
+       "text": "chen,",
+       "join": false,
+       "start": 2.679,
+       "end": 3.214
+      },
+      {
+       "text": "Weiß",
+       "join": true,
+       "start": 3.214,
+       "end": 3.75
+      },
+      {
+       "text": "röck",
+       "join": true,
+       "start": 3.75,
+       "end": 4.286
+      },
+      {
+       "text": "chen,",
+       "join": false,
+       "start": 4.286,
+       "end": 4.821
+      }
+     ],
+     "es": "Copito de nieve, faldita blanca,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "wann kommst du geschneit?",
+     "tr": "ne zaman yağacaksın?",
+     "en": "when will you come snowing down?",
+     "syl": [
+      {
+       "text": "wann",
+       "join": false,
+       "start": 4.821,
+       "end": 5.357
+      },
+      {
+       "text": "kommst",
+       "join": false,
+       "start": 5.357,
+       "end": 5.893
+      },
+      {
+       "text": "du",
+       "join": false,
+       "start": 5.893,
+       "end": 6.429
+      },
+      {
+       "text": "ge",
+       "join": true,
+       "start": 6.429,
+       "end": 6.964
+      },
+      {
+       "text": "schneit?",
+       "join": false,
+       "start": 6.964,
+       "end": 8.036
+      }
+     ],
+     "es": "¿cuándo caerás del cielo?"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Du wohnst in den Wolken,",
+     "tr": "Bulutlarda yaşıyorsun,",
+     "en": "You live up in the clouds,",
+     "syl": [
+      {
+       "text": "Du",
+       "join": false,
+       "start": 8.036,
+       "end": 8.571
+      },
+      {
+       "text": "wohnst",
+       "join": false,
+       "start": 8.571,
+       "end": 9.107
+      },
+      {
+       "text": "in",
+       "join": false,
+       "start": 9.107,
+       "end": 9.643
+      },
+      {
+       "text": "den",
+       "join": false,
+       "start": 9.643,
+       "end": 10.179
+      },
+      {
+       "text": "Wol",
+       "join": true,
+       "start": 10.179,
+       "end": 10.714
+      },
+      {
+       "text": "ken,",
+       "join": false,
+       "start": 10.714,
+       "end": 11.25
+      }
+     ],
+     "es": "Vives allá arriba, entre las nubes,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "dein Weg ist so weit.",
+     "tr": "yolun çok uzun.",
+     "en": "your way is so far.",
+     "syl": [
+      {
+       "text": "dein",
+       "join": false,
+       "start": 11.25,
+       "end": 11.786
+      },
+      {
+       "text": "Weg",
+       "join": false,
+       "start": 11.786,
+       "end": 12.321
+      },
+      {
+       "text": "ist",
+       "join": false,
+       "start": 12.321,
+       "end": 12.857
+      },
+      {
+       "text": "so",
+       "join": false,
+       "start": 12.857,
+       "end": 13.393
+      },
+      {
+       "text": "weit.",
+       "join": false,
+       "start": 13.393,
+       "end": 14.464
+      }
+     ],
+     "es": "y tu camino es tan largo."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Wo wohnt das Schneeflöckchen?",
+     "options": [
+      "In den Wolken",
+      "Im Meer",
+      "Im Wald"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mc",
+     "q": "Welche Farbe hat das Röckchen?",
+     "options": [
+      "Weiß",
+      "Rot",
+      "Grün"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "tf",
+     "q": "Der Weg ist kurz.",
+     "answer": 1
+    }
+   ],
+   "timeline": [
+    {
+     "start": 1.607,
+     "end": 4.821
+    },
+    {
+     "start": 4.821,
+     "end": 8.036
+    },
+    {
+     "start": 8.036,
+     "end": 11.25
+    },
+    {
+     "start": 11.25,
+     "end": 14.464
+    }
+   ],
+   "duration": 16.96,
+   "audio": "songs/a1-lied-08.mp3",
+   "hash": "92e9eb36b681ed2d"
+  },
+  {
+   "id": "a1-lied-09",
+   "title": "Grün, grün, grün",
+   "title_tr": "Yeşil, yeşil, yeşil",
+   "title_en": "Green, green, green",
+   "bpm": 96,
+   "lines": [
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Grün, grün, grün sind alle meine Kleider;",
+     "tr": "Yeşil, yeşil, yeşil bütün elbiselerim;",
+     "en": "Green, green, green are all my clothes;",
+     "syl": [
+      {
+       "text": "Grün,",
+       "join": false,
+       "start": 1.25,
+       "end": 1.875
+      },
+      {
+       "text": "grün,",
+       "join": false,
+       "start": 1.875,
+       "end": 2.5
+      },
+      {
+       "text": "grün",
+       "join": false,
+       "start": 2.5,
+       "end": 3.125
+      },
+      {
+       "text": "sind",
+       "join": false,
+       "start": 3.125,
+       "end": 3.75
+      },
+      {
+       "text": "al",
+       "join": true,
+       "start": 3.75,
+       "end": 4.062
+      },
+      {
+       "text": "le",
+       "join": false,
+       "start": 4.062,
+       "end": 4.375
+      },
+      {
+       "text": "mei",
+       "join": true,
+       "start": 4.375,
+       "end": 4.688
+      },
+      {
+       "text": "ne",
+       "join": false,
+       "start": 4.688,
+       "end": 5.0
+      },
+      {
+       "text": "Klei",
+       "join": true,
+       "start": 5.0,
+       "end": 5.625
+      },
+      {
+       "text": "der;",
+       "join": false,
+       "start": 5.625,
+       "end": 6.25
+      }
+     ],
+     "es": "Verde, verde, verde es toda mi ropa;"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "grün, grün, grün ist alles, was ich hab.",
+     "tr": "yeşil, yeşil, yeşil her şeyim.",
+     "en": "green, green, green is all I have.",
+     "syl": [
+      {
+       "text": "grün,",
+       "join": false,
+       "start": 6.25,
+       "end": 6.875
+      },
+      {
+       "text": "grün,",
+       "join": false,
+       "start": 6.875,
+       "end": 7.5
+      },
+      {
+       "text": "grün",
+       "join": false,
+       "start": 7.5,
+       "end": 8.125
+      },
+      {
+       "text": "ist",
+       "join": false,
+       "start": 8.125,
+       "end": 8.75
+      },
+      {
+       "text": "al",
+       "join": true,
+       "start": 8.75,
+       "end": 9.062
+      },
+      {
+       "text": "les,",
+       "join": false,
+       "start": 9.062,
+       "end": 9.375
+      },
+      {
+       "text": "was",
+       "join": false,
+       "start": 9.375,
+       "end": 9.688
+      },
+      {
+       "text": "ich",
+       "join": false,
+       "start": 9.688,
+       "end": 10.0
+      },
+      {
+       "text": "hab.",
+       "join": false,
+       "start": 10.0,
+       "end": 10.625
+      }
+     ],
+     "es": "verde, verde, verde es todo lo que tengo."
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Darum lieb ich alles, was so grün ist,",
+     "tr": "Bu yüzden yeşil olan her şeyi severim,",
+     "en": "That's why I love everything that's green,",
+     "syl": [
+      {
+       "text": "Da",
+       "join": true,
+       "start": 11.25,
+       "end": 11.875
+      },
+      {
+       "text": "rum",
+       "join": false,
+       "start": 11.875,
+       "end": 12.5
+      },
+      {
+       "text": "lieb",
+       "join": false,
+       "start": 12.5,
+       "end": 13.125
+      },
+      {
+       "text": "ich",
+       "join": false,
+       "start": 13.125,
+       "end": 13.75
+      },
+      {
+       "text": "al",
+       "join": true,
+       "start": 13.75,
+       "end": 14.062
+      },
+      {
+       "text": "les,",
+       "join": false,
+       "start": 14.062,
+       "end": 14.375
+      },
+      {
+       "text": "was",
+       "join": false,
+       "start": 14.375,
+       "end": 14.688
+      },
+      {
+       "text": "so",
+       "join": false,
+       "start": 14.688,
+       "end": 15.0
+      },
+      {
+       "text": "grün",
+       "join": false,
+       "start": 15.0,
+       "end": 15.625
+      },
+      {
+       "text": "ist,",
+       "join": false,
+       "start": 15.625,
+       "end": 16.25
+      }
+     ],
+     "es": "Por eso me gusta todo lo verde,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "weil mein Schatz ein Jäger ist.",
+     "tr": "çünkü sevgilim bir avcı.",
+     "en": "because my sweetheart is a hunter.",
+     "syl": [
+      {
+       "text": "weil",
+       "join": false,
+       "start": 16.25,
+       "end": 16.875
+      },
+      {
+       "text": "mein",
+       "join": false,
+       "start": 16.875,
+       "end": 17.5
+      },
+      {
+       "text": "Schatz",
+       "join": false,
+       "start": 17.5,
+       "end": 18.125
+      },
+      {
+       "text": "ein",
+       "join": false,
+       "start": 18.125,
+       "end": 18.75
+      },
+      {
+       "text": "Jä",
+       "join": true,
+       "start": 18.75,
+       "end": 19.375
+      },
+      {
+       "text": "ger",
+       "join": false,
+       "start": 19.375,
+       "end": 20.0
+      },
+      {
+       "text": "ist.",
+       "join": false,
+       "start": 20.0,
+       "end": 20.625
+      }
+     ],
+     "es": "porque mi amor es cazador."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Welche Farbe haben die Kleider?",
+     "options": [
+      "Grün",
+      "Blau",
+      "Gelb"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mc",
+     "q": "Was ist der Schatz?",
+     "options": [
+      "Ein Jäger",
+      "Ein Bäcker",
+      "Ein Lehrer"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "tf",
+     "q": "Ich liebe alles, was grün ist.",
+     "answer": 0
+    }
+   ],
+   "timeline": [
+    {
+     "start": 1.25,
+     "end": 6.25
+    },
+    {
+     "start": 6.25,
+     "end": 10.625
+    },
+    {
+     "start": 11.25,
+     "end": 16.25
+    },
+    {
+     "start": 16.25,
+     "end": 20.625
+    }
+   ],
+   "duration": 23.75,
+   "audio": "songs/a1-lied-09.mp3",
+   "hash": "0e224e03d8bc5ec8"
+  },
+  {
+   "id": "a1-lied-10",
+   "title": "Kuckuck, Kuckuck",
+   "title_tr": "Guguk, guguk",
+   "title_en": "Cuckoo, cuckoo",
+   "bpm": 138,
+   "lines": [
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Kukkuck, Kukkuck,",
+     "tr": "Guguk, guguk,",
+     "en": "Cuckoo, cuckoo,",
+     "syl": [
+      {
+       "text": "Kuk",
+       "join": true,
+       "start": 1.304,
+       "end": 1.739
+      },
+      {
+       "text": "kuck,",
+       "join": false,
+       "start": 1.739,
+       "end": 2.174
+      },
+      {
+       "text": "Kuk",
+       "join": true,
+       "start": 2.609,
+       "end": 3.043
+      },
+      {
+       "text": "kuck,",
+       "join": false,
+       "start": 3.043,
+       "end": 3.478
+      }
+     ],
+     "es": "Cucú, cucú,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "ruft’s aus dem Wald.",
+     "tr": "ormandan sesleniyor.",
+     "en": "it calls from the woods.",
+     "syl": [
+      {
+       "text": "ruft’s",
+       "join": false,
+       "start": 3.913,
+       "end": 4.348
+      },
+      {
+       "text": "aus",
+       "join": false,
+       "start": 4.348,
+       "end": 4.783
+      },
+      {
+       "text": "dem",
+       "join": false,
+       "start": 4.783,
+       "end": 5.217
+      },
+      {
+       "text": "Wald.",
+       "join": false,
+       "start": 5.217,
+       "end": 6.522
+      }
+     ],
+     "es": "llama desde el bosque."
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Lasset uns singen,",
+     "tr": "Haydi şarkı söyleyelim,",
+     "en": "Let's sing,",
+     "syl": [
+      {
+       "text": "Las",
+       "join": true,
+       "start": 6.522,
+       "end": 6.957
+      },
+      {
+       "text": "set",
+       "join": false,
+       "start": 6.957,
+       "end": 7.391
+      },
+      {
+       "text": "uns",
+       "join": false,
+       "start": 7.391,
+       "end": 7.826
+      },
+      {
+       "text": "sin",
+       "join": true,
+       "start": 7.826,
+       "end": 8.696
+      },
+      {
+       "text": "gen,",
+       "join": false,
+       "start": 8.696,
+       "end": 9.13
+      }
+     ],
+     "es": "Cantemos,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "tanzen und springen,",
+     "tr": "dans edip zıplayalım,",
+     "en": "dance and jump,",
+     "syl": [
+      {
+       "text": "tan",
+       "join": true,
+       "start": 9.13,
+       "end": 9.565
+      },
+      {
+       "text": "zen",
+       "join": false,
+       "start": 9.565,
+       "end": 10.0
+      },
+      {
+       "text": "und",
+       "join": false,
+       "start": 10.0,
+       "end": 10.435
+      },
+      {
+       "text": "sprin",
+       "join": true,
+       "start": 10.435,
+       "end": 11.304
+      },
+      {
+       "text": "gen,",
+       "join": false,
+       "start": 11.304,
+       "end": 11.739
+      }
+     ],
+     "es": "bailemos y saltemos,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Frühling, Frühling",
+     "tr": "Bahar, bahar",
+     "en": "Spring, spring",
+     "syl": [
+      {
+       "text": "Früh",
+       "join": true,
+       "start": 11.739,
+       "end": 12.609
+      },
+      {
+       "text": "ling,",
+       "join": false,
+       "start": 12.609,
+       "end": 13.043
+      },
+      {
+       "text": "Früh",
+       "join": true,
+       "start": 13.043,
+       "end": 13.913
+      },
+      {
+       "text": "ling",
+       "join": false,
+       "start": 13.913,
+       "end": 14.348
+      }
+     ],
+     "es": "la primavera, la primavera"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "wird es nun bald.",
+     "tr": "yakında geliyor.",
+     "en": "will soon be here.",
+     "syl": [
+      {
+       "text": "wird",
+       "join": false,
+       "start": 14.348,
+       "end": 14.783
+      },
+      {
+       "text": "es",
+       "join": false,
+       "start": 14.783,
+       "end": 15.217
+      },
+      {
+       "text": "nun",
+       "join": false,
+       "start": 15.217,
+       "end": 15.652
+      },
+      {
+       "text": "bald.",
+       "join": false,
+       "start": 15.652,
+       "end": 16.957
+      }
+     ],
+     "es": "pronto estará aquí."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Wer ruft aus dem Wald?",
+     "options": [
+      "Der Kuckuck",
+      "Der Hund",
+      "Die Kuh"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mc",
+     "q": "Was wird es bald?",
+     "options": [
+      "Frühling",
+      "Winter",
+      "Nacht"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "tf",
+     "q": "Wir singen, tanzen und springen.",
+     "answer": 0
+    }
+   ],
+   "timeline": [
+    {
+     "start": 1.304,
+     "end": 3.478
+    },
+    {
+     "start": 3.913,
+     "end": 6.522
+    },
+    {
+     "start": 6.522,
+     "end": 9.13
+    },
+    {
+     "start": 9.13,
+     "end": 11.739
+    },
+    {
+     "start": 11.739,
+     "end": 14.348
+    },
+    {
+     "start": 14.348,
+     "end": 16.957
+    }
+   ],
+   "duration": 19.46,
+   "audio": "songs/a1-lied-10.mp3",
+   "hash": "ace017fffbb0b60a"
+  },
+  {
+   "id": "a1-lied-11",
+   "title": "Alle Vögel sind schon da",
+   "title_tr": "Bütün kuşlar geldi bile",
+   "title_en": "All the birds are already here",
+   "bpm": 112,
+   "lines": [
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Alle Vögel sind schon da,",
+     "tr": "Bütün kuşlar geldi bile,",
+     "en": "All the birds are already here,",
+     "syl": [
+      {
+       "text": "Al",
+       "join": true,
+       "start": 2.143,
+       "end": 2.946
+      },
+      {
+       "text": "le",
+       "join": false,
+       "start": 2.946,
+       "end": 3.214
+      },
+      {
+       "text": "Vö",
+       "join": true,
+       "start": 3.214,
+       "end": 3.75
+      },
+      {
+       "text": "gel",
+       "join": false,
+       "start": 3.75,
+       "end": 4.286
+      },
+      {
+       "text": "sind",
+       "join": false,
+       "start": 4.286,
+       "end": 4.821
+      },
+      {
+       "text": "schon",
+       "join": false,
+       "start": 4.821,
+       "end": 5.357
+      },
+      {
+       "text": "da,",
+       "join": false,
+       "start": 5.357,
+       "end": 6.429
+      }
+     ],
+     "es": "Todos los pájaros ya han vuelto,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "alle Vögel, alle.",
+     "tr": "bütün kuşlar, hepsi.",
+     "en": "all the birds, all of them.",
+     "syl": [
+      {
+       "text": "al",
+       "join": true,
+       "start": 6.429,
+       "end": 7.232
+      },
+      {
+       "text": "le",
+       "join": false,
+       "start": 7.232,
+       "end": 7.5
+      },
+      {
+       "text": "Vö",
+       "join": true,
+       "start": 7.5,
+       "end": 8.036
+      },
+      {
+       "text": "gel,",
+       "join": false,
+       "start": 8.036,
+       "end": 8.571
+      },
+      {
+       "text": "al",
+       "join": true,
+       "start": 8.571,
+       "end": 9.643
+      },
+      {
+       "text": "le.",
+       "join": false,
+       "start": 9.643,
+       "end": 10.179
+      }
+     ],
+     "es": "todos los pájaros, todos."
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Welch ein Singen, Musiziern,",
+     "tr": "Ne şarkılar, ne müzik,",
+     "en": "What singing, what music,",
+     "syl": [
+      {
+       "text": "Welch",
+       "join": false,
+       "start": 10.714,
+       "end": 11.25
+      },
+      {
+       "text": "ein",
+       "join": false,
+       "start": 11.25,
+       "end": 11.786
+      },
+      {
+       "text": "Sin",
+       "join": true,
+       "start": 11.786,
+       "end": 12.321
+      },
+      {
+       "text": "gen,",
+       "join": false,
+       "start": 12.321,
+       "end": 12.857
+      },
+      {
+       "text": "Mu",
+       "join": true,
+       "start": 12.857,
+       "end": 13.393
+      },
+      {
+       "text": "si",
+       "join": true,
+       "start": 13.393,
+       "end": 13.929
+      },
+      {
+       "text": "ziern,",
+       "join": false,
+       "start": 13.929,
+       "end": 15.0
+      }
+     ],
+     "es": "¡Cuánto canto, cuánta música,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Pfeifen, Zwitschern, Tiriliern!",
+     "tr": "ıslık, cıvıltı, şakıma!",
+     "en": "whistling, chirping, trilling!",
+     "syl": [
+      {
+       "text": "Pfei",
+       "join": true,
+       "start": 15.0,
+       "end": 15.536
+      },
+      {
+       "text": "fen,",
+       "join": false,
+       "start": 15.536,
+       "end": 16.071
+      },
+      {
+       "text": "Zwit",
+       "join": true,
+       "start": 16.071,
+       "end": 16.607
+      },
+      {
+       "text": "schern,",
+       "join": false,
+       "start": 16.607,
+       "end": 17.143
+      },
+      {
+       "text": "Ti",
+       "join": true,
+       "start": 17.143,
+       "end": 17.679
+      },
+      {
+       "text": "ri",
+       "join": true,
+       "start": 17.679,
+       "end": 18.214
+      },
+      {
+       "text": "liern!",
+       "join": false,
+       "start": 18.214,
+       "end": 19.286
+      }
+     ],
+     "es": "silbidos, trinos y gorjeos!"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "Frühling will nun einmarschiern,",
+     "tr": "Bahar içeri girmek istiyor,",
+     "en": "Spring wants to march in,",
+     "syl": [
+      {
+       "text": "Früh",
+       "join": true,
+       "start": 19.286,
+       "end": 20.089
+      },
+      {
+       "text": "ling",
+       "join": false,
+       "start": 20.089,
+       "end": 20.357
+      },
+      {
+       "text": "will",
+       "join": false,
+       "start": 20.357,
+       "end": 20.893
+      },
+      {
+       "text": "nun",
+       "join": false,
+       "start": 20.893,
+       "end": 21.429
+      },
+      {
+       "text": "ein",
+       "join": true,
+       "start": 21.429,
+       "end": 21.964
+      },
+      {
+       "text": "mar",
+       "join": true,
+       "start": 21.964,
+       "end": 22.5
+      },
+      {
+       "text": "schiern,",
+       "join": false,
+       "start": 22.5,
+       "end": 23.571
+      }
+     ],
+     "es": "La primavera quiere entrar,"
+    },
+    {
+     "part": "verse",
+     "who": "Alle",
+     "de": "kommt mit Sang und Schalle.",
+     "tr": "şarkıyla, neşeyle geliyor.",
+     "en": "it comes with song and sound.",
+     "syl": [
+      {
+       "text": "kommt",
+       "join": false,
+       "start": 23.571,
+       "end": 24.375
+      },
+      {
+       "text": "mit",
+       "join": false,
+       "start": 24.375,
+       "end": 24.643
+      },
+      {
+       "text": "Sang",
+       "join": false,
+       "start": 24.643,
+       "end": 25.179
+      },
+      {
+       "text": "und",
+       "join": false,
+       "start": 25.179,
+       "end": 25.714
+      },
+      {
+       "text": "Schal",
+       "join": true,
+       "start": 25.714,
+       "end": 26.786
+      },
+      {
+       "text": "le.",
+       "join": false,
+       "start": 26.786,
+       "end": 27.321
+      }
+     ],
+     "es": "viene con cantos y sonidos."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Wer ist schon da?",
+     "options": [
+      "Alle Vögel",
+      "Alle Katzen",
+      "Alle Kinder"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mc",
+     "q": "Wer will einmarschieren?",
+     "options": [
+      "Der Frühling",
+      "Der Winter",
+      "Der Herbst"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "tf",
+     "q": "Die Vögel singen und pfeifen.",
+     "answer": 0
+    }
+   ],
+   "timeline": [
+    {
+     "start": 2.143,
+     "end": 6.429
+    },
+    {
+     "start": 6.429,
+     "end": 10.179
+    },
+    {
+     "start": 10.714,
+     "end": 15.0
+    },
+    {
+     "start": 15.0,
+     "end": 19.286
+    },
+    {
+     "start": 19.286,
+     "end": 23.571
+    },
+    {
+     "start": 23.571,
+     "end": 27.321
+    }
+   ],
+   "duration": 30.36,
+   "audio": "songs/a1-lied-11.mp3",
+   "hash": "877e831399e5a230"
+  }
+ ]
+}

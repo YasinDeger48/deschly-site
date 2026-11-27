@@ -28,32 +28,62 @@
     {
      "q": "sein · ich",
      "a": "bin",
-     "x": "Ich bin müde."
+     "x": "Ich bin müde.",
+     "xm": {
+      "tr": "Yorgunum.",
+      "en": "I am tired.",
+      "es": "Estoy cansado."
+     }
     },
     {
      "q": "sein · du",
      "a": "bist",
-     "x": "Bist du zu Hause?"
+     "x": "Bist du zu Hause?",
+     "xm": {
+      "tr": "Evde misin?",
+      "en": "Are you at home?",
+      "es": "¿Estás en casa?"
+     }
     },
     {
      "q": "sein · er/sie/es",
      "a": "ist",
-     "x": "Er ist Lehrer."
+     "x": "Er ist Lehrer.",
+     "xm": {
+      "tr": "O öğretmen.",
+      "en": "He is a teacher.",
+      "es": "Él es profesor."
+     }
     },
     {
      "q": "sein · wir",
      "a": "sind",
-     "x": "Wir sind aus der Türkei."
+     "x": "Wir sind aus der Türkei.",
+     "xm": {
+      "tr": "Türkiyeliyiz.",
+      "en": "We are from Turkey.",
+      "es": "Somos de Turquía."
+     }
     },
     {
      "q": "sein · ihr",
      "a": "seid",
-     "x": "Ihr seid nett."
+     "x": "Ihr seid nett.",
+     "xm": {
+      "tr": "Siz çok naziksiniz.",
+      "en": "You are nice.",
+      "es": "Eres amable."
+     }
     },
     {
      "q": "sein · sie/Sie",
      "a": "sind",
-     "x": "Sind Sie Frau Kaya?"
+     "x": "Sind Sie Frau Kaya?",
+     "xm": {
+      "tr": "Siz Kaya Hanım mısınız?",
+      "en": "Are you Ms Kaya?",
+      "es": "¿Es usted la señora Kaya?"
+     }
     }
    ]
   },
@@ -85,32 +115,66 @@
     {
      "q": "haben · ich",
      "a": "habe",
-     "x": "Ich habe Hunger."
+     "x": "Ich habe Hunger.",
+     "xm": {
+      "tr": "Acıktım.",
+      "en": "I am hungry.",
+      "es": "Tengo hambre."
+     }
     },
     {
      "q": "haben · du",
      "a": "hast",
-     "x": "Hast du Zeit?"
+     "x": "Hast du Zeit?",
+     "xm": {
+      "tr": "Vaktin var mı?",
+      "en": "Do you have time?",
+      "es": "¿Tienes tiempo?",
+      "fr": "Tu as le temps ?",
+      "it": "Hai tempo?",
+      "ku": "Demê te heye?",
+      "ar": "هل لديك وقت؟"
+     }
     },
     {
      "q": "haben · er/sie/es",
      "a": "hat",
-     "x": "Sie hat zwei Kinder."
+     "x": "Sie hat zwei Kinder.",
+     "xm": {
+      "tr": "Onun iki çocuğu var.",
+      "en": "She has two children.",
+      "es": "Ella tiene dos hijos."
+     }
     },
     {
      "q": "haben · wir",
      "a": "haben",
-     "x": "Wir haben ein Auto."
+     "x": "Wir haben ein Auto.",
+     "xm": {
+      "tr": "Bir arabamız var.",
+      "en": "We have a car.",
+      "es": "Tenemos coche."
+     }
     },
     {
      "q": "haben · ihr",
      "a": "habt",
-     "x": "Habt ihr Fragen?"
+     "x": "Habt ihr Fragen?",
+     "xm": {
+      "tr": "Sorunuz var mı?",
+      "en": "Do you have questions?",
+      "es": "¿Tienes preguntas?"
+     }
     },
     {
      "q": "haben · sie/Sie",
      "a": "haben",
-     "x": "Haben Sie Wasser?"
+     "x": "Haben Sie Wasser?",
+     "xm": {
+      "tr": "Suyunuz var mı?",
+      "en": "Do you have water?",
+      "es": "¿Tienes agua?"
+     }
     }
    ]
   },
@@ -142,7 +206,12 @@
     {
      "q": "können · ich",
      "a": "kann",
-     "x": "Ich kann schwimmen."
+     "x": "Ich kann schwimmen.",
+     "xm": {
+      "tr": "Yüzebilirim.",
+      "en": "I can swim.",
+      "es": "Sé nadar."
+     }
     },
     {
      "q": "können · du",
@@ -167,7 +236,12 @@
     {
      "q": "müssen · ich",
      "a": "muss",
-     "x": "Ich muss arbeiten."
+     "x": "Ich muss arbeiten.",
+     "xm": {
+      "tr": "Çalışmam lazım.",
+      "en": "I have to work.",
+      "es": "Tengo que trabajar."
+     }
     },
     {
      "q": "müssen · du",
@@ -192,7 +266,12 @@
     {
      "q": "wollen · ich",
      "a": "will",
-     "x": "Ich will nach Hause."
+     "x": "Ich will nach Hause.",
+     "xm": {
+      "tr": "Eve gitmek istiyorum.",
+      "en": "I want to go home.",
+      "es": "Quiero ir a casa."
+     }
     },
     {
      "q": "wollen · du",
@@ -217,7 +296,12 @@
     {
      "q": "möchten · ich",
      "a": "möchte",
-     "x": "Ich möchte einen Kaffee."
+     "x": "Ich möchte einen Kaffee.",
+     "xm": {
+      "tr": "Bir kahve istiyorum.",
+      "en": "I would like a coffee.",
+      "es": "Quisiera un café."
+     }
     },
     {
      "q": "möchten · du",
@@ -242,7 +326,12 @@
     {
      "q": "dürfen · ich",
      "a": "darf",
-     "x": "Darf ich fragen?"
+     "x": "Darf ich fragen?",
+     "xm": {
+      "tr": "Sorabilir miyim?",
+      "en": "May I ask?",
+      "es": "¿Puedo preguntar?"
+     }
     },
     {
      "q": "dürfen · du",
@@ -417,62 +506,122 @@
     {
      "q": "maskulin · Nominativ",
      "a": "der",
-     "x": "Der Mann ist hier."
+     "x": "Der Mann ist hier.",
+     "xm": {
+      "tr": "Adam burada.",
+      "en": "The man is here.",
+      "es": "El hombre está aquí."
+     }
     },
     {
      "q": "maskulin · Akkusativ",
      "a": "den",
-     "x": "Ich sehe den Mann."
+     "x": "Ich sehe den Mann.",
+     "xm": {
+      "tr": "Adamı görüyorum.",
+      "en": "I see the man.",
+      "es": "Veo al hombre."
+     }
     },
     {
      "q": "maskulin · Dativ",
      "a": "dem",
-     "x": "Ich helfe dem Mann."
+     "x": "Ich helfe dem Mann.",
+     "xm": {
+      "tr": "Adama yardım ediyorum.",
+      "en": "I help the man.",
+      "es": "Ayudo al hombre."
+     }
     },
     {
      "q": "feminin · Nominativ",
      "a": "die",
-     "x": "Die Frau ist hier."
+     "x": "Die Frau ist hier.",
+     "xm": {
+      "tr": "Kadın burada.",
+      "en": "The woman is here.",
+      "es": "La mujer está aquí."
+     }
     },
     {
      "q": "feminin · Akkusativ",
      "a": "die",
-     "x": "Ich sehe die Frau."
+     "x": "Ich sehe die Frau.",
+     "xm": {
+      "tr": "Kadını görüyorum.",
+      "en": "I see the woman.",
+      "es": "Veo a la mujer."
+     }
     },
     {
      "q": "feminin · Dativ",
      "a": "der",
-     "x": "Ich helfe der Frau."
+     "x": "Ich helfe der Frau.",
+     "xm": {
+      "tr": "Kadına yardım ediyorum.",
+      "en": "I help the woman.",
+      "es": "Ayudo a la mujer."
+     }
     },
     {
      "q": "neutral · Nominativ",
      "a": "das",
-     "x": "Das Kind ist hier."
+     "x": "Das Kind ist hier.",
+     "xm": {
+      "tr": "Çocuk burada.",
+      "en": "The child is here.",
+      "es": "El niño está aquí."
+     }
     },
     {
      "q": "neutral · Akkusativ",
      "a": "das",
-     "x": "Ich sehe das Kind."
+     "x": "Ich sehe das Kind.",
+     "xm": {
+      "tr": "Çocuğu görüyorum.",
+      "en": "I see the child.",
+      "es": "Veo al niño."
+     }
     },
     {
      "q": "neutral · Dativ",
      "a": "dem",
-     "x": "Ich helfe dem Kind."
+     "x": "Ich helfe dem Kind.",
+     "xm": {
+      "tr": "Çocuğa yardım ediyorum.",
+      "en": "I help the child.",
+      "es": "Ayudo al niño."
+     }
     },
     {
      "q": "Plural · Nominativ",
      "a": "die",
-     "x": "Die Kinder sind hier."
+     "x": "Die Kinder sind hier.",
+     "xm": {
+      "tr": "Çocuklar burada.",
+      "en": "The children are here.",
+      "es": "Los niños están aquí."
+     }
     },
     {
      "q": "Plural · Akkusativ",
      "a": "die",
-     "x": "Ich sehe die Kinder."
+     "x": "Ich sehe die Kinder.",
+     "xm": {
+      "tr": "Çocukları görüyorum.",
+      "en": "I see the children.",
+      "es": "Veo a los niños."
+     }
     },
     {
      "q": "Plural · Dativ",
      "a": "den",
-     "x": "Ich helfe den Kindern."
+     "x": "Ich helfe den Kindern.",
+     "xm": {
+      "tr": "Çocuklara yardım ediyorum.",
+      "en": "I help the children.",
+      "es": "Ayudo a los niños."
+     }
     }
    ]
   },
@@ -504,52 +653,106 @@
     {
      "q": "maskulin · Nominativ",
      "a": "ein",
-     "x": "Das ist ein Tisch."
+     "x": "Das ist ein Tisch.",
+     "xm": {
+      "tr": "Bu bir masa.",
+      "en": "This is a table.",
+      "es": "Esto es una mesa."
+     }
     },
     {
      "q": "maskulin · Akkusativ",
      "a": "einen",
-     "x": "Ich habe einen Bruder."
+     "x": "Ich habe einen Bruder.",
+     "xm": {
+      "tr": "Bir erkek kardeşim var.",
+      "en": "I have a brother.",
+      "es": "Tengo un hermano."
+     }
     },
     {
      "q": "maskulin · Dativ",
      "a": "einem",
-     "x": "mit einem Freund"
+     "x": "mit einem Freund",
+     "xm": {
+      "tr": "bir arkadaşla (erkek)",
+      "en": "with a friend (male)",
+      "es": "con un amigo"
+     }
     },
     {
      "q": "feminin · Nominativ",
      "a": "eine",
-     "x": "Das ist eine Lampe."
+     "x": "Das ist eine Lampe.",
+     "xm": {
+      "tr": "Bu bir lamba.",
+      "en": "This is a lamp.",
+      "es": "Esto es una lámpara."
+     }
     },
     {
      "q": "feminin · Akkusativ",
      "a": "eine",
-     "x": "Ich kaufe eine Jacke."
+     "x": "Ich kaufe eine Jacke.",
+     "xm": {
+      "tr": "Bir ceket alıyorum.",
+      "en": "I am buying a jacket.",
+      "es": "Estoy comprando una chaqueta."
+     }
     },
     {
      "q": "feminin · Dativ",
      "a": "einer",
-     "x": "mit einer Freundin"
+     "x": "mit einer Freundin",
+     "xm": {
+      "tr": "bir arkadaşla (kadın)",
+      "en": "with a friend (female)",
+      "es": "con una amiga"
+     }
     },
     {
      "q": "neutral · Nominativ",
      "a": "ein",
-     "x": "Das ist ein Haus."
+     "x": "Das ist ein Haus.",
+     "xm": {
+      "tr": "Bu bir ev.",
+      "en": "This is a house.",
+      "es": "Esto es una casa."
+     }
     },
     {
      "q": "neutral · Akkusativ",
      "a": "ein",
-     "x": "Ich habe ein Auto."
+     "x": "Ich habe ein Auto.",
+     "xm": {
+      "tr": "Bir arabam var.",
+      "en": "I have a car.",
+      "es": "Tengo coche.",
+      "fr": "J'ai une voiture.",
+      "it": "Ho una macchina.",
+      "ku": "Erebeyek min heye.",
+      "ar": "لدي سيارة."
+     }
     },
     {
      "q": "Plural · Akkusativ (kein)",
      "a": "keine",
-     "x": "Ich habe keine Kinder."
+     "x": "Ich habe keine Kinder.",
+     "xm": {
+      "tr": "Çocuğum yok.",
+      "en": "I have no children.",
+      "es": "No tengo hijos."
+     }
     },
     {
      "q": "maskulin · Akkusativ (kein)",
      "a": "keinen",
-     "x": "Ich habe keinen Hunger."
+     "x": "Ich habe keinen Hunger.",
+     "xm": {
+      "tr": "Aç değilim.",
+      "en": "I am not hungry.",
+      "es": "No tengo hambre."
+     }
     }
    ]
   },
@@ -676,47 +879,92 @@
     {
      "q": "ich",
      "a": "mein",
-     "x": "mein Vater"
+     "x": "mein Vater",
+     "xm": {
+      "tr": "babam",
+      "en": "my father",
+      "es": "mi padre"
+     }
     },
     {
      "q": "du",
      "a": "dein",
-     "x": "dein Handy"
+     "x": "dein Handy",
+     "xm": {
+      "tr": "senin telefonun",
+      "en": "your phone",
+      "es": "tu teléfono"
+     }
     },
     {
      "q": "er",
      "a": "sein",
-     "x": "sein Auto"
+     "x": "sein Auto",
+     "xm": {
+      "tr": "onun arabası (erkek)",
+      "en": "his car",
+      "es": "su coche"
+     }
     },
     {
      "q": "sie",
      "a": "ihr",
-     "x": "ihr Bruder"
+     "x": "ihr Bruder",
+     "xm": {
+      "tr": "onun erkek kardeşi (kadın)",
+      "en": "her brother",
+      "es": "su hermano"
+     }
     },
     {
      "q": "es",
      "a": "sein",
-     "x": "sein Spielzeug"
+     "x": "sein Spielzeug",
+     "xm": {
+      "tr": "onun oyuncağı (çocuk)",
+      "en": "its toy",
+      "es": "su juguete"
+     }
     },
     {
      "q": "wir",
      "a": "unser",
-     "x": "unser Haus"
+     "x": "unser Haus",
+     "xm": {
+      "tr": "bizim evimiz",
+      "en": "our house",
+      "es": "nuestra casa"
+     }
     },
     {
      "q": "ihr",
      "a": "euer",
-     "x": "euer Garten"
+     "x": "euer Garten",
+     "xm": {
+      "tr": "sizin bahçeniz",
+      "en": "your garden (you all)",
+      "es": "vuestro jardín"
+     }
     },
     {
      "q": "sie (Plural)",
      "a": "ihr",
-     "x": "ihr Hund"
+     "x": "ihr Hund",
+     "xm": {
+      "tr": "onların köpeği",
+      "en": "their dog",
+      "es": "su perro"
+     }
     },
     {
      "q": "Sie",
      "a": "Ihr",
-     "x": "Ihr Pass"
+     "x": "Ihr Pass",
+     "xm": {
+      "tr": "sizin pasaportunuz (resmî)",
+      "en": "your passport (formal)",
+      "es": "su pasaporte"
+     }
     }
    ]
   },
@@ -748,107 +996,212 @@
     {
      "q": "aus",
      "a": "Dativ",
-     "x": "aus der Türkei"
+     "x": "aus der Türkei",
+     "xm": {
+      "tr": "Türkiye'den",
+      "en": "from Turkey",
+      "es": "de Turquía"
+     }
     },
     {
      "q": "bei",
      "a": "Dativ",
-     "x": "beim Arzt"
+     "x": "beim Arzt",
+     "xm": {
+      "tr": "doktorda",
+      "en": "at the doctor's",
+      "es": "en la consulta del médico"
+     }
     },
     {
      "q": "mit",
      "a": "Dativ",
-     "x": "mit dem Bus"
+     "x": "mit dem Bus",
+     "xm": {
+      "tr": "otobüsle",
+      "en": "by bus",
+      "es": "en autobús"
+     }
     },
     {
      "q": "nach",
      "a": "Dativ",
-     "x": "nach der Arbeit"
+     "x": "nach der Arbeit",
+     "xm": {
+      "tr": "işten sonra",
+      "en": "after work",
+      "es": "después del trabajo"
+     }
     },
     {
      "q": "seit",
      "a": "Dativ",
-     "x": "seit einem Jahr"
+     "x": "seit einem Jahr",
+     "xm": {
+      "tr": "bir yıldır",
+      "en": "for a year",
+      "es": "desde hace un año"
+     }
     },
     {
      "q": "von",
      "a": "Dativ",
-     "x": "vom Bahnhof"
+     "x": "vom Bahnhof",
+     "xm": {
+      "tr": "istasyondan",
+      "en": "from the station",
+      "es": "desde la estación"
+     }
     },
     {
      "q": "zu",
      "a": "Dativ",
-     "x": "zum Supermarkt"
+     "x": "zum Supermarkt",
+     "xm": {
+      "tr": "süpermarkete",
+      "en": "to the supermarket",
+      "es": "al supermercado"
+     }
     },
     {
      "q": "durch",
      "a": "Akkusativ",
-     "x": "durch den Park"
+     "x": "durch den Park",
+     "xm": {
+      "tr": "parkın içinden",
+      "en": "through the park",
+      "es": "por el parque"
+     }
     },
     {
      "q": "für",
      "a": "Akkusativ",
-     "x": "für dich"
+     "x": "für dich",
+     "xm": {
+      "tr": "senin için",
+      "en": "for you",
+      "es": "para ti"
+     }
     },
     {
      "q": "gegen",
      "a": "Akkusativ",
-     "x": "gegen den Baum"
+     "x": "gegen den Baum",
+     "xm": {
+      "tr": "ağaca (çarpmak)",
+      "en": "against the tree",
+      "es": "contra el árbol"
+     }
     },
     {
      "q": "ohne",
      "a": "Akkusativ",
-     "x": "ohne Zucker"
+     "x": "ohne Zucker",
+     "xm": {
+      "tr": "şekersiz",
+      "en": "without sugar",
+      "es": "sin azúcar"
+     }
     },
     {
      "q": "um",
      "a": "Akkusativ",
-     "x": "um den Tisch"
+     "x": "um den Tisch",
+     "xm": {
+      "tr": "masanın etrafında",
+      "en": "around the table",
+      "es": "alrededor de la mesa"
+     }
     },
     {
      "q": "in",
      "a": "Wo? Dativ · Wohin? Akkusativ",
-     "x": "im Kino / ins Kino"
+     "x": "im Kino / ins Kino",
+     "xm": {
+      "tr": "sinemada / sinemaya",
+      "en": "at the cinema / to the cinema",
+      "es": "en el cine / al cine"
+     }
     },
     {
      "q": "an",
      "a": "Wo? Dativ · Wohin? Akkusativ",
-     "x": "am Fenster / ans Fenster"
+     "x": "am Fenster / ans Fenster",
+     "xm": {
+      "tr": "pencerede / pencereye",
+      "en": "at the window / to the window",
+      "es": "en la ventana / hacia la ventana"
+     }
     },
     {
      "q": "auf",
      "a": "Wo? Dativ · Wohin? Akkusativ",
-     "x": "auf dem Tisch / auf den Tisch"
+     "x": "auf dem Tisch / auf den Tisch",
+     "xm": {
+      "tr": "masanın üstünde / masanın üstüne",
+      "en": "on the table / onto the table",
+      "es": "sobre la mesa / encima de la mesa"
+     }
     },
     {
      "q": "neben",
      "a": "Wo? Dativ · Wohin? Akkusativ",
-     "x": "neben dem Bett"
+     "x": "neben dem Bett",
+     "xm": {
+      "tr": "yatağın yanında",
+      "en": "next to the bed",
+      "es": "al lado de la cama"
+     }
     },
     {
      "q": "unter",
      "a": "Wo? Dativ · Wohin? Akkusativ",
-     "x": "unter dem Stuhl"
+     "x": "unter dem Stuhl",
+     "xm": {
+      "tr": "sandalyenin altında",
+      "en": "under the chair",
+      "es": "debajo de la silla"
+     }
     },
     {
      "q": "über",
      "a": "Wo? Dativ · Wohin? Akkusativ",
-     "x": "über dem Sofa"
+     "x": "über dem Sofa",
+     "xm": {
+      "tr": "kanepenin üstünde (yukarıda)",
+      "en": "above the sofa",
+      "es": "encima del sofá"
+     }
     },
     {
      "q": "vor",
      "a": "Wo? Dativ · Wohin? Akkusativ",
-     "x": "vor dem Haus"
+     "x": "vor dem Haus",
+     "xm": {
+      "tr": "evin önünde",
+      "en": "in front of the house",
+      "es": "delante de la casa"
+     }
     },
     {
      "q": "hinter",
      "a": "Wo? Dativ · Wohin? Akkusativ",
-     "x": "hinter der Tür"
+     "x": "hinter der Tür",
+     "xm": {
+      "tr": "kapının arkasında",
+      "en": "behind the door",
+      "es": "detrás de la puerta"
+     }
     },
     {
      "q": "zwischen",
      "a": "Wo? Dativ · Wohin? Akkusativ",
-     "x": "zwischen den Häusern"
+     "x": "zwischen den Häusern",
+     "xm": {
+      "tr": "evlerin arasında",
+      "en": "between the houses",
+      "es": "entre las casas"
+     }
     }
    ]
   },
@@ -888,7 +1241,16 @@
       "ar": "من؟"
      },
      "a": "Wer?",
-     "x": "Wer ist das?"
+     "x": "Wer ist das?",
+     "xm": {
+      "tr": "Bu kim?",
+      "en": "Who is that?",
+      "es": "¿Quién es?",
+      "fr": "Qui est-ce ?",
+      "it": "Chi è?",
+      "ku": "Ew kî ye?",
+      "ar": "من هذا؟"
+     }
     },
     {
      "q": {
@@ -901,7 +1263,16 @@
       "ar": "ماذا؟"
      },
      "a": "Was?",
-     "x": "Was machst du?"
+     "x": "Was machst du?",
+     "xm": {
+      "tr": "Ne yapıyorsun?",
+      "en": "What are you doing?",
+      "es": "¿Qué estás haciendo?",
+      "fr": "Qu'est-ce que tu fais ?",
+      "it": "Che cosa stai facendo?",
+      "ku": "Tu çi dikî?",
+      "ar": "ماذا تفعل؟"
+     }
     },
     {
      "q": {
@@ -914,7 +1285,16 @@
       "ar": "أين؟"
      },
      "a": "Wo?",
-     "x": "Wo wohnst du?"
+     "x": "Wo wohnst du?",
+     "xm": {
+      "tr": "Nerede oturuyorsun?",
+      "en": "Where do you live?",
+      "es": "¿Dónde vives?",
+      "fr": "Où habites-tu ?",
+      "it": "Dove abiti?",
+      "ku": "Tu li ku dijî?",
+      "ar": "أين تسكن؟"
+     }
     },
     {
      "q": {
@@ -927,7 +1307,16 @@
       "ar": "إلى أين؟"
      },
      "a": "Wohin?",
-     "x": "Wohin fährst du?"
+     "x": "Wohin fährst du?",
+     "xm": {
+      "tr": "Nereye gidiyorsun?",
+      "en": "Where are you going?",
+      "es": "¿Adónde vas?",
+      "fr": "Où vas-tu ?",
+      "it": "Dove stai andando?",
+      "ku": "Tu diçî ku?",
+      "ar": "إلى أين أنت ذاهب؟"
+     }
     },
     {
      "q": {
@@ -940,7 +1329,12 @@
       "ar": "من أين؟"
      },
      "a": "Woher?",
-     "x": "Woher kommst du?"
+     "x": "Woher kommst du?",
+     "xm": {
+      "tr": "Nerelisin?",
+      "en": "Where are you from?",
+      "es": "¿De dónde eres?"
+     }
     },
     {
      "q": {
@@ -953,7 +1347,16 @@
       "ar": "متى؟"
      },
      "a": "Wann?",
-     "x": "Wann beginnt der Kurs?"
+     "x": "Wann beginnt der Kurs?",
+     "xm": {
+      "tr": "Kurs ne zaman başlıyor?",
+      "en": "When does the course start?",
+      "es": "¿Cuándo empieza el curso?",
+      "fr": "Quand le cours commence-t-il ?",
+      "it": "Quando inizia il corso?",
+      "ku": "Kurs kengî dest pê dike?",
+      "ar": "متى تبدأ الدورة؟"
+     }
     },
     {
      "q": {
@@ -966,7 +1369,16 @@
       "ar": "كيف؟"
      },
      "a": "Wie?",
-     "x": "Wie heißt du?"
+     "x": "Wie heißt du?",
+     "xm": {
+      "tr": "Adın ne?",
+      "en": "What is your name?",
+      "es": "¿Cómo te llamas?",
+      "fr": "Comment tu t'appelles ?",
+      "it": "Come ti chiami?",
+      "ku": "Navê te çi ye?",
+      "ar": "ما اسمك؟"
+     }
     },
     {
      "q": {
@@ -979,7 +1391,16 @@
       "ar": "لماذا؟"
      },
      "a": "Warum?",
-     "x": "Warum lernst du Deutsch?"
+     "x": "Warum lernst du Deutsch?",
+     "xm": {
+      "tr": "Neden Almanca öğreniyorsun?",
+      "en": "Why are you learning German?",
+      "es": "¿Por qué estás aprendiendo alemán?",
+      "fr": "Pourquoi apprends-tu l'allemand ?",
+      "it": "Perché stai imparando il tedesco?",
+      "ku": "Tu çima almanî hîn dibî?",
+      "ar": "لماذا تتعلم الألمانية؟"
+     }
     },
     {
      "q": {
@@ -992,7 +1413,16 @@
       "ar": "كم عدد؟"
      },
      "a": "Wie viele?",
-     "x": "Wie viele Kinder hast du?"
+     "x": "Wie viele Kinder hast du?",
+     "xm": {
+      "tr": "Kaç çocuğun var?",
+      "en": "How many children do you have?",
+      "es": "¿Cuántos hijos tienes?",
+      "fr": "Tu as combien d'enfants ?",
+      "it": "Quanti figli hai?",
+      "ku": "Tu çend zarokên xwe hene?",
+      "ar": "كم طفلًا لديك؟"
+     }
     },
     {
      "q": {
@@ -1005,7 +1435,16 @@
       "ar": "كم ثمن؟"
      },
      "a": "Wie viel?",
-     "x": "Wie viel kostet das?"
+     "x": "Wie viel kostet das?",
+     "xm": {
+      "tr": "Bu ne kadar?",
+      "en": "How much is it?",
+      "es": "¿Cuánto cuesta?",
+      "fr": "Combien ça coûte ?",
+      "it": "Quanto costa?",
+      "ku": "Ev çiqas e?",
+      "ar": "كم سعره؟"
+     }
     },
     {
      "q": {
@@ -1018,7 +1457,16 @@
       "ar": "أيّ؟"
      },
      "a": "Welcher / Welche / Welches?",
-     "x": "Welche Farbe magst du?"
+     "x": "Welche Farbe magst du?",
+     "xm": {
+      "tr": "Hangi rengi seversin?",
+      "en": "Which colour do you like?",
+      "es": "¿Qué color te gusta?",
+      "fr": "Quelle couleur aimes-tu ?",
+      "it": "Quale colore ti piace?",
+      "ku": "Tu ji kîjan rengî hez dikî?",
+      "ar": "أي لون يعجبك؟"
+     }
     },
     {
      "q": {
@@ -1031,7 +1479,12 @@
       "ar": "مَن؟"
      },
      "a": "Wen?",
-     "x": "Wen besuchst du?"
+     "x": "Wen besuchst du?",
+     "xm": {
+      "tr": "Kimi ziyaret ediyorsun?",
+      "en": "Whom are you visiting?",
+      "es": "¿A quién visitas?"
+     }
     },
     {
      "q": {
@@ -1044,7 +1497,16 @@
       "ar": "إلى من؟"
      },
      "a": "Wem?",
-     "x": "Wem gehört das?"
+     "x": "Wem gehört das?",
+     "xm": {
+      "tr": "Bu kimin?",
+      "en": "Whose is this?",
+      "es": "¿De quién es esto?",
+      "fr": "À qui est-ce ?",
+      "it": "Di chi è questo?",
+      "ku": "Ev ya kê ye?",
+      "ar": "لمن هذا؟"
+     }
     }
    ]
   },

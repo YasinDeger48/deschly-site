@@ -12,61 +12,79 @@
      "who": "Lina",
      "de": "Hallo! Ich heiße Lina.",
      "tr": "Merhaba! Benim adım Lina.",
-     "en": "Hello! My name is Lina."
+     "en": "Hello! My name is Lina.",
+     "es": "¡Hola! Me llamo Lina."
     },
     {
      "who": "Elif",
      "de": "Hallo, ich heiße Elif.",
      "tr": "Merhaba, benim adım Elif.",
-     "en": "Hello, my name is Elif."
+     "en": "Hello, my name is Elif.",
+     "es": "Hola, me llamo Elif.",
+     "fr": "Bonjour, je m'appelle Elif.",
+     "it": "Ciao, mi chiamo Elif.",
+     "ku": "Silav, navê min Elîf e.",
+     "ar": "مرحباً، اسمي إليف."
     },
     {
      "who": "Lina",
      "de": "Wie heißen Sie?",
      "tr": "Adınız ne?",
-     "en": "What is your name?"
+     "en": "What is your name?",
+     "es": "¿Cómo te llamas?",
+     "fr": "Comment tu t'appelles ?",
+     "it": "Come ti chiami?",
+     "ku": "Navê te çi ye?",
+     "ar": "ما اسمك؟"
     },
     {
      "who": "Elif",
      "de": "Ich heiße Elif. Ich komme aus der Türkei.",
      "tr": "Benim adım Elif. Türkiye'den geliyorum.",
-     "en": "My name is Elif. I come from Türkiye."
+     "en": "My name is Elif. I come from Türkiye.",
+     "es": "Me llamo Elif. Soy de Türkiye."
     },
     {
      "who": "Lina",
      "de": "Ich wohne in Köln und spreche Deutsch.",
      "tr": "Köln'de oturuyorum ve Almanca konuşuyorum.",
-     "en": "I live in Cologne and speak German."
+     "en": "I live in Cologne and speak German.",
+     "es": "Vivo en Colonia y hablo alemán."
     },
     {
      "who": "Elif",
      "de": "Ich wohne auch in Köln. Ich spreche Türkisch.",
      "tr": "Ben de Köln'de oturuyorum. Türkçe konuşuyorum.",
-     "en": "I live in Cologne too. I speak Turkish."
+     "en": "I live in Cologne too. I speak Turkish.",
+     "es": "Yo también vivo en Colonia. Hablo turco."
     },
     {
      "who": "Lina",
      "de": "Freut mich! Ich heiße Lina.",
      "tr": "Memnun oldum! Benim adım Lina.",
-     "en": "Nice to meet you! My name is Lina."
+     "en": "Nice to meet you! My name is Lina.",
+     "es": "¡Encantada de conocerte! Me llamo Lina."
     },
     {
      "who": "Elif",
      "de": "Freut mich, Lina! Ich habe eine Frage.",
      "tr": "Memnun oldum Lina! Bir sorum var.",
-     "en": "Nice to meet you, Lina! I have a question."
+     "en": "Nice to meet you, Lina! I have a question.",
+     "es": "¡Encantada de conocerte, Lina! Tengo una pregunta."
     },
     {
      "who": "Lina",
      "de": "Ja, bitte. Ich antworte gern.",
      "tr": "Evet, lütfen. Memnuniyetle cevap veririm.",
-     "en": "Yes, please. I'm happy to answer."
+     "en": "Yes, please. I'm happy to answer.",
+     "es": "Sí, claro. Me encantará responderte."
     },
     {
      "who": "Elif",
      "de": "Danke. Ich lerne Deutsch.",
      "tr": "Teşekkürler. Almanca öğreniyorum.",
-     "en": "Thank you. I'm learning German."
+     "en": "Thank you. I'm learning German.",
+     "es": "Gracias. Estoy aprendiendo alemán."
     }
    ],
    "glossary": [
@@ -75,21 +93,36 @@
      "lemma": "Kurs",
      "art": "der",
      "tr": "kurs",
-     "en": "course"
+     "en": "course",
+     "es": "curso",
+     "fr": "cours",
+     "it": "corso",
+     "ku": "kurs",
+     "ar": "دورة"
     },
     {
      "form": "Deutsch",
      "lemma": "Deutsch",
      "art": "",
      "tr": "Almanca",
-     "en": "German"
+     "en": "German",
+     "es": "alemán",
+     "fr": "allemand",
+     "it": "tedesco",
+     "ku": "Alman; almanî",
+     "ar": "ألماني؛ اللغة الألمانية"
     },
     {
      "form": "Türkisch",
      "lemma": "Türkisch",
      "art": "",
      "tr": "Türkçe",
-     "en": "Turkish"
+     "en": "Turkish",
+     "es": "turco/a; turco",
+     "fr": "turc / turque ; le turc",
+     "it": "turco",
+     "ku": "tirkî",
+     "ar": "تركي"
     }
    ],
    "questions": [
@@ -137,49 +170,57 @@
      "who": "",
      "de": "Elif kommt aus der Türkei und wohnt in Köln.",
      "tr": "Elif Türkiye'den geliyor ve Köln'de oturuyor.",
-     "en": "Elif comes from Türkiye and lives in Cologne."
+     "en": "Elif comes from Türkiye and lives in Cologne.",
+     "es": "Elif es de Türkiye y vive en Colonia."
     },
     {
      "who": "",
      "de": "Sie spricht sehr gut Türkisch und lernt Deutsch im Kurs.",
      "tr": "Çok iyi Türkçe konuşuyor ve kursta Almanca öğreniyor.",
-     "en": "She speaks Turkish very well and learns German in the course."
+     "en": "She speaks Turkish very well and learns German in the course.",
+     "es": "Habla muy bien turco y aprende alemán en el curso."
     },
     {
      "who": "",
      "de": "Lina wohnt auch in Köln und spricht Deutsch.",
      "tr": "Lina da Köln'de oturuyor ve Almanca konuşuyor.",
-     "en": "Lina also lives in Cologne and speaks German."
+     "en": "Lina also lives in Cologne and speaks German.",
+     "es": "Lina también vive en Colonia y habla alemán."
     },
     {
      "who": "",
      "de": "Elif hat eine Frage, und Lina antwortet freundlich.",
      "tr": "Elif'in bir sorusu var ve Lina nazikçe cevap veriyor.",
-     "en": "Elif has a question, and Lina answers kindly."
+     "en": "Elif has a question, and Lina answers kindly.",
+     "es": "Elif tiene una pregunta y Lina le responde amablemente."
     },
     {
      "who": "",
      "de": "Sie fragen nach Namen, Land und Stadt.",
      "tr": "İsimleri, ülkeleri ve şehirleri hakkında soru soruyorlar.",
-     "en": "They ask about names, country, and city."
+     "en": "They ask about names, country, and city.",
+     "es": "Preguntan cómo se llaman y de qué país y ciudad son."
     },
     {
      "who": "",
      "de": "Elif sagt ihren Vornamen langsam und genau.",
      "tr": "Elif adını yavaşça ve açıkça söylüyor.",
-     "en": "Elif says her first name slowly and clearly."
+     "en": "Elif says her first name slowly and clearly.",
+     "es": "Elif dice su nombre despacio y claramente."
     },
     {
      "who": "",
      "de": "Lina versteht jedes Wort und lacht.",
      "tr": "Lina her kelimeyi anlıyor ve gülüyor.",
-     "en": "Lina understands every word and laughs."
+     "en": "Lina understands every word and laughs.",
+     "es": "Lina entiende cada palabra y se ríe."
     },
     {
      "who": "",
      "de": "„Freut mich!“, sagt Lina. Elif ist sehr glücklich.",
      "tr": "“Memnun oldum!” diyor Lina. Elif çok mutlu.",
-     "en": "“Nice to meet you!” Lina says. Elif is very happy."
+     "en": "“Nice to meet you!” Lina says. Elif is very happy.",
+     "es": "«¡Encantada de conocerte!», dice Lina. Elif está muy contenta."
     }
    ],
    "glossary": [
@@ -188,21 +229,36 @@
      "lemma": "Kurs",
      "art": "der",
      "tr": "kurs",
-     "en": "course"
+     "en": "course",
+     "es": "curso",
+     "fr": "cours",
+     "it": "corso",
+     "ku": "kurs",
+     "ar": "دورة"
     },
     {
      "form": "Deutsch",
      "lemma": "Deutsch",
      "art": "",
      "tr": "Almanca",
-     "en": "German"
+     "en": "German",
+     "es": "alemán",
+     "fr": "allemand",
+     "it": "tedesco",
+     "ku": "Alman; almanî",
+     "ar": "ألماني؛ اللغة الألمانية"
     },
     {
      "form": "Türkisch",
      "lemma": "Türkisch",
      "art": "",
      "tr": "Türkçe",
-     "en": "Turkish"
+     "en": "Turkish",
+     "es": "turco/a; turco",
+     "fr": "turc / turque ; le turc",
+     "it": "turco",
+     "ku": "tirkî",
+     "ar": "تركي"
     }
    ],
    "questions": [
@@ -250,61 +306,79 @@
      "who": "Elif",
      "de": "Lina, ich habe Fotos. Mein Handy ist neu.",
      "tr": "Lina, fotoğraflarım var. Telefonum yeni.",
-     "en": "Lina, I have photos. My phone is new."
+     "en": "Lina, I have photos. My phone is new.",
+     "es": "Lina, tengo fotos. Mi teléfono es nuevo."
     },
     {
      "who": "Lina",
      "de": "Zeigst du ein Foto?",
      "tr": "Fotoğrafları gösterir misin?",
-     "en": "Will you show me the photos?"
+     "en": "Will you show me the photos?",
+     "es": "¿Me enseñas las fotos?"
     },
     {
      "who": "Elif",
      "de": "Ja. Das Foto zeigt meine Mutter. Sie heißt Aylin.",
      "tr": "Evet. Bu benim annem. Adı Aylin.",
-     "en": "Yes. This is my mother. Her name is Aylin."
+     "en": "Yes. This is my mother. Her name is Aylin.",
+     "es": "Sí. Esta es mi madre. Se llama Aylin."
     },
     {
      "who": "Lina",
      "de": "Und wer ist der Junge?",
      "tr": "Peki erkek çocuk kim?",
-     "en": "And who is the boy?"
+     "en": "And who is the boy?",
+     "es": "¿Y quién es el chico?"
     },
     {
      "who": "Elif",
      "de": "Das ist mein Bruder. Er ist 19 Jahre alt.",
      "tr": "Bu benim erkek kardeşim. 19 yaşında.",
-     "en": "This is my brother. He is 19 years old."
+     "en": "This is my brother. He is 19 years old.",
+     "es": "Este es mi hermano. Tiene 19 años."
     },
     {
      "who": "Lina",
      "de": "Ich habe einen Bruder und eine Schwester.",
      "tr": "Bir erkek ve bir kız kardeşim var.",
-     "en": "I have a brother and a sister."
+     "en": "I have a brother and a sister.",
+     "es": "Tengo un hermano y una hermana.",
+     "fr": "J'ai un frère et une sœur.",
+     "it": "Ho un fratello e una sorella.",
+     "ku": "Birayek û xwişkek min hene.",
+     "ar": "لدي أخ وأخت."
     },
     {
      "who": "Elif",
      "de": "Wie heißen deine Geschwister?",
      "tr": "Kardeşlerinin adları ne?",
-     "en": "What are your siblings' names?"
+     "en": "What are your siblings' names?",
+     "es": "¿Cómo se llaman tus hermanos?"
     },
     {
      "who": "Lina",
      "de": "Meine Schwester heißt Mila. Mein Bruder heißt Tom.",
      "tr": "Kız kardeşimin adı Mila. Erkek kardeşimin adı Tom.",
-     "en": "My sister's name is Mila. My brother's name is Tom."
+     "en": "My sister's name is Mila. My brother's name is Tom.",
+     "es": "Mi hermana se llama Mila. Mi hermano se llama Tom."
     },
     {
      "who": "Elif",
      "de": "Bist du verheiratet?",
      "tr": "Evli misin?",
-     "en": "Are you married?"
+     "en": "Are you married?",
+     "es": "¿Estás casado/a?",
+     "fr": "Tu es marié(e) ?",
+     "it": "Sei sposato/a?",
+     "ku": "Tu zewicî yî?",
+     "ar": "هل أنت متزوج؟"
     },
     {
      "who": "Lina",
      "de": "Nein. Ich bin nicht verheiratet. Ich habe keine Kinder.",
      "tr": "Hayır. Evli değilim. Çocuğum yok.",
-     "en": "No. I'm not married. I don't have children."
+     "en": "No. I'm not married. I don't have children.",
+     "es": "No. No estoy casada. No tengo hijos."
     }
    ],
    "glossary": [
@@ -313,14 +387,20 @@
      "lemma": "Handyfoto",
      "art": "das",
      "tr": "telefon fotoğrafı",
-     "en": "phone photo"
+     "en": "phone photo",
+     "es": "foto del teléfono"
     },
     {
      "form": "Foto",
      "lemma": "Foto",
      "art": "das",
      "tr": "fotoğraf",
-     "en": "photo"
+     "en": "photo",
+     "es": "foto",
+     "fr": "photo",
+     "it": "foto",
+     "ku": "wêne",
+     "ar": "صورة"
     }
    ],
    "questions": [
@@ -368,55 +448,64 @@
      "who": "",
      "de": "Elif zeigt ein Handyfoto.",
      "tr": "Elif'in fotoğrafları var. Lina'ya bir fotoğraf gösteriyor.",
-     "en": "Elif has photos. She shows Lina a photo."
+     "en": "Elif has photos. She shows Lina a photo.",
+     "es": "Elif tiene fotos. Le enseña una foto a Lina."
     },
     {
      "who": "",
      "de": "Das Foto zeigt ihre Mutter und ihren Vater.",
      "tr": "Fotoğrafta annesi ve babası var.",
-     "en": "The photo shows her mother and her father."
+     "en": "The photo shows her mother and her father.",
+     "es": "En la foto salen su madre y su padre."
     },
     {
      "who": "",
      "de": "Es zeigt auch ihren Bruder und ihre Schwester.",
      "tr": "Erkek ve kız kardeşi de fotoğrafta.",
-     "en": "It also shows her brother and sister."
+     "en": "It also shows her brother and sister.",
+     "es": "También salen su hermano y su hermana."
     },
     {
      "who": "",
      "de": "Lina hat auch ein Foto.",
      "tr": "Lina'nın da bir fotoğrafı var.",
-     "en": "Lina has a photo too."
+     "en": "Lina has a photo too.",
+     "es": "Lina también tiene una foto."
     },
     {
      "who": "",
      "de": "„Das ist meine Mutter“, sagt Lina.",
      "tr": "“Bu benim annem,” diyor Lina.",
-     "en": "“This is my mother,” Lina says."
+     "en": "“This is my mother,” Lina says.",
+     "es": "«Esta es mi madre», dice Lina."
     },
     {
      "who": "",
      "de": "„Mein Vater ist 58 Jahre alt“, sagt sie.",
      "tr": "“Babam 58 yaşında,” diyor.",
-     "en": "“My father is 58 years old,” she says."
+     "en": "“My father is 58 years old,” she says.",
+     "es": "«Mi padre tiene 58 años», dice."
     },
     {
      "who": "",
      "de": "Lina hat einen Bruder und eine Schwester.",
      "tr": "Lina'nın bir erkek ve bir kız kardeşi var.",
-     "en": "Lina has a brother and a sister."
+     "en": "Lina has a brother and a sister.",
+     "es": "Lina tiene un hermano y una hermana."
     },
     {
      "who": "",
      "de": "Ihre Familien sind groß und sehr nett.",
      "tr": "Aileleri büyük ve çok sevecen.",
-     "en": "Their families are large and very kind."
+     "en": "Their families are large and very kind.",
+     "es": "Sus familias son grandes y muy amables."
     },
     {
      "who": "",
      "de": "Elif und Lina sind glücklich und die Fotos sind schön.",
      "tr": "Elif ve Lina seviniyor. Fotoğraflar güzel.",
-     "en": "Elif and Lina are happy. The photos are lovely."
+     "en": "Elif and Lina are happy. The photos are lovely.",
+     "es": "Elif y Lina están contentas. Las fotos son preciosas."
     }
    ],
    "glossary": [
@@ -425,14 +514,20 @@
      "lemma": "Handyfoto",
      "art": "das",
      "tr": "telefon fotoğrafı",
-     "en": "phone photo"
+     "en": "phone photo",
+     "es": "foto del teléfono"
     },
     {
      "form": "Foto",
      "lemma": "Foto",
      "art": "das",
      "tr": "fotoğraf",
-     "en": "photo"
+     "en": "photo",
+     "es": "foto",
+     "fr": "photo",
+     "it": "foto",
+     "ku": "wêne",
+     "ar": "صورة"
     }
    ],
    "questions": [
@@ -480,73 +575,97 @@
      "who": "Kellner",
      "de": "Guten Tag! Was möchten Sie trinken?",
      "tr": "İyi günler! Ne içmek istersiniz?",
-     "en": "Good afternoon! What would you like to drink?"
+     "en": "Good afternoon! What would you like to drink?",
+     "es": "¡Buenas tardes! ¿Qué le gustaría tomar?"
     },
     {
      "who": "Elif",
      "de": "Ich hätte gern einen Kaffee.",
      "tr": "Bir kahve alabilir miyim?",
-     "en": "I'd like a coffee, please."
+     "en": "I'd like a coffee, please.",
+     "es": "Un café, por favor."
     },
     {
      "who": "Kellner",
      "de": "Möchten Sie auch Wasser?",
      "tr": "Su da ister misiniz?",
-     "en": "Would you like water too?"
+     "en": "Would you like water too?",
+     "es": "¿También quiere agua?"
     },
     {
      "who": "Elif",
      "de": "Ja, ein Wasser, bitte.",
      "tr": "Evet, bir su lütfen.",
-     "en": "Yes, a water, please."
+     "en": "Yes, a water, please.",
+     "es": "Sí, un agua, por favor."
     },
     {
      "who": "Lina",
      "de": "Ich esse gern Fisch. Ich nehme den Fisch.",
      "tr": "Balık yemeyi severim. Balık alıyorum.",
-     "en": "I like eating fish. I'll have the fish."
+     "en": "I like eating fish. I'll have the fish.",
+     "es": "Me gusta comer pescado. Tomaré el pescado."
     },
     {
      "who": "Elif",
      "de": "Ich nehme die Suppe und den Salat.",
      "tr": "Çorba ve salata alıyorum.",
-     "en": "I'll have the soup and the salad."
+     "en": "I'll have the soup and the salad.",
+     "es": "Tomaré la sopa y la ensalada."
     },
     {
      "who": "Kellner",
      "de": "Guten Appetit!",
      "tr": "Afiyet olsun!",
-     "en": "Enjoy your meal!"
+     "en": "Enjoy your meal!",
+     "es": "¡Que aproveche!",
+     "fr": "Bon appétit !",
+     "it": "Buon appetito!",
+     "ku": "Xwarina xweş!",
+     "ar": "بالهناء والشفاء!"
     },
     {
      "who": "Lina",
      "de": "Danke. Das Essen schmeckt sehr gut.",
      "tr": "Teşekkürler. Yemek çok lezzetli.",
-     "en": "Thank you. The food tastes very good."
+     "en": "Thank you. The food tastes very good.",
+     "es": "Gracias. La comida está muy rica."
     },
     {
      "who": "Elif",
      "de": "Die Rechnung, bitte.",
      "tr": "Hesap lütfen.",
-     "en": "The bill, please."
+     "en": "The bill, please.",
+     "es": "La cuenta, por favor.",
+     "fr": "L'addition, s'il vous plaît.",
+     "it": "Il conto, per favore.",
+     "ku": "Hesab, ji kerema xwe.",
+     "ar": "الفاتورة من فضلك."
     },
     {
      "who": "Kellner",
      "de": "Das kostet zusammen 18 Euro.",
      "tr": "Hepsi toplam 18 avro tutuyor.",
-     "en": "That comes to 18 euros in total."
+     "en": "That comes to 18 euros in total.",
+     "es": "En total son 18 euros."
     },
     {
      "who": "Elif",
      "de": "Kann ich mit Karte bezahlen?",
      "tr": "Kartla ödeyebilir miyim?",
-     "en": "Can I pay by card?"
+     "en": "Can I pay by card?",
+     "es": "¿Puedo pagar con tarjeta?",
+     "fr": "Je peux payer par carte ?",
+     "it": "Posso pagare con la carta?",
+     "ku": "Dikarim bi kartê pere bidim?",
+     "ar": "هل يمكنني الدفع بالبطاقة؟"
     },
     {
      "who": "Kellner",
      "de": "Ja, natürlich.",
      "tr": "Evet, tabii.",
-     "en": "Yes, of course."
+     "en": "Yes, of course.",
+     "es": "Sí, por supuesto."
     }
    ],
    "glossary": [
@@ -555,7 +674,12 @@
      "lemma": "Café",
      "art": "das",
      "tr": "kafe",
-     "en": "café"
+     "en": "café",
+     "es": "cafetería",
+     "fr": "café",
+     "it": "bar, caffetteria",
+     "ku": "kafe",
+     "ar": "مقهى"
     }
    ],
    "questions": [
@@ -603,55 +727,64 @@
      "who": "",
      "de": "Elif und Lina gehen zusammen ins Café.",
      "tr": "Elif ve Lina kafeye gidiyor.",
-     "en": "Elif and Lina go to the café."
+     "en": "Elif and Lina go to the café.",
+     "es": "Elif y Lina van a la cafetería."
     },
     {
      "who": "",
      "de": "Sie bestellen einen Kaffee, eine Suppe und einen Salat.",
      "tr": "Kahve, çorba ve salata sipariş ediyorlar.",
-     "en": "They order coffee, soup, and salad."
+     "en": "They order coffee, soup, and salad.",
+     "es": "Piden café, sopa y ensalada."
     },
     {
      "who": "",
      "de": "Elif trinkt Wasser und isst ein Brötchen.",
      "tr": "Elif su içiyor ve bir küçük ekmek yiyor.",
-     "en": "Elif drinks water and eats a bread roll."
+     "en": "Elif drinks water and eats a bread roll.",
+     "es": "Elif bebe agua y come un panecillo."
     },
     {
      "who": "",
      "de": "Lina isst gern Fisch, und das Essen schmeckt sehr gut.",
      "tr": "Lina balık yemeyi seviyor ve yemek çok lezzetli.",
-     "en": "Lina likes fish, and the food tastes very good."
+     "en": "Lina likes fish, and the food tastes very good.",
+     "es": "A Lina le gusta el pescado y la comida está muy rica."
     },
     {
      "who": "",
      "de": "Die Freundinnen bezahlen die Rechnung.",
      "tr": "Arkadaşlar hesabı ödüyor.",
-     "en": "The friends pay the bill."
+     "en": "The friends pay the bill.",
+     "es": "Las amigas pagan la cuenta."
     },
     {
      "who": "",
      "de": "Elif und Lina kochen Eier, Nudeln und Suppe.",
      "tr": "Elif ve Lina yumurta, makarna ve çorba hazırlıyor.",
-     "en": "Elif and Lina cook eggs, pasta, and soup."
+     "en": "Elif and Lina cook eggs, pasta, and soup.",
+     "es": "Elif y Lina cocinan huevos, pasta y sopa."
     },
     {
      "who": "",
      "de": "Sie haben auch Brot, Butter und Käse.",
      "tr": "Ekmek, tereyağı ve peynirleri de var.",
-     "en": "They also have bread, butter, and cheese."
+     "en": "They also have bread, butter, and cheese.",
+     "es": "También tienen pan, mantequilla y queso."
     },
     {
      "who": "",
      "de": "Elif isst gern einen Apfel und trinkt Tee.",
      "tr": "Elif elma yemeyi ve çay içmeyi seviyor.",
-     "en": "Elif likes eating an apple and drinking tea."
+     "en": "Elif likes eating an apple and drinking tea.",
+     "es": "A Elif le gusta comer una manzana y beber té."
     },
     {
      "who": "",
      "de": "Das Frühstück ist sehr gut.",
      "tr": "Kahvaltı çok güzel.",
-     "en": "The breakfast is very good."
+     "en": "The breakfast is very good.",
+     "es": "El desayuno está muy rico."
     }
    ],
    "glossary": [
@@ -660,21 +793,32 @@
      "lemma": "Café",
      "art": "das",
      "tr": "kafe",
-     "en": "café"
+     "en": "café",
+     "es": "cafetería",
+     "fr": "café",
+     "it": "bar, caffetteria",
+     "ku": "kafe",
+     "ar": "مقهى"
     },
     {
      "form": "gehen",
      "lemma": "gehen",
      "art": "",
      "tr": "gitmek",
-     "en": "to go"
+     "en": "to go",
+     "es": "ir"
     },
     {
      "form": "Frühstück",
      "lemma": "Frühstück",
      "art": "das",
      "tr": "kahvaltı",
-     "en": "breakfast"
+     "en": "breakfast",
+     "es": "desayuno",
+     "fr": "petit-déjeuner",
+     "it": "colazione",
+     "ku": "taşt",
+     "ar": "الإفطار"
     }
    ],
    "questions": [
@@ -722,73 +866,97 @@
      "who": "Elif",
      "de": "Was kostet das?",
      "tr": "Bu ne kadar?",
-     "en": "How much is this?"
+     "en": "How much is this?",
+     "es": "¿Cuánto cuesta esto?",
+     "fr": "Combien coûte ceci ?",
+     "it": "Quanto costa questo?",
+     "ku": "Ev çend e?",
+     "ar": "كم ثمن هذا؟"
     },
     {
      "who": "Frau Schmidt",
      "de": "Der Apfel kostet einen Euro.",
      "tr": "Elmanın fiyatı bir avro.",
-     "en": "The apple costs one euro."
+     "en": "The apple costs one euro.",
+     "es": "La manzana cuesta un euro."
     },
     {
      "who": "Lina",
      "de": "Brauchst du noch Äpfel?",
      "tr": "Başka elmaya ihtiyacın var mı?",
-     "en": "Do you need any more apples?"
+     "en": "Do you need any more apples?",
+     "es": "¿Necesitas más manzanas?"
     },
     {
      "who": "Elif",
      "de": "Ja, ich nehme drei Äpfel und zwei Brötchen.",
      "tr": "Evet, üç elma ve iki küçük ekmek alıyorum.",
-     "en": "Yes, I'll take three apples and two bread rolls."
+     "en": "Yes, I'll take three apples and two bread rolls.",
+     "es": "Sí, me llevo tres manzanas y dos panecillos."
     },
     {
      "who": "Frau Schmidt",
      "de": "Das kostet zusammen fünf Euro.",
      "tr": "Hepsi toplam beş avro tutuyor.",
-     "en": "That comes to five euros in total."
+     "en": "That comes to five euros in total.",
+     "es": "En total son cinco euros."
     },
     {
      "who": "Elif",
      "de": "Danke. Ich brauche keine Tüte.",
      "tr": "Teşekkürler. Poşete ihtiyacım yok.",
-     "en": "Thanks. I don't need a bag."
+     "en": "Thanks. I don't need a bag.",
+     "es": "Gracias. No necesito bolsa."
     },
     {
      "who": "Lina",
      "de": "Die blaue Jacke ist sehr schön.",
      "tr": "Mavi ceket çok güzel.",
-     "en": "The blue jacket is very nice."
+     "en": "The blue jacket is very nice.",
+     "es": "La chaqueta azul es muy bonita."
     },
     {
      "who": "Elif",
      "de": "Haben Sie das in Größe M?",
      "tr": "Bunun M bedeni var mı?",
-     "en": "Do you have this in size M?"
+     "en": "Do you have this in size M?",
+     "es": "¿Lo tienes en la talla M?",
+     "fr": "Vous l'avez en taille M ?",
+     "it": "Ce l’ha nella taglia M?",
+     "ku": "Ma ev di mezinahiya M de heye?",
+     "ar": "هل يتوفر لديكم هذا المنتج بمقاس M؟"
     },
     {
      "who": "Frau Schmidt",
      "de": "Ja, natürlich.",
      "tr": "Evet, tabii.",
-     "en": "Yes, of course."
+     "en": "Yes, of course.",
+     "es": "Sí, por supuesto."
     },
     {
      "who": "Elif",
      "de": "Ja, ich nehme die blaue Jacke.",
      "tr": "Evet, mavi ceketi alıyorum.",
-     "en": "Yes, I'll take the blue jacket."
+     "en": "Yes, I'll take the blue jacket.",
+     "es": "Sí, me llevo la chaqueta azul."
     },
     {
      "who": "Elif",
      "de": "Kann ich mit Karte bezahlen?",
      "tr": "Kartla ödeyebilir miyim?",
-     "en": "Can I pay by card?"
+     "en": "Can I pay by card?",
+     "es": "¿Puedo pagar con tarjeta?",
+     "fr": "Je peux payer par carte ?",
+     "it": "Posso pagare con la carta?",
+     "ku": "Dikarim bi kartê pere bidim?",
+     "ar": "هل يمكنني الدفع بالبطاقة؟"
     },
     {
      "who": "Frau Schmidt",
      "de": "Ja, natürlich.",
      "tr": "Evet, tabii.",
-     "en": "Yes, of course."
+     "en": "Yes, of course.",
+     "es": "Sí, por supuesto."
     }
    ],
    "glossary": [
@@ -797,14 +965,24 @@
      "lemma": "besuchen",
      "art": "",
      "tr": "ziyaret etmek",
-     "en": "to visit"
+     "en": "to visit",
+     "es": "visitar",
+     "fr": "rendre visite à",
+     "it": "visitare",
+     "ku": "serdan kirin",
+     "ar": "يزور"
     },
     {
      "form": "Größe",
      "lemma": "Größe",
      "art": "die",
      "tr": "beden",
-     "en": "size"
+     "en": "size",
+     "es": "talla",
+     "fr": "taille, pointure",
+     "it": "misura, numero",
+     "ku": "mezinahî, hejmar",
+     "ar": "مقاس"
     }
    ],
    "questions": [
@@ -852,55 +1030,64 @@
      "who": "",
      "de": "Elif und Lina besuchen zusammen den Markt.",
      "tr": "Elif ve Lina birlikte pazarı geziyor.",
-     "en": "Elif and Lina visit the market together."
+     "en": "Elif and Lina visit the market together.",
+     "es": "Elif y Lina visitan juntas el mercado."
     },
     {
      "who": "",
      "de": "Elif kauft drei Äpfel, zwei Brötchen und Käse.",
      "tr": "Elif üç elma, iki küçük ekmek ve peynir alıyor.",
-     "en": "Elif buys three apples, two bread rolls, and cheese."
+     "en": "Elif buys three apples, two bread rolls, and cheese.",
+     "es": "Elif compra tres manzanas, dos panecillos y queso."
     },
     {
      "who": "",
      "de": "Sie fragt: „Was kostet das?“",
      "tr": "“Bu ne kadar?” diye soruyor.",
-     "en": "She asks, “How much is this?”"
+     "en": "She asks, “How much is this?”",
+     "es": "Pregunta: «¿Cuánto cuesta esto?»"
     },
     {
      "who": "",
      "de": "Ein Apfel kostet einen Euro, und Käse kostet drei Euro.",
      "tr": "Bir elma bir avro, peynir de üç avro.",
-     "en": "An apple costs one euro, and cheese costs three euros."
+     "en": "An apple costs one euro, and cheese costs three euros.",
+     "es": "Una manzana cuesta un euro y el queso cuesta tres euros."
     },
     {
      "who": "",
      "de": "Lina sucht einen Pullover, aber Elif findet eine Jacke.",
      "tr": "Lina bir kazak arıyor ama Elif bir ceket buluyor.",
-     "en": "Lina is looking for a sweater, but Elif finds a jacket."
+     "en": "Lina is looking for a sweater, but Elif finds a jacket.",
+     "es": "Lina busca un jersey, pero Elif encuentra una chaqueta."
     },
     {
      "who": "",
      "de": "Elif nimmt die blaue Jacke in Größe M.",
      "tr": "Elif M beden mavi ceketi alıyor.",
-     "en": "Elif takes the blue jacket in size M."
+     "en": "Elif takes the blue jacket in size M.",
+     "es": "Elif se lleva la chaqueta azul de talla M."
     },
     {
      "who": "",
      "de": "Sie trägt die Jacke.",
      "tr": "Ceketi giyiyor.",
-     "en": "She wears the jacket."
+     "en": "She wears the jacket.",
+     "es": "Se pone la chaqueta."
     },
     {
      "who": "",
      "de": "Elif bezahlt mit Karte und braucht keine Tüte.",
      "tr": "Elif kartla ödüyor ve poşete ihtiyacı yok.",
-     "en": "Elif pays by card and doesn't need a bag."
+     "en": "Elif pays by card and doesn't need a bag.",
+     "es": "Elif paga con tarjeta y no necesita bolsa."
     },
     {
      "who": "",
      "de": "Lina ist glücklich, denn der Preis ist gut.",
      "tr": "Lina mutlu çünkü fiyat iyi.",
-     "en": "Lina is happy because the price is good."
+     "en": "Lina is happy because the price is good.",
+     "es": "Lina está contenta porque el precio es bueno."
     }
    ],
    "glossary": [
@@ -909,14 +1096,24 @@
      "lemma": "besuchen",
      "art": "",
      "tr": "ziyaret etmek",
-     "en": "to visit"
+     "en": "to visit",
+     "es": "visitar",
+     "fr": "rendre visite à",
+     "it": "visitare",
+     "ku": "serdan kirin",
+     "ar": "يزور"
     },
     {
      "form": "Größe",
      "lemma": "Größe",
      "art": "die",
      "tr": "beden",
-     "en": "size"
+     "en": "size",
+     "es": "talla",
+     "fr": "taille, pointure",
+     "it": "misura, numero",
+     "ku": "mezinahî, hejmar",
+     "ar": "مقاس"
     }
    ],
    "questions": [
@@ -964,61 +1161,83 @@
      "who": "Lina",
      "de": "Das Sofa steht im Wohnzimmer.",
      "tr": "Kanepe oturma odasında duruyor.",
-     "en": "The sofa is in the living room."
+     "en": "The sofa is in the living room.",
+     "es": "El sofá está en el salón.",
+     "fr": "Le canapé est dans le salon.",
+     "it": "Il divano è in soggiorno.",
+     "ku": "Sofa di odeya rûniştinê de ye.",
+     "ar": "الأريكة موجودة في غرفة المعيشة."
     },
     {
      "who": "Elif",
      "de": "Die Küche ist klein, aber hell.",
      "tr": "Mutfak küçük ama aydınlık.",
-     "en": "The kitchen is small but bright."
+     "en": "The kitchen is small but bright.",
+     "es": "La cocina es pequeña, pero luminosa.",
+     "fr": "La cuisine est petite mais lumineuse.",
+     "it": "La cucina è piccola ma luminosa.",
+     "ku": "Metbex piçûk e, lê ronî ye.",
+     "ar": "المطبخ صغير ولكنه مشرق."
     },
     {
      "who": "Lina",
      "de": "Wie hoch ist die Miete?",
      "tr": "Kira ne kadar?",
-     "en": "How much is the rent?"
+     "en": "How much is the rent?",
+     "es": "¿Cuánto cuesta el alquiler?",
+     "fr": "Combien coûte le loyer ?",
+     "it": "Quanto costa l’affitto?",
+     "ku": "Kirê çend e?",
+     "ar": "كم تبلغ قيمة الإيجار؟"
     },
     {
      "who": "Elif",
      "de": "Die Miete ist nicht hoch.",
      "tr": "Kira yüksek değil.",
-     "en": "The rent isn't high."
+     "en": "The rent isn't high.",
+     "es": "El alquiler no es caro."
     },
     {
      "who": "Lina",
      "de": "Wo steht dein Bett?",
      "tr": "Yatağın nerede duruyor?",
-     "en": "Where is your bed?"
+     "en": "Where is your bed?",
+     "es": "¿Dónde está tu cama?"
     },
     {
      "who": "Elif",
      "de": "Mein Bett steht im Schlafzimmer.",
      "tr": "Yatağım yatak odasında duruyor.",
-     "en": "My bed is in the bedroom."
+     "en": "My bed is in the bedroom.",
+     "es": "Mi cama está en el dormitorio."
     },
     {
      "who": "Lina",
      "de": "Ich stelle die Lampe neben das Sofa.",
      "tr": "Lambayı kanepenin yanına koyuyorum.",
-     "en": "I'll put the lamp next to the sofa."
+     "en": "I'll put the lamp next to the sofa.",
+     "es": "Pondré la lámpara junto al sofá."
     },
     {
      "who": "Elif",
      "de": "Zwei Stühle stehen neben dem Tisch.",
      "tr": "Masanın yanında iki sandalye duruyor.",
-     "en": "There are two chairs by the table here."
+     "en": "There are two chairs by the table here.",
+     "es": "Aquí hay dos sillas junto a la mesa."
     },
     {
      "who": "Lina",
      "de": "Hast du auch einen Balkon?",
      "tr": "Senin balkonun da var mı?",
-     "en": "Do you also have a balcony?"
+     "en": "Do you also have a balcony?",
+     "es": "¿Tienes también balcón?"
     },
     {
      "who": "Elif",
      "de": "Ja, aber mein Balkon ist klein.",
      "tr": "Evet ama balkonum küçük.",
-     "en": "Yes, but my balcony is small."
+     "en": "Yes, but my balcony is small.",
+     "es": "Sí, pero mi balcón es pequeño."
     }
    ],
    "glossary": [],
@@ -1067,55 +1286,72 @@
      "who": "",
      "de": "Elif wohnt in einer neuen Wohnung in Köln.",
      "tr": "Elif Köln'de yeni bir dairede oturuyor.",
-     "en": "Elif lives in a new apartment in Cologne."
+     "en": "Elif lives in a new apartment in Cologne.",
+     "es": "Elif vive en un piso nuevo en Colonia."
     },
     {
      "who": "",
      "de": "Ihre Wohnung hat drei Zimmer.",
      "tr": "Dairesinde üç oda var.",
-     "en": "Her apartment has three rooms."
+     "en": "Her apartment has three rooms.",
+     "es": "Su piso tiene tres habitaciones."
     },
     {
      "who": "",
      "de": "Die Küche ist klein, aber hell.",
      "tr": "Mutfak küçük ama aydınlık.",
-     "en": "The kitchen is small but bright."
+     "en": "The kitchen is small but bright.",
+     "es": "La cocina es pequeña, pero luminosa.",
+     "fr": "La cuisine est petite mais lumineuse.",
+     "it": "La cucina è piccola ma luminosa.",
+     "ku": "Metbex piçûk e, lê ronî ye.",
+     "ar": "المطبخ صغير ولكنه مشرق."
     },
     {
      "who": "",
      "de": "Lina bringt eine Lampe und zwei Stühle.",
      "tr": "Lina bir lamba ve iki sandalye getiriyor.",
-     "en": "Lina brings a lamp and two chairs."
+     "en": "Lina brings a lamp and two chairs.",
+     "es": "Lina trae una lámpara y dos sillas."
     },
     {
      "who": "",
      "de": "Elif stellt die Stühle neben den Tisch.",
      "tr": "Elif sandalyeleri masanın yanına koyuyor.",
-     "en": "Elif puts the chairs next to the table."
+     "en": "Elif puts the chairs next to the table.",
+     "es": "Elif pone las sillas junto a la mesa."
     },
     {
      "who": "",
      "de": "Sie legt ihre Tasche auf das Bett im Schlafzimmer.",
      "tr": "Çantasını yatak odasındaki yatağın üstüne koyuyor.",
-     "en": "She puts her bag on the bed in the bedroom."
+     "en": "She puts her bag on the bed in the bedroom.",
+     "es": "Pone su bolso sobre la cama del dormitorio."
     },
     {
      "who": "",
      "de": "Das Sofa steht im Wohnzimmer.",
      "tr": "Kanepe oturma odasında duruyor.",
-     "en": "The sofa is in the living room."
+     "en": "The sofa is in the living room.",
+     "es": "El sofá está en el salón.",
+     "fr": "Le canapé est dans le salon.",
+     "it": "Il divano è in soggiorno.",
+     "ku": "Sofa di odeya rûniştinê de ye.",
+     "ar": "الأريكة موجودة في غرفة المعيشة."
     },
     {
      "who": "",
      "de": "Die Miete ist nicht hoch.",
      "tr": "Kira yüksek değil.",
-     "en": "The rent isn't high."
+     "en": "The rent isn't high.",
+     "es": "El alquiler no es caro."
     },
     {
      "who": "",
      "de": "Elif freut sich: Ihr Zimmer ist schön und sauber.",
      "tr": "Elif seviniyor: Odası güzel ve temiz.",
-     "en": "Elif is happy: her room is nice and clean."
+     "en": "Elif is happy: her room is nice and clean.",
+     "es": "Elif está contenta: su habitación es bonita y está limpia."
     }
    ],
    "glossary": [],
@@ -1164,61 +1400,91 @@
      "who": "Lina",
      "de": "Wie spät ist es?",
      "tr": "Saat kaç?",
-     "en": "What time is it?"
+     "en": "What time is it?",
+     "es": "¿Qué hora es?",
+     "fr": "Quelle heure est-il ?",
+     "it": "Che ora è?",
+     "ku": "Saet çend e?",
+     "ar": "كم الساعة؟"
     },
     {
      "who": "Elif",
      "de": "Es ist halb acht.",
      "tr": "Saat yedi buçuk.",
-     "en": "It's half past seven."
+     "en": "It's half past seven.",
+     "es": "Son las siete y media.",
+     "fr": "Il est sept heures et demie.",
+     "it": "Sono le sette e mezza.",
+     "ku": "Saet heft û nîv e.",
+     "ar": "إنها السابعة والنصف."
     },
     {
      "who": "Lina",
      "de": "Ich stehe um sechs Uhr auf.",
      "tr": "Saat altıda kalkıyorum.",
-     "en": "I get up at six."
+     "en": "I get up at six.",
+     "es": "Me levanto a las seis.",
+     "fr": "Je me lève à six heures.",
+     "it": "Mi alzo alle sei.",
+     "ku": "Ez saet şeşan radibim.",
+     "ar": "أستيقظ في الساعة السادسة."
     },
     {
      "who": "Elif",
      "de": "Am Montag habe ich einen Termin.",
      "tr": "Pazartesi bir randevum var.",
-     "en": "I have an appointment on Monday."
+     "en": "I have an appointment on Monday.",
+     "es": "Tengo una cita el lunes.",
+     "fr": "J'ai rendez-vous lundi.",
+     "it": "Ho un appuntamento lunedì.",
+     "ku": "Roja duşemê randevûyek min heye.",
+     "ar": "لدي موعد يوم الاثنين."
     },
     {
      "who": "Lina",
      "de": "Um wie viel Uhr beginnt der Kurs?",
      "tr": "Kurs saat kaçta başlıyor?",
-     "en": "What time does the course start?"
+     "en": "What time does the course start?",
+     "es": "¿A qué hora empieza el curso?"
     },
     {
      "who": "Elif",
      "de": "Der Kurs beginnt um acht Uhr.",
      "tr": "Kurs saat sekizde başlıyor.",
-     "en": "The course starts at eight."
+     "en": "The course starts at eight.",
+     "es": "El curso empieza a las ocho.",
+     "fr": "Le cours commence à huit heures.",
+     "it": "Il corso inizia alle otto.",
+     "ku": "Kurs di saet heştan de dest pê dike.",
+     "ar": "تبدأ الدورة في الساعة الثامنة."
     },
     {
      "who": "Lina",
      "de": "Hast du heute Abend Zeit?",
      "tr": "Bu akşam vaktin var mı?",
-     "en": "Do you have time this evening?"
+     "en": "Do you have time this evening?",
+     "es": "¿Tienes tiempo esta tarde?"
     },
     {
      "who": "Elif",
      "de": "Ja, um sieben Uhr.",
      "tr": "Evet, saat yedide.",
-     "en": "Yes, at seven."
+     "en": "Yes, at seven.",
+     "es": "Sí, a las siete."
     },
     {
      "who": "Lina",
      "de": "Wir essen am Abend zusammen.",
      "tr": "Akşam birlikte yemek yiyoruz.",
-     "en": "We'll eat together in the evening."
+     "en": "We'll eat together in the evening.",
+     "es": "Cenaremos juntos por la tarde."
     },
     {
      "who": "Elif",
      "de": "Gern!",
      "tr": "Memnuniyetle!",
-     "en": "Sure!"
+     "en": "Sure!",
+     "es": "¡Claro!"
     }
    ],
    "glossary": [],
@@ -1267,49 +1533,57 @@
      "who": "",
      "de": "Am Montag sagt Elif: „Ich stehe um sechs Uhr auf.“",
      "tr": "Elif pazartesi şöyle diyor: “Saat altıda kalkıyorum.”",
-     "en": "On Monday, Elif says, “I get up at six.”"
+     "en": "On Monday, Elif says, “I get up at six.”",
+     "es": "El lunes, Elif dice: «Me levanto a las seis»"
     },
     {
      "who": "",
      "de": "Sie duscht und isst ein Ei zum Frühstück.",
      "tr": "Duş alıyor ve kahvaltıda bir yumurta yiyor.",
-     "en": "She showers and eats an egg for breakfast."
+     "en": "She showers and eats an egg for breakfast.",
+     "es": "Se ducha y desayuna un huevo."
     },
     {
      "who": "",
      "de": "Es ist halb acht. Elif fährt mit dem Bus zum Kurs.",
      "tr": "Saat yedi buçuk. Elif kursa otobüsle gidiyor.",
-     "en": "It is half past seven. Elif takes the bus to the course."
+     "en": "It is half past seven. Elif takes the bus to the course.",
+     "es": "Son las siete y media. Elif va al curso en autobús."
     },
     {
      "who": "",
      "de": "Der Kurs beginnt um acht Uhr und dauert drei Stunden.",
      "tr": "Kurs saat sekizde başlıyor ve üç saat sürüyor.",
-     "en": "The course starts at eight and lasts three hours."
+     "en": "The course starts at eight and lasts three hours.",
+     "es": "El curso empieza a las ocho y dura tres horas."
     },
     {
      "who": "",
      "de": "Am Mittag trinkt Elif Wasser mit Lina.",
      "tr": "Öğlen Elif, Lina'yla su içiyor.",
-     "en": "At noon, Elif drinks water with Lina."
+     "en": "At noon, Elif drinks water with Lina.",
+     "es": "Al mediodía, Elif bebe agua con Lina."
     },
     {
      "who": "",
      "de": "Um vier Uhr hat sie einen Termin.",
      "tr": "Saat dörtte bir randevusu var.",
-     "en": "She has an appointment at four."
+     "en": "She has an appointment at four.",
+     "es": "Tiene una cita a las cuatro."
     },
     {
      "who": "",
      "de": "Am Abend ist Elif in ihrer Wohnung und trinkt Tee.",
      "tr": "Akşam Elif dairesinde ve çay içiyor.",
-     "en": "In the evening, Elif is in her apartment and drinks tea."
+     "en": "In the evening, Elif is in her apartment and drinks tea.",
+     "es": "Por la tarde, Elif está en su piso y bebe té."
     },
     {
      "who": "",
      "de": "Am Wochenende bleibt Elif lange im Bett und hat frei.",
      "tr": "Hafta sonunda Elif uzun süre yatakta kalıyor ve izinli.",
-     "en": "At the weekend, Elif stays in bed for a long time and has the day off."
+     "en": "At the weekend, Elif stays in bed for a long time and has the day off.",
+     "es": "El fin de semana, Elif se queda mucho tiempo en la cama y tiene el día libre."
     }
    ],
    "glossary": [],
@@ -1358,61 +1632,79 @@
      "who": "Elif",
      "de": "Entschuldigung, wo ist der Bahnhof?",
      "tr": "Affedersiniz, tren istasyonu nerede?",
-     "en": "Excuse me, where is the train station?"
+     "en": "Excuse me, where is the train station?",
+     "es": "Disculpe, ¿dónde está la estación de tren?"
     },
     {
      "who": "Mann",
      "de": "Gehen Sie geradeaus und dann links.",
      "tr": "Düz gidin, sonra sola dönün.",
-     "en": "Go straight ahead and then turn left."
+     "en": "Go straight ahead and then turn left.",
+     "es": "Siga recto y luego gire a la izquierda."
     },
     {
      "who": "Elif",
      "de": "Ich suche die Apotheke.",
      "tr": "Eczaneyi arıyorum.",
-     "en": "I'm looking for the pharmacy."
+     "en": "I'm looking for the pharmacy.",
+     "es": "Estoy buscando la farmacia."
     },
     {
      "who": "Mann",
      "de": "Die Apotheke ist neben der Bank.",
      "tr": "Eczane bankanın yanında.",
-     "en": "The pharmacy is next to the bank."
+     "en": "The pharmacy is next to the bank.",
+     "es": "La farmacia está al lado del banco.",
+     "fr": "La pharmacie est à côté de la banque.",
+     "it": "La farmacia è accanto alla banca.",
+     "ku": "Dermanxane li kêleka bankê ye.",
+     "ar": "الصيدلية بجوار البنك."
     },
     {
      "who": "Elif",
      "de": "Wie weit ist es?",
      "tr": "Ne kadar uzak?",
-     "en": "How far is it?"
+     "en": "How far is it?",
+     "es": "¿A qué distancia está?",
+     "fr": "C'est à quelle distance ?",
+     "it": "Quanto dista?",
+     "ku": "Ew çiqas dûr e?",
+     "ar": "كم تبعد؟"
     },
     {
      "who": "Mann",
      "de": "Der Platz ist neben der Haltestelle.",
      "tr": "Meydan durağın yanında.",
-     "en": "The square is next to the stop."
+     "en": "The square is next to the stop.",
+     "es": "La plaza está junto a la parada."
     },
     {
      "who": "Elif",
      "de": "Ich nehme den Bus zum Zentrum.",
      "tr": "Merkeze otobüsle gidiyorum.",
-     "en": "I'll take the bus to the center."
+     "en": "I'll take the bus to the center.",
+     "es": "Iré en autobús al centro."
     },
     {
      "who": "Mann",
      "de": "Die Straßenbahn fährt auch zum Zentrum.",
      "tr": "Tramvay da merkeze gidiyor.",
-     "en": "The tram also goes to the center."
+     "en": "The tram also goes to the center.",
+     "es": "El tranvía también va al centro."
     },
     {
      "who": "Elif",
      "de": "Ich steige an der Bank aus.",
      "tr": "Bankanın yanında iniyorum.",
-     "en": "I'll get off by the bank."
+     "en": "I'll get off by the bank.",
+     "es": "Me bajaré junto al banco."
     },
     {
      "who": "Mann",
      "de": "Ja, die Apotheke ist neben der Bank.",
      "tr": "Evet, eczane bankanın yanında.",
-     "en": "Yes, the pharmacy is next to the bank."
+     "en": "Yes, the pharmacy is next to the bank.",
+     "es": "Sí, la farmacia está junto al banco."
     }
    ],
    "glossary": [],
@@ -1461,55 +1753,68 @@
      "who": "",
      "de": "Elif ist in der Stadt und sucht die Apotheke.",
      "tr": "Elif şehirde ve eczaneyi arıyor.",
-     "en": "Elif is in the city and is looking for the pharmacy."
+     "en": "Elif is in the city and is looking for the pharmacy.",
+     "es": "Elif está en la ciudad y está buscando la farmacia."
     },
     {
      "who": "",
      "de": "Sie fragt einen Mann an der Haltestelle.",
      "tr": "Durakta bir adama soru soruyor.",
-     "en": "She asks a man at the stop."
+     "en": "She asks a man at the stop.",
+     "es": "Le pregunta a un hombre en la parada."
     },
     {
      "who": "",
      "de": "Er sagt: „Gehen Sie geradeaus und dann links.“",
      "tr": "Adam, “Düz gidin, sonra sola dönün,” diyor.",
-     "en": "He says, “Go straight ahead and then turn left.”"
+     "en": "He says, “Go straight ahead and then turn left.”",
+     "es": "Él dice: «Siga recto y luego gire a la izquierda»"
     },
     {
      "who": "",
      "de": "Elif nimmt den Bus zum Zentrum.",
      "tr": "Elif merkeze otobüsle gidiyor.",
-     "en": "Elif takes the bus to the center."
+     "en": "Elif takes the bus to the center.",
+     "es": "Elif va al centro en autobús."
     },
     {
      "who": "",
      "de": "Am Platz steigt sie in die Straßenbahn ein.",
      "tr": "Meydanda tramvaya biniyor.",
-     "en": "At the square, she gets on the tram."
+     "en": "At the square, she gets on the tram.",
+     "es": "En la plaza, sube al tranvía."
     },
     {
      "who": "",
      "de": "Im Zentrum steigt sie aus und sucht die Bank.",
      "tr": "Merkezde iniyor ve bankayı arıyor.",
-     "en": "In the center, she gets off and looks for the bank."
+     "en": "In the center, she gets off and looks for the bank.",
+     "es": "En el centro, se baja y busca el banco."
     },
     {
      "who": "",
      "de": "Die Apotheke ist neben der Bank.",
      "tr": "Eczane bankanın yanında.",
-     "en": "The pharmacy is next to the bank."
+     "en": "The pharmacy is next to the bank.",
+     "es": "La farmacia está al lado del banco.",
+     "fr": "La pharmacie est à côté de la banque.",
+     "it": "La farmacia è accanto alla banca.",
+     "ku": "Dermanxane li kêleka bankê ye.",
+     "ar": "الصيدلية بجوار البنك."
     },
     {
      "who": "",
      "de": "In der Apotheke kauft Elif ein Pflaster und Wasser.",
      "tr": "Elif eczaneden bir yara bandı ve su alıyor.",
-     "en": "Elif buys a plaster and some water at the pharmacy."
+     "en": "Elif buys a plaster and some water at the pharmacy.",
+     "es": "Elif compra una tirita y agua en la farmacia."
     },
     {
      "who": "",
      "de": "Dann geht Elif zurück zum Kurs.",
      "tr": "Sonra Elif kursa geri dönüyor.",
-     "en": "Then Elif goes back to the course."
+     "en": "Then Elif goes back to the course.",
+     "es": "Después, Elif vuelve al curso."
     }
    ],
    "glossary": [],
@@ -1558,61 +1863,75 @@
      "who": "Elif",
      "de": "Guten Morgen, ich habe Kopfschmerzen.",
      "tr": "Günaydın, başım ağrıyor.",
-     "en": "Good morning, I have a headache."
+     "en": "Good morning, I have a headache.",
+     "es": "Buenos días, me duele la cabeza."
     },
     {
      "who": "Arzt",
      "de": "Haben Sie auch Fieber?",
      "tr": "Ateşiniz de var mı?",
-     "en": "Do you also have a fever?"
+     "en": "Do you also have a fever?",
+     "es": "¿También tiene fiebre?"
     },
     {
      "who": "Elif",
      "de": "Ja, und mir ist schlecht.",
      "tr": "Evet, midem de bulanıyor.",
-     "en": "Yes, and I feel sick."
+     "en": "Yes, and I feel sick.",
+     "es": "Sí, y me siento mal."
     },
     {
      "who": "Arzt",
      "de": "Brauchen Sie einen Termin?",
      "tr": "Bir randevuya mı ihtiyacınız var?",
-     "en": "Do you need an appointment?"
+     "en": "Do you need an appointment?",
+     "es": "¿Necesita una cita?"
     },
     {
      "who": "Elif",
      "de": "Ja, ich brauche einen Termin.",
      "tr": "Evet, bir randevuya ihtiyacım var.",
-     "en": "Yes, I need an appointment."
+     "en": "Yes, I need an appointment.",
+     "es": "Sí, necesito una cita."
     },
     {
      "who": "Arzt",
      "de": "Kommen Sie heute um zehn Uhr.",
      "tr": "Bugün saat onda gelin.",
-     "en": "Come at ten today."
+     "en": "Come at ten today.",
+     "es": "Venga hoy a las diez."
     },
     {
      "who": "Elif",
      "de": "Wo ist Ihre Praxis?",
      "tr": "Muayenehaneniz nerede?",
-     "en": "Where is your practice?"
+     "en": "Where is your practice?",
+     "es": "¿Dónde está la consulta?"
     },
     {
      "who": "Arzt",
      "de": "Die Praxis ist neben der Apotheke.",
      "tr": "Muayenehane eczanenin yanında.",
-     "en": "The practice is next to the pharmacy."
+     "en": "The practice is next to the pharmacy.",
+     "es": "La consulta está junto a la farmacia."
     },
     {
      "who": "Elif",
      "de": "Gut, ich komme um zehn Uhr.",
      "tr": "Peki, saat onda geliyorum.",
-     "en": "All right, I'll come at ten."
+     "en": "All right, I'll come at ten.",
+     "es": "De acuerdo, vendré a las diez."
     },
     {
      "who": "Arzt",
      "de": "Gute Besserung!",
      "tr": "Geçmiş olsun!",
-     "en": "Get well soon!"
+     "en": "Get well soon!",
+     "es": "¡Que te mejores!",
+     "fr": "Bon rétablissement !",
+     "it": "Guarisci presto!",
+     "ku": "Zû baş bibî!",
+     "ar": "أتمنى لك الشفاء العاجل!"
     }
    ],
    "glossary": [],
@@ -1661,55 +1980,64 @@
      "who": "",
      "de": "Am Morgen hat Elif Kopfschmerzen.",
      "tr": "Sabah Elif'in başı ağrıyor.",
-     "en": "Elif has a headache in the morning."
+     "en": "Elif has a headache in the morning.",
+     "es": "Por la mañana, a Elif le duele la cabeza."
     },
     {
      "who": "",
      "de": "Ihr ist schlecht, und sie hat auch Fieber.",
      "tr": "Midesi bulanıyor ve ateşi de var.",
-     "en": "She feels sick and also has a fever."
+     "en": "She feels sick and also has a fever.",
+     "es": "Se siente mal y también tiene fiebre."
     },
     {
      "who": "",
      "de": "Elif spricht mit der Praxis und braucht einen Termin.",
      "tr": "Elif muayenehaneyle konuşuyor ve bir randevuya ihtiyacı var.",
-     "en": "Elif speaks to the doctor's practice and needs an appointment."
+     "en": "Elif speaks to the doctor's practice and needs an appointment.",
+     "es": "Elif habla con la consulta del médico y necesita una cita."
     },
     {
      "who": "",
      "de": "Der Arzt zeigt ihr das Thermometer.",
      "tr": "Doktor ona termometreyi gösteriyor.",
-     "en": "The doctor shows her the thermometer."
+     "en": "The doctor shows her the thermometer.",
+     "es": "El médico le enseña el termómetro."
     },
     {
      "who": "",
      "de": "Er sagt: „Sie müssen im Bett bleiben.“",
      "tr": "“Yatakta kalmanız gerekiyor,” diyor.",
-     "en": "He says, “You have to stay in bed.”"
+     "en": "He says, “You have to stay in bed.”",
+     "es": "Él dice: «Tiene que quedarse en cama»"
     },
     {
      "who": "",
      "de": "Elif nimmt eine Tablette und liegt im Bett.",
      "tr": "Elif bir tablet alıyor ve yatakta uzanıyor.",
-     "en": "Elif takes a tablet and lies in bed."
+     "en": "Elif takes a tablet and lies in bed.",
+     "es": "Elif se toma una pastilla y se acuesta."
     },
     {
      "who": "",
      "de": "Sie trinkt Wasser und Tee.",
      "tr": "Su ve çay içiyor.",
-     "en": "She drinks water and tea."
+     "en": "She drinks water and tea.",
+     "es": "Bebe agua y té."
     },
     {
      "who": "",
      "de": "Lina bringt einen Apfel und sagt: „Gute Besserung!“",
      "tr": "Lina bir elma getiriyor ve “Geçmiş olsun!” diyor.",
-     "en": "Lina brings an apple and says, “Get well soon!”"
+     "en": "Lina brings an apple and says, “Get well soon!”",
+     "es": "Lina trae una manzana y dice: «¡Que te mejores!»"
     },
     {
      "who": "",
      "de": "Elif schläft am Abend.",
      "tr": "Elif akşam uyuyor.",
-     "en": "Elif sleeps in the evening."
+     "en": "Elif sleeps in the evening.",
+     "es": "Elif duerme por la tarde."
     }
    ],
    "glossary": [],
@@ -1758,61 +2086,75 @@
      "who": "Elif",
      "de": "Morgen ist die Prüfung.",
      "tr": "Yarın sınav var.",
-     "en": "The exam is tomorrow."
+     "en": "The exam is tomorrow.",
+     "es": "El examen es mañana."
     },
     {
      "who": "Lina",
      "de": "Du lernst heute viel für den Kurs.",
      "tr": "Bugün kurs için çok çalışıyorsun.",
-     "en": "You're studying a lot for the course today."
+     "en": "You're studying a lot for the course today.",
+     "es": "Hoy estás estudiando mucho para el curso."
     },
     {
      "who": "Elif",
      "de": "Ja, aber am Mittag habe ich ein Vorstellungsgespräch.",
      "tr": "Evet ama öğlen bir iş görüşmem var.",
-     "en": "Yes, but I have a job interview at noon."
+     "en": "Yes, but I have a job interview at noon.",
+     "es": "Sí, pero al mediodía tengo una entrevista de trabajo."
     },
     {
      "who": "Lina",
      "de": "Heute habe ich frei. Ich komme gern mit.",
      "tr": "Bugün izinliyim. Seve seve seninle gelirim.",
-     "en": "I have the day off today. I'd be happy to come with you."
+     "en": "I have the day off today. I'd be happy to come with you.",
+     "es": "Hoy tengo el día libre. Me encantaría acompañarte."
     },
     {
      "who": "Elif",
      "de": "Die Teilzeitstelle ist in einer Firma.",
      "tr": "Yarı zamanlı iş bir şirkette.",
-     "en": "The part-time position is at a company."
+     "en": "The part-time position is at a company.",
+     "es": "El puesto a tiempo parcial es en una empresa."
     },
     {
      "who": "Lina",
      "de": "Was fragt die Chefin?",
      "tr": "Müdür ne soruyor?",
-     "en": "What does the manager ask?"
+     "en": "What does the manager ask?",
+     "es": "¿Qué pregunta la gerente?"
     },
     {
      "who": "Elif",
      "de": "Sie fragt nach meinem Namen und meiner Arbeit.",
      "tr": "Adımı ve işimi soruyor.",
-     "en": "She asks about my name and my work."
+     "en": "She asks about my name and my work.",
+     "es": "Pregunta por mi nombre y mi trabajo."
     },
     {
      "who": "Lina",
      "de": "Können Sie das bitte wiederholen?",
      "tr": "Bunu tekrar edebilir misiniz lütfen?",
-     "en": "Could you repeat that, please?"
+     "en": "Could you repeat that, please?",
+     "es": "¿Puedes repetirlo, por favor?",
+     "fr": "Tu peux répéter ça, s'il te plaît ?",
+     "it": "Può ripetere, per favore?",
+     "ku": "Ji kerema xwe tu dikarî wê dubare bikî?",
+     "ar": "هل يمكنك تكرار ذلك من فضلك؟"
     },
     {
      "who": "Elif",
      "de": "Ja. Und wie schreibt man das?",
      "tr": "Evet. Peki bu nasıl yazılıyor?",
-     "en": "Yes. And how do you spell that?"
+     "en": "Yes. And how do you spell that?",
+     "es": "Sí. ¿Y cómo se escribe eso?"
     },
     {
      "who": "Lina",
      "de": "Du buchstabierst deinen Namen. Das geht gut.",
      "tr": "Adını harf harf söylersin. Bu iyi olur.",
-     "en": "You spell your name. That will go well."
+     "en": "You spell your name. That will go well.",
+     "es": "Deletreas tu nombre. Todo saldrá bien."
     }
    ],
    "glossary": [
@@ -1821,21 +2163,32 @@
      "lemma": "Vorstellungsgespräch",
      "art": "das",
      "tr": "iş görüşmesi",
-     "en": "job interview"
+     "en": "job interview",
+     "es": "entrevista de trabajo",
+     "fr": "entretien d'embauche",
+     "it": "colloquio di lavoro",
+     "ku": "hevpeyvîna kar",
+     "ar": "مقابلة عمل"
     },
     {
      "form": "die Teilzeitstelle",
      "lemma": "Teilzeitstelle",
      "art": "die",
      "tr": "yarı zamanlı iş",
-     "en": "part-time position"
+     "en": "part-time position",
+     "es": "puesto a tiempo parcial"
     },
     {
      "form": "die Chefin",
      "lemma": "Chefin",
      "art": "die",
      "tr": "kadın yönetici",
-     "en": "female manager"
+     "en": "female manager",
+     "es": "gerente",
+     "fr": "responsable",
+     "it": "responsabile",
+     "ku": "rêveber (jin)",
+     "ar": "مديرة"
     }
    ],
    "questions": [
@@ -1883,49 +2236,57 @@
      "who": "",
      "de": "Morgen ist die Prüfung, und Elif lernt heute im Kurs.",
      "tr": "Yarın sınav var ve Elif bugün kursta çalışıyor.",
-     "en": "The exam is tomorrow, and Elif is studying in class today."
+     "en": "The exam is tomorrow, and Elif is studying in class today.",
+     "es": "El examen es mañana y hoy Elif estudia en clase."
     },
     {
      "who": "",
      "de": "Um elf hat Elif ein Vorstellungsgespräch in einer Firma.",
      "tr": "Saat on birde Elif'in bir şirkette iş görüşmesi var.",
-     "en": "At eleven, Elif has a job interview at a company."
+     "en": "At eleven, Elif has a job interview at a company.",
+     "es": "A las once, Elif tiene una entrevista de trabajo en una empresa."
     },
     {
      "who": "",
      "de": "Die Chefin fragt nach Elifs Namen.",
      "tr": "Yönetici Elif'in adını soruyor.",
-     "en": "The manager asks Elif's name."
+     "en": "The manager asks Elif's name.",
+     "es": "La gerente le pregunta su nombre a Elif."
     },
     {
      "who": "",
      "de": "Elif sagt: „Ich heiße Elif und wohne in Köln.“",
      "tr": "Elif, “Benim adım Elif ve Köln'de oturuyorum,” diyor.",
-     "en": "Elif says, “My name is Elif and I live in Cologne.”"
+     "en": "Elif says, “My name is Elif and I live in Cologne.”",
+     "es": "Elif dice: «Me llamo Elif y vivo en Colonia»"
     },
     {
      "who": "",
      "de": "Die Chefin spricht schnell, aber Elif versteht nicht alles.",
      "tr": "Yönetici hızlı konuşuyor ama Elif her şeyi anlamıyor.",
-     "en": "The manager speaks quickly, but Elif doesn't understand everything."
+     "en": "The manager speaks quickly, but Elif doesn't understand everything.",
+     "es": "La gerente habla rápido, pero Elif no entiende todo."
     },
     {
      "who": "",
      "de": "Elif fragt: „Können Sie das bitte wiederholen?“",
      "tr": "Elif, “Bunu tekrar edebilir misiniz lütfen?” diye soruyor.",
-     "en": "Elif asks, “Could you repeat that, please?”"
+     "en": "Elif asks, “Could you repeat that, please?”",
+     "es": "Elif pregunta: «¿Podría repetirlo, por favor?»"
     },
     {
      "who": "",
      "de": "Die Chefin sagt: „Meine Arbeit beginnt um acht.“",
      "tr": "Yönetici, “İşim sekizde başlıyor,” diyor.",
-     "en": "The manager says, “My work starts at eight.”"
+     "en": "The manager says, “My work starts at eight.”",
+     "es": "La gerente dice: «Empiezo a trabajar a las ocho»"
     },
     {
      "who": "",
      "de": "Elif hat heute frei und ist glücklich.",
      "tr": "Elif bugün izinli ve mutlu.",
-     "en": "Elif has the day off today and is happy."
+     "en": "Elif has the day off today and is happy.",
+     "es": "Hoy Elif tiene el día libre y está contenta."
     }
    ],
    "glossary": [
@@ -1934,21 +2295,36 @@
      "lemma": "Vorstellungsgespräch",
      "art": "das",
      "tr": "iş görüşmesi",
-     "en": "job interview"
+     "en": "job interview",
+     "es": "entrevista de trabajo",
+     "fr": "entretien d'embauche",
+     "it": "colloquio di lavoro",
+     "ku": "hevpeyvîna kar",
+     "ar": "مقابلة عمل"
     },
     {
      "form": "die Firma",
      "lemma": "Firma",
      "art": "die",
      "tr": "şirket",
-     "en": "company"
+     "en": "company",
+     "es": "empresa",
+     "fr": "entreprise",
+     "it": "azienda",
+     "ku": "şîrket",
+     "ar": "شركة"
     },
     {
      "form": "die Chefin",
      "lemma": "Chefin",
      "art": "die",
      "tr": "kadın yönetici",
-     "en": "female manager"
+     "en": "female manager",
+     "es": "gerente",
+     "fr": "responsable",
+     "it": "responsabile",
+     "ku": "rêveber (jin)",
+     "ar": "مديرة"
     }
    ],
    "questions": [
@@ -1996,61 +2372,79 @@
      "who": "Tom",
      "de": "Am Wochenende spiele ich Fußball.",
      "tr": "Hafta sonu futbol oynarım.",
-     "en": "I play football at the weekend."
+     "en": "I play football at the weekend.",
+     "es": "Los fines de semana juego al fútbol."
     },
     {
      "who": "Elif",
      "de": "Das Wetter ist heute schön.",
      "tr": "Bugün hava güzel.",
-     "en": "The weather is nice today."
+     "en": "The weather is nice today.",
+     "es": "Hoy hace buen tiempo.",
+     "fr": "Il fait beau aujourd'hui.",
+     "it": "Oggi il tempo è bello.",
+     "ku": "Îro hewa xweş e.",
+     "ar": "الطقس جميل اليوم."
     },
     {
      "who": "Lina",
      "de": "Wollen wir ins Kino gehen?",
      "tr": "Sinemaya gidelim mi?",
-     "en": "Shall we go to the cinema?"
+     "en": "Shall we go to the cinema?",
+     "es": "¿Vamos al cine?",
+     "fr": "On va au cinéma ?",
+     "it": "Andiamo al cinema?",
+     "ku": "Em biçin sînemayê?",
+     "ar": "هل نذهب إلى السينما؟"
     },
     {
      "who": "Elif",
      "de": "Nein, ich möchte lieber zum See fahren.",
      "tr": "Hayır, göle gitmeyi tercih ederim.",
-     "en": "No, I'd rather go to the lake."
+     "en": "No, I'd rather go to the lake.",
+     "es": "No, prefiero ir al lago."
     },
     {
      "who": "Tom",
      "de": "Ja. Ich nehme meine Kamera mit.",
      "tr": "Olur. Kameramı yanıma alırım.",
-     "en": "Sure. I'll bring my camera."
+     "en": "Sure. I'll bring my camera.",
+     "es": "Claro. Llevaré mi cámara."
     },
     {
      "who": "Lina",
      "de": "Ich lese gern Bücher, aber heute schwimme ich.",
      "tr": "Kitap okumayı severim ama bugün yüzeceğim.",
-     "en": "I like reading books, but today I'll swim."
+     "en": "I like reading books, but today I'll swim.",
+     "es": "Me gusta leer libros, pero hoy nadaré."
     },
     {
      "who": "Elif",
      "de": "Am Samstag fahre ich gern mit dem Bus.",
      "tr": "Cumartesi günü otobüsle gitmeyi severim.",
-     "en": "I like taking the bus on Saturday."
+     "en": "I like taking the bus on Saturday.",
+     "es": "Me gusta ir en autobús los sábados."
     },
     {
      "who": "Tom",
      "de": "Am See mache ich Fotos.",
      "tr": "Gölde fotoğraf çekiyorum.",
-     "en": "I'll take photos at the lake."
+     "en": "I'll take photos at the lake.",
+     "es": "Haré fotos en el lago."
     },
     {
      "who": "Lina",
      "de": "Wir essen Brot und Käse.",
      "tr": "Ekmek ve peynir yeriz.",
-     "en": "We'll eat bread and cheese."
+     "en": "We'll eat bread and cheese.",
+     "es": "Comeremos pan y queso."
     },
     {
      "who": "Elif",
      "de": "Der Ausflug ist super!",
      "tr": "Gezi harika!",
-     "en": "The trip is great!"
+     "en": "The trip is great!",
+     "es": "¡La excursión es estupenda!"
     }
    ],
    "glossary": [],
@@ -2099,55 +2493,64 @@
      "who": "",
      "de": "Am Wochenende spiele ich Fußball, sagt Tom am Montag.",
      "tr": "Tom pazartesi, “Hafta sonu futbol oynarım,” diyor.",
-     "en": "On Monday, Tom says, “I play football at the weekend.”"
+     "en": "On Monday, Tom says, “I play football at the weekend.”",
+     "es": "El lunes, Tom dice: «Juego al fútbol los fines de semana»"
     },
     {
      "who": "",
      "de": "Das Wetter ist heute schön, sagt Elif.",
      "tr": "Elif, “Bugün hava güzel,” diyor.",
-     "en": "Elif says, “The weather is nice today.”"
+     "en": "Elif says, “The weather is nice today.”",
+     "es": "Elif dice: «Hoy hace buen tiempo»"
     },
     {
      "who": "",
      "de": "Am Samstag ist Elif mit Lina zum See gefahren.",
      "tr": "Cumartesi Elif, Lina'yla göle gitti.",
-     "en": "On Saturday, Elif went to the lake with Lina."
+     "en": "On Saturday, Elif went to the lake with Lina.",
+     "es": "El sábado, Elif fue al lago con Lina."
     },
     {
      "who": "",
      "de": "Die Freundinnen haben viel geschwommen und Fotos gemacht.",
      "tr": "Arkadaşlar çok yüzdü ve fotoğraf çekti.",
-     "en": "The friends swam a lot and took photos."
+     "en": "The friends swam a lot and took photos.",
+     "es": "Las amigas nadaron mucho e hicieron fotos."
     },
     {
      "who": "",
      "de": "Tom hat Fußball gespielt, und Lina hat ein Buch gelesen.",
      "tr": "Tom futbol oynadı, Lina da bir kitap okudu.",
-     "en": "Tom played football, and Lina read a book."
+     "en": "Tom played football, and Lina read a book.",
+     "es": "Tom jugó al fútbol y Lina leyó un libro."
     },
     {
      "who": "",
      "de": "Zum Mittagessen haben alle Brot und Käse gegessen.",
      "tr": "Öğle yemeğinde herkes ekmek ve peynir yedi.",
-     "en": "Everyone ate bread and cheese for lunch."
+     "en": "Everyone ate bread and cheese for lunch.",
+     "es": "Todos comieron pan y queso para almorzar."
     },
     {
      "who": "",
      "de": "Am Abend sind sie mit dem Bus zurückgefahren.",
      "tr": "Akşam otobüsle geri döndüler.",
-     "en": "In the evening, they went back by bus."
+     "en": "In the evening, they went back by bus.",
+     "es": "Por la tarde, volvieron en autobús."
     },
     {
      "who": "",
      "de": "Elif war müde, aber sehr glücklich.",
      "tr": "Elif yorgundu ama çok mutluydu.",
-     "en": "Elif was tired but very happy."
+     "en": "Elif was tired but very happy.",
+     "es": "Elif estaba cansada, pero muy contenta."
     },
     {
      "who": "",
      "de": "Sie sagt: „Der Ausflug war super!“",
      "tr": "“Gezi harikaydı!” diyor.",
-     "en": "She says, “The trip was great!”"
+     "en": "She says, “The trip was great!”",
+     "es": "Dice: «¡La excursión fue estupenda!»"
     }
    ],
    "glossary": [],
@@ -2196,61 +2599,83 @@
      "who": "Elif",
      "de": "Eine Fahrkarte nach Berlin, bitte.",
      "tr": "Berlin'e bir bilet lütfen.",
-     "en": "A ticket to Berlin, please."
+     "en": "A ticket to Berlin, please.",
+     "es": "Un billete a Berlín, por favor.",
+     "fr": "Un billet pour Berlin, s'il vous plaît.",
+     "it": "Un biglietto per Berlino, per favore.",
+     "ku": "Biletek ji bo Berlînê, ji kerema xwe.",
+     "ar": "تذكرة إلى برلين، من فضلك."
     },
     {
      "who": "Lina",
      "de": "Wann fährt der nächste Zug?",
      "tr": "Sonraki tren ne zaman kalkıyor?",
-     "en": "When does the next train leave?"
+     "en": "When does the next train leave?",
+     "es": "¿Cuándo sale el próximo tren?",
+     "fr": "À quelle heure part le prochain train ?",
+     "it": "Quando parte il prossimo treno?",
+     "ku": "Trêna din kengî derdikeve?",
+     "ar": "متى يغادر القطار التالي؟"
     },
     {
      "who": "Elif",
      "de": "Um zehn Uhr.",
      "tr": "Saat onda.",
-     "en": "At ten o'clock."
+     "en": "At ten o'clock.",
+     "es": "A las diez."
     },
     {
      "who": "Lina",
      "de": "Von welchem Gleis fährt der Zug?",
      "tr": "Tren hangi perondan kalkıyor?",
-     "en": "Which platform does the train leave from?"
+     "en": "Which platform does the train leave from?",
+     "es": "¿De qué andén sale el tren?",
+     "fr": "De quel quai part le train ?",
+     "it": "Da quale binario parte il treno?",
+     "ku": "Trên ji kîjan peronê derdikeve?",
+     "ar": "من أي رصيف ينطلق القطار؟"
     },
     {
      "who": "Elif",
      "de": "Von Gleis drei.",
      "tr": "Üçüncü perondan.",
-     "en": "From platform three."
+     "en": "From platform three.",
+     "es": "Desde el andén tres."
     },
     {
      "who": "Lina",
      "de": "Musst du in Bonn umsteigen?",
      "tr": "Bonn'da aktarma yapman gerekiyor mu?",
-     "en": "Do you have to change trains in Bonn?"
+     "en": "Do you have to change trains in Bonn?",
+     "es": "¿Tiene que cambiar de tren en Bonn?"
     },
     {
      "who": "Elif",
      "de": "Ja, ich steige in Bonn um.",
      "tr": "Evet, Bonn'da aktarma yapıyorum.",
-     "en": "Yes, I'm changing trains in Bonn."
+     "en": "Yes, I'm changing trains in Bonn.",
+     "es": "Sí, cambio de tren en Bonn."
     },
     {
      "who": "Lina",
      "de": "Ich habe ein Zimmer reserviert.",
      "tr": "Bir oda ayırttım.",
-     "en": "I've booked a room."
+     "en": "I've booked a room.",
+     "es": "He reservado una habitación."
     },
     {
      "who": "Elif",
      "de": "Das Hotel ist im Zentrum.",
      "tr": "Otel merkezde.",
-     "en": "The hotel is in the center."
+     "en": "The hotel is in the center.",
+     "es": "El hotel está en el centro."
     },
     {
      "who": "Lina",
      "de": "Dein Koffer ist schwer. Ich helfe dir.",
      "tr": "Valizin ağır. Sana yardım ediyorum.",
-     "en": "Your suitcase is heavy. I'll help you."
+     "en": "Your suitcase is heavy. I'll help you.",
+     "es": "Tu maleta pesa mucho. Te ayudaré."
     }
    ],
    "glossary": [],
@@ -2299,49 +2724,57 @@
      "who": "",
      "de": "Elif sagt am Schalter: „Eine Fahrkarte nach Berlin, bitte.“",
      "tr": "Elif gişede, “Berlin'e bir bilet lütfen,” diyor.",
-     "en": "At the counter, Elif says, “A ticket to Berlin, please.”"
+     "en": "At the counter, Elif says, “A ticket to Berlin, please.”",
+     "es": "En la taquilla, Elif dice: «Un billete a Berlín, por favor»"
     },
     {
      "who": "",
      "de": "Um zehn Uhr fährt der Zug von Gleis drei ab.",
      "tr": "Tren saat onda üçüncü perondan kalkıyor.",
-     "en": "The train leaves from platform three at ten."
+     "en": "The train leaves from platform three at ten.",
+     "es": "El tren sale del andén tres a las diez."
     },
     {
      "who": "",
      "de": "In Bonn steigt sie um und wartet zehn Minuten.",
      "tr": "Bonn'da aktarma yapıyor ve on dakika bekliyor.",
-     "en": "She changes trains in Bonn and waits for ten minutes."
+     "en": "She changes trains in Bonn and waits for ten minutes.",
+     "es": "Cambia de tren en Bonn y espera diez minutos."
     },
     {
      "who": "",
      "de": "Am Nachmittag kommt sie in Berlin an.",
      "tr": "Öğleden sonra Berlin'e varıyor.",
-     "en": "She arrives in Berlin in the afternoon."
+     "en": "She arrives in Berlin in the afternoon.",
+     "es": "Llega a Berlín por la tarde."
     },
     {
      "who": "",
      "de": "Sie sagt: „Ich habe ein Zimmer reserviert.“",
      "tr": "“Bir oda ayırttım,” diyor.",
-     "en": "She says, “I've booked a room.”"
+     "en": "She says, “I've booked a room.”",
+     "es": "Dice: «He reservado una habitación»"
     },
     {
      "who": "",
      "de": "Das Hotel ist im Zentrum, neben dem Museum.",
      "tr": "Otel merkezde, müzenin yanında.",
-     "en": "The hotel is in the center, next to the museum."
+     "en": "The hotel is in the center, next to the museum.",
+     "es": "El hotel está en el centro, junto al museo."
     },
     {
      "who": "",
      "de": "Elif legt ihren Koffer ins Zimmer und geht zum Park.",
      "tr": "Elif valizini odaya koyuyor ve parka gidiyor.",
-     "en": "Elif puts her suitcase in the room and goes to the park."
+     "en": "Elif puts her suitcase in the room and goes to the park.",
+     "es": "Elif deja su maleta en la habitación y va al parque."
     },
     {
      "who": "",
      "de": "Sie ruft Lina an und ist glücklich.",
      "tr": "Lina'yı arıyor ve mutlu.",
-     "en": "She calls Lina and is happy."
+     "en": "She calls Lina and is happy.",
+     "es": "Llama a Lina y está contenta."
     }
    ],
    "glossary": [],
@@ -2390,61 +2823,79 @@
      "who": "Elif",
      "de": "Guten Morgen. Ich möchte mich anmelden.",
      "tr": "Günaydın. Adres kaydı yaptırmak istiyorum.",
-     "en": "Good morning. I'd like to register my address."
+     "en": "Good morning. I'd like to register my address.",
+     "es": "Buenos días. Quisiera registrar mi dirección."
     },
     {
      "who": "Frau Becker",
      "de": "Guten Morgen. Haben Sie einen Termin?",
      "tr": "Günaydın. Randevunuz var mı?",
-     "en": "Good morning. Do you have an appointment?"
+     "en": "Good morning. Do you have an appointment?",
+     "es": "Buenos días. ¿Tiene una cita?"
     },
     {
      "who": "Elif",
      "de": "Ja, um zehn Uhr.",
      "tr": "Evet, saat onda.",
-     "en": "Yes, at ten o'clock."
+     "en": "Yes, at ten o'clock.",
+     "es": "Sí, a las diez."
     },
     {
      "who": "Frau Becker",
      "de": "Bitte zeigen Sie Ihren Ausweis.",
      "tr": "Lütfen kimliğinizi gösterin.",
-     "en": "Please show me your ID."
+     "en": "Please show me your ID.",
+     "es": "Enséñeme su documento de identidad, por favor."
     },
     {
      "who": "Elif",
      "de": "Hier sind mein Ausweis und mein Pass.",
      "tr": "Kimliğim ve pasaportum burada.",
-     "en": "Here are my ID and passport."
+     "en": "Here are my ID and passport.",
+     "es": "Aquí tiene mi documento de identidad y mi pasaporte."
     },
     {
      "who": "Frau Becker",
      "de": "Bitte füllen Sie das Formular aus.",
      "tr": "Lütfen formu doldurun.",
-     "en": "Please fill out the form."
+     "en": "Please fill out the form.",
+     "es": "Rellene el formulario, por favor."
     },
     {
      "who": "Elif",
      "de": "Welche Unterlagen brauche ich?",
      "tr": "Hangi belgelere ihtiyacım var?",
-     "en": "Which documents do I need?"
+     "en": "Which documents do I need?",
+     "es": "¿Qué documentos necesito?",
+     "fr": "De quels documents ai-je besoin ?",
+     "it": "Quali documenti mi servono?",
+     "ku": "Kîjan belge hewce ne?",
+     "ar": "ما هي المستندات التي أحتاجها؟"
     },
     {
      "who": "Frau Becker",
      "de": "Ihren Ausweis und das Formular.",
      "tr": "Kimliğiniz ve form.",
-     "en": "Your ID and the form."
+     "en": "Your ID and the form.",
+     "es": "Su documento de identidad y el formulario."
     },
     {
      "who": "Elif",
      "de": "Wo muss ich unterschreiben?",
      "tr": "Nereyi imzalamam gerekiyor?",
-     "en": "Where do I have to sign?"
+     "en": "Where do I have to sign?",
+     "es": "¿Dónde tengo que firmar?",
+     "fr": "Où dois-je signer ?",
+     "it": "Dove devo firmare?",
+     "ku": "Divê ez li ku îmze bikim?",
+     "ar": "أين يجب أن أوقع؟"
     },
     {
      "who": "Frau Becker",
      "de": "Bitte hier unten.",
      "tr": "Lütfen burada, aşağıya.",
-     "en": "Here at the bottom, please."
+     "en": "Here at the bottom, please.",
+     "es": "Aquí abajo, por favor."
     }
    ],
    "glossary": [],
@@ -2493,55 +2944,64 @@
      "who": "",
      "de": "Elif hat heute einen Termin beim Amt in Köln.",
      "tr": "Elif'in bugün Köln'de resmî dairede randevusu var.",
-     "en": "Elif has an appointment at the office in Cologne today."
+     "en": "Elif has an appointment at the office in Cologne today.",
+     "es": "Hoy Elif tiene una cita en la oficina de Colonia."
     },
     {
      "who": "",
      "de": "Sie sagt: „Ich möchte mich anmelden.“",
      "tr": "“Adres kaydı yaptırmak istiyorum,” diyor.",
-     "en": "She says, “I'd like to register my address.”"
+     "en": "She says, “I'd like to register my address.”",
+     "es": "Dice: «Quisiera registrar mi dirección»"
     },
     {
      "who": "",
      "de": "Frau Becker nimmt ihren Ausweis und das Formular.",
      "tr": "Frau Becker kimliğini ve formu alıyor.",
-     "en": "Ms Becker takes her ID and the form."
+     "en": "Ms Becker takes her ID and the form.",
+     "es": "La señora Becker lleva su documento de identidad y el formulario."
     },
     {
      "who": "",
      "de": "Elif schreibt ihre Adresse und Hausnummer ins Formular.",
      "tr": "Elif adresini ve kapı numarasını forma yazıyor.",
-     "en": "Elif writes her address and house number on the form."
+     "en": "Elif writes her address and house number on the form.",
+     "es": "Elif escribe su dirección y el número de la casa en el formulario."
     },
     {
      "who": "",
      "de": "Sie fragt: „Welche Unterlagen brauche ich?“",
      "tr": "“Hangi belgelere ihtiyacım var?” diye soruyor.",
-     "en": "She asks, “Which documents do I need?”"
+     "en": "She asks, “Which documents do I need?”",
+     "es": "Pregunta: «¿Qué documentos necesito?»"
     },
     {
      "who": "",
      "de": "Am Mittag geht Elif zur Bank in der Stadt.",
      "tr": "Öğlen Elif şehirdeki bankaya gidiyor.",
-     "en": "At noon, Elif goes to the bank in town."
+     "en": "At noon, Elif goes to the bank in town.",
+     "es": "Al mediodía, Elif va al banco del centro."
     },
     {
      "who": "",
      "de": "Sie möchte ein Konto eröffnen.",
      "tr": "Bir hesap açmak istiyor.",
-     "en": "She would like to open an account."
+     "en": "She would like to open an account.",
+     "es": "Quiere abrir una cuenta."
     },
     {
      "who": "",
      "de": "Elif zeigt ihren Ausweis und unterschreibt das Formular.",
      "tr": "Elif kimliğini gösterip formu imzalıyor.",
-     "en": "Elif shows her ID and signs the form."
+     "en": "Elif shows her ID and signs the form.",
+     "es": "Elif muestra su documento de identidad y firma el formulario."
     },
     {
      "who": "",
      "de": "Jetzt hat sie ein Konto und ist sehr glücklich.",
      "tr": "Artık bir hesabı var ve çok mutlu.",
-     "en": "Now she has an account and is very happy."
+     "en": "Now she has an account and is very happy.",
+     "es": "Ahora tiene una cuenta y está muy contenta."
     }
    ],
    "glossary": [
@@ -2550,7 +3010,8 @@
      "lemma": "eröffnen",
      "art": "",
      "tr": "açmak (hesap açmak)",
-     "en": "to open (an account)"
+     "en": "to open (an account)",
+     "es": "abrir (una cuenta)"
     }
    ],
    "questions": [
@@ -2608,43 +3069,53 @@
    "trans": [
     {
      "tr": "Lina: Merhaba! Benim adım Lina.",
-     "en": "Lina: Hello! My name is Lina."
+     "en": "Lina: Hello! My name is Lina.",
+     "es": "Lina: ¡Hola! Me llamo Lina."
     },
     {
      "tr": "Elif: Merhaba, benim adım Elif.",
-     "en": "Elif: Hello, my name is Elif."
+     "en": "Elif: Hello, my name is Elif.",
+     "es": "Elif: Hola, me llamo Elif."
     },
     {
      "tr": "Lina: Adınız ne?",
-     "en": "Lina: What is your name?"
+     "en": "Lina: What is your name?",
+     "es": "Lina: ¿Cómo te llamas?"
     },
     {
      "tr": "Elif: Benim adım Elif. Türkiye'den geliyorum.",
-     "en": "Elif: My name is Elif. I come from Türkiye."
+     "en": "Elif: My name is Elif. I come from Türkiye.",
+     "es": "Elif: Me llamo Elif. Soy de Turquía."
     },
     {
      "tr": "Lina: Köln'de oturuyorum ve Almanca konuşuyorum.",
-     "en": "Lina: I live in Cologne and speak German."
+     "en": "Lina: I live in Cologne and speak German.",
+     "es": "Lina: Vivo en Colonia y hablo alemán."
     },
     {
      "tr": "Elif: Ben de Köln'de oturuyorum. Türkçe konuşuyorum.",
-     "en": "Elif: I live in Cologne too. I speak Turkish."
+     "en": "Elif: I live in Cologne too. I speak Turkish.",
+     "es": "Elif: Yo también vivo en Colonia. Hablo turco."
     },
     {
      "tr": "Lina: Memnun oldum! Benim adım Lina.",
-     "en": "Lina: Nice to meet you! My name is Lina."
+     "en": "Lina: Nice to meet you! My name is Lina.",
+     "es": "Lina: ¡Encantada! Me llamo Lina."
     },
     {
      "tr": "Elif: Memnun oldum Lina! Bir sorum var.",
-     "en": "Elif: Nice to meet you, Lina! I have a question."
+     "en": "Elif: Nice to meet you, Lina! I have a question.",
+     "es": "Elif: ¡Encantada, Lina! Tengo una pregunta."
     },
     {
      "tr": "Lina: Evet, lütfen. Memnuniyetle cevap veririm.",
-     "en": "Lina: Yes, please. I'm happy to answer."
+     "en": "Lina: Yes, please. I'm happy to answer.",
+     "es": "Lina: Sí, dime. Estaré encantada de responder."
     },
     {
      "tr": "Elif: Teşekkürler. Almanca öğreniyorum.",
-     "en": "Elif: Thank you. I'm learning German."
+     "en": "Elif: Thank you. I'm learning German.",
+     "es": "Elif: Gracias. Estoy aprendiendo alemán."
     }
    ],
    "glossary": [
@@ -2656,7 +3127,12 @@
      "extra": null,
      "mean": {
       "tr": "kurs",
-      "en": "course"
+      "en": "course",
+      "es": "curso",
+      "fr": "cours",
+      "it": "corso",
+      "ku": "kurs",
+      "ar": "دورة"
      }
     },
     {
@@ -2667,7 +3143,12 @@
      "extra": null,
      "mean": {
       "tr": "Almanca",
-      "en": "German"
+      "en": "German",
+      "es": "alemán",
+      "fr": "allemand",
+      "it": "tedesco",
+      "ku": "Alman; almanî",
+      "ar": "ألماني؛ اللغة الألمانية"
      }
     },
     {
@@ -2678,7 +3159,12 @@
      "extra": null,
      "mean": {
       "tr": "Türkçe",
-      "en": "Turkish"
+      "en": "Turkish",
+      "es": "turco/a; turco",
+      "fr": "turc / turque ; le turc",
+      "it": "turco",
+      "ku": "tirkî",
+      "ar": "تركي"
      }
     }
    ],
@@ -2735,35 +3221,43 @@
    "trans": [
     {
      "tr": "Elif Türkiye'den geliyor ve Köln'de oturuyor.",
-     "en": "Elif comes from Türkiye and lives in Cologne."
+     "en": "Elif comes from Türkiye and lives in Cologne.",
+     "es": "Elif es de Türkiye y vive en Colonia."
     },
     {
      "tr": "Çok iyi Türkçe konuşuyor ve kursta Almanca öğreniyor.",
-     "en": "She speaks Turkish very well and learns German in the course."
+     "en": "She speaks Turkish very well and learns German in the course.",
+     "es": "Habla muy bien turco y aprende alemán en el curso."
     },
     {
      "tr": "Lina da Köln'de oturuyor ve Almanca konuşuyor.",
-     "en": "Lina also lives in Cologne and speaks German."
+     "en": "Lina also lives in Cologne and speaks German.",
+     "es": "Lina también vive en Colonia y habla alemán."
     },
     {
      "tr": "Elif'in bir sorusu var ve Lina nazikçe cevap veriyor.",
-     "en": "Elif has a question, and Lina answers kindly."
+     "en": "Elif has a question, and Lina answers kindly.",
+     "es": "Elif tiene una pregunta y Lina le responde amablemente."
     },
     {
      "tr": "İsimleri, ülkeleri ve şehirleri hakkında soru soruyorlar.",
-     "en": "They ask about names, country, and city."
+     "en": "They ask about names, country, and city.",
+     "es": "Preguntan cómo se llaman y de qué país y ciudad son."
     },
     {
      "tr": "Elif adını yavaşça ve açıkça söylüyor.",
-     "en": "Elif says her first name slowly and clearly."
+     "en": "Elif says her first name slowly and clearly.",
+     "es": "Elif dice su nombre despacio y claramente."
     },
     {
      "tr": "Lina her kelimeyi anlıyor ve gülüyor.",
-     "en": "Lina understands every word and laughs."
+     "en": "Lina understands every word and laughs.",
+     "es": "Lina entiende cada palabra y se ríe."
     },
     {
      "tr": "“Memnun oldum!” diyor Lina. Elif çok mutlu.",
-     "en": "“Nice to meet you!” Lina says. Elif is very happy."
+     "en": "“Nice to meet you!” Lina says. Elif is very happy.",
+     "es": "«¡Encantada de conocerte!», dice Lina. Elif está muy contenta."
     }
    ],
    "glossary": [
@@ -2775,7 +3269,12 @@
      "extra": null,
      "mean": {
       "tr": "kurs",
-      "en": "course"
+      "en": "course",
+      "es": "curso",
+      "fr": "cours",
+      "it": "corso",
+      "ku": "kurs",
+      "ar": "دورة"
      }
     },
     {
@@ -2786,7 +3285,12 @@
      "extra": null,
      "mean": {
       "tr": "Almanca",
-      "en": "German"
+      "en": "German",
+      "es": "alemán",
+      "fr": "allemand",
+      "it": "tedesco",
+      "ku": "Alman; almanî",
+      "ar": "ألماني؛ اللغة الألمانية"
      }
     },
     {
@@ -2797,7 +3301,12 @@
      "extra": null,
      "mean": {
       "tr": "Türkçe",
-      "en": "Turkish"
+      "en": "Turkish",
+      "es": "turco/a; turco",
+      "fr": "turc / turque ; le turc",
+      "it": "turco",
+      "ku": "tirkî",
+      "ar": "تركي"
      }
     }
    ],
@@ -2856,43 +3365,53 @@
    "trans": [
     {
      "tr": "Elif: Lina, fotoğraflarım var. Telefonum yeni.",
-     "en": "Elif: Lina, I have photos. My phone is new."
+     "en": "Elif: Lina, I have photos. My phone is new.",
+     "es": "Elif: Lina, tengo fotos. Mi móvil es nuevo."
     },
     {
      "tr": "Lina: Fotoğrafları gösterir misin?",
-     "en": "Lina: Will you show me the photos?"
+     "en": "Lina: Will you show me the photos?",
+     "es": "Lina: ¿Me enseñas las fotos?"
     },
     {
      "tr": "Elif: Evet. Bu benim annem. Adı Aylin.",
-     "en": "Elif: Yes. This is my mother. Her name is Aylin."
+     "en": "Elif: Yes. This is my mother. Her name is Aylin.",
+     "es": "Elif: Sí. Esta es mi madre. Se llama Aylin."
     },
     {
      "tr": "Lina: Peki erkek çocuk kim?",
-     "en": "Lina: And who is the boy?"
+     "en": "Lina: And who is the boy?",
+     "es": "Lina: ¿Y quién es el chico?"
     },
     {
      "tr": "Elif: Bu benim erkek kardeşim. 19 yaşında.",
-     "en": "Elif: This is my brother. He is 19 years old."
+     "en": "Elif: This is my brother. He is 19 years old.",
+     "es": "Elif: Este es mi hermano. Tiene 19 años."
     },
     {
      "tr": "Lina: Bir erkek ve bir kız kardeşim var.",
-     "en": "Lina: I have a brother and a sister."
+     "en": "Lina: I have a brother and a sister.",
+     "es": "Lina: Tengo un hermano y una hermana."
     },
     {
      "tr": "Elif: Kardeşlerinin adları ne?",
-     "en": "Elif: What are your siblings' names?"
+     "en": "Elif: What are your siblings' names?",
+     "es": "Elif: ¿Cómo se llaman tus hermanos?"
     },
     {
      "tr": "Lina: Kız kardeşimin adı Mila. Erkek kardeşimin adı Tom.",
-     "en": "Lina: My sister's name is Mila. My brother's name is Tom."
+     "en": "Lina: My sister's name is Mila. My brother's name is Tom.",
+     "es": "Lina: Mi hermana se llama Mila. Mi hermano se llama Tom."
     },
     {
      "tr": "Elif: Evli misin?",
-     "en": "Elif: Are you married?"
+     "en": "Elif: Are you married?",
+     "es": "Elif: ¿Estás casada?"
     },
     {
      "tr": "Lina: Hayır. Evli değilim. Çocuğum yok.",
-     "en": "Lina: No. I'm not married. I don't have children."
+     "en": "Lina: No. I'm not married. I don't have children.",
+     "es": "Lina: No. No estoy casada. No tengo hijos."
     }
    ],
    "glossary": [
@@ -2904,7 +3423,8 @@
      "extra": null,
      "mean": {
       "tr": "telefon fotoğrafı",
-      "en": "phone photo"
+      "en": "phone photo",
+      "es": "foto del teléfono"
      }
     },
     {
@@ -2915,7 +3435,12 @@
      "extra": null,
      "mean": {
       "tr": "fotoğraf",
-      "en": "photo"
+      "en": "photo",
+      "es": "foto",
+      "fr": "photo",
+      "it": "foto",
+      "ku": "wêne",
+      "ar": "صورة"
      }
     }
    ],
@@ -2973,39 +3498,48 @@
    "trans": [
     {
      "tr": "Elif'in fotoğrafları var. Lina'ya bir fotoğraf gösteriyor.",
-     "en": "Elif has photos. She shows Lina a photo."
+     "en": "Elif has photos. She shows Lina a photo.",
+     "es": "Elif tiene fotos. Le enseña una foto a Lina."
     },
     {
      "tr": "Fotoğrafta annesi ve babası var.",
-     "en": "The photo shows her mother and her father."
+     "en": "The photo shows her mother and her father.",
+     "es": "En la foto salen su madre y su padre."
     },
     {
      "tr": "Erkek ve kız kardeşi de fotoğrafta.",
-     "en": "It also shows her brother and sister."
+     "en": "It also shows her brother and sister.",
+     "es": "También salen su hermano y su hermana."
     },
     {
      "tr": "Lina'nın da bir fotoğrafı var.",
-     "en": "Lina has a photo too."
+     "en": "Lina has a photo too.",
+     "es": "Lina también tiene una foto."
     },
     {
      "tr": "“Bu benim annem,” diyor Lina.",
-     "en": "“This is my mother,” Lina says."
+     "en": "“This is my mother,” Lina says.",
+     "es": "«Esta es mi madre», dice Lina."
     },
     {
      "tr": "“Babam 58 yaşında,” diyor.",
-     "en": "“My father is 58 years old,” she says."
+     "en": "“My father is 58 years old,” she says.",
+     "es": "«Mi padre tiene 58 años», dice."
     },
     {
      "tr": "Lina'nın bir erkek ve bir kız kardeşi var.",
-     "en": "Lina has a brother and a sister."
+     "en": "Lina has a brother and a sister.",
+     "es": "Lina tiene un hermano y una hermana."
     },
     {
      "tr": "Aileleri büyük ve çok sevecen.",
-     "en": "Their families are large and very kind."
+     "en": "Their families are large and very kind.",
+     "es": "Sus familias son grandes y muy amables."
     },
     {
      "tr": "Elif ve Lina seviniyor. Fotoğraflar güzel.",
-     "en": "Elif and Lina are happy. The photos are lovely."
+     "en": "Elif and Lina are happy. The photos are lovely.",
+     "es": "Elif y Lina están contentas. Las fotos son preciosas."
     }
    ],
    "glossary": [
@@ -3017,7 +3551,8 @@
      "extra": null,
      "mean": {
       "tr": "telefon fotoğrafı",
-      "en": "phone photo"
+      "en": "phone photo",
+      "es": "foto del teléfono"
      }
     },
     {
@@ -3028,7 +3563,12 @@
      "extra": null,
      "mean": {
       "tr": "fotoğraf",
-      "en": "photo"
+      "en": "photo",
+      "es": "foto",
+      "fr": "photo",
+      "it": "foto",
+      "ku": "wêne",
+      "ar": "صورة"
      }
     }
    ],
@@ -3089,51 +3629,63 @@
    "trans": [
     {
      "tr": "Kellner: İyi günler! Ne içmek istersiniz?",
-     "en": "Kellner: Good afternoon! What would you like to drink?"
+     "en": "Kellner: Good afternoon! What would you like to drink?",
+     "es": "Camarero: ¡Buenas tardes! ¿Qué desea beber?"
     },
     {
      "tr": "Elif: Bir kahve alabilir miyim?",
-     "en": "Elif: I'd like a coffee, please."
+     "en": "Elif: I'd like a coffee, please.",
+     "es": "Elif: Un café, por favor."
     },
     {
      "tr": "Kellner: Su da ister misiniz?",
-     "en": "Kellner: Would you like water too?"
+     "en": "Kellner: Would you like water too?",
+     "es": "Camarero: ¿Quiere también agua?"
     },
     {
      "tr": "Elif: Evet, bir su lütfen.",
-     "en": "Elif: Yes, a water, please."
+     "en": "Elif: Yes, a water, please.",
+     "es": "Elif: Sí, un agua, por favor."
     },
     {
      "tr": "Lina: Balık yemeyi severim. Balık alıyorum.",
-     "en": "Lina: I like eating fish. I'll have the fish."
+     "en": "Lina: I like eating fish. I'll have the fish.",
+     "es": "Lina: Me gusta comer pescado. Tomaré el pescado."
     },
     {
      "tr": "Elif: Çorba ve salata alıyorum.",
-     "en": "Elif: I'll have the soup and the salad."
+     "en": "Elif: I'll have the soup and the salad.",
+     "es": "Elif: Tomaré la sopa y la ensalada."
     },
     {
      "tr": "Kellner: Afiyet olsun!",
-     "en": "Kellner: Enjoy your meal!"
+     "en": "Kellner: Enjoy your meal!",
+     "es": "Camarero: ¡Que aproveche!"
     },
     {
      "tr": "Lina: Teşekkürler. Yemek çok lezzetli.",
-     "en": "Lina: Thank you. The food tastes very good."
+     "en": "Lina: Thank you. The food tastes very good.",
+     "es": "Lina: Gracias. La comida está muy rica."
     },
     {
      "tr": "Elif: Hesap lütfen.",
-     "en": "Elif: The bill, please."
+     "en": "Elif: The bill, please.",
+     "es": "Elif: La cuenta, por favor."
     },
     {
      "tr": "Kellner: Hepsi toplam 18 avro tutuyor.",
-     "en": "Kellner: That comes to 18 euros in total."
+     "en": "Kellner: That comes to 18 euros in total.",
+     "es": "Camarero: En total son 18 euros."
     },
     {
      "tr": "Elif: Kartla ödeyebilir miyim?",
-     "en": "Elif: Can I pay by card?"
+     "en": "Elif: Can I pay by card?",
+     "es": "Elif: ¿Puedo pagar con tarjeta?"
     },
     {
      "tr": "Kellner: Evet, tabii.",
-     "en": "Kellner: Yes, of course."
+     "en": "Kellner: Yes, of course.",
+     "es": "Camarero: Sí, por supuesto."
     }
    ],
    "glossary": [
@@ -3145,7 +3697,12 @@
      "extra": null,
      "mean": {
       "tr": "kafe",
-      "en": "café"
+      "en": "café",
+      "es": "cafetería",
+      "fr": "café",
+      "it": "bar, caffetteria",
+      "ku": "kafe",
+      "ar": "مقهى"
      }
     }
    ],
@@ -3203,39 +3760,48 @@
    "trans": [
     {
      "tr": "Elif ve Lina kafeye gidiyor.",
-     "en": "Elif and Lina go to the café."
+     "en": "Elif and Lina go to the café.",
+     "es": "Elif y Lina van a la cafetería."
     },
     {
      "tr": "Kahve, çorba ve salata sipariş ediyorlar.",
-     "en": "They order coffee, soup, and salad."
+     "en": "They order coffee, soup, and salad.",
+     "es": "Piden café, sopa y ensalada."
     },
     {
      "tr": "Elif su içiyor ve bir küçük ekmek yiyor.",
-     "en": "Elif drinks water and eats a bread roll."
+     "en": "Elif drinks water and eats a bread roll.",
+     "es": "Elif bebe agua y come un panecillo."
     },
     {
      "tr": "Lina balık yemeyi seviyor ve yemek çok lezzetli.",
-     "en": "Lina likes fish, and the food tastes very good."
+     "en": "Lina likes fish, and the food tastes very good.",
+     "es": "A Lina le gusta el pescado y la comida está muy rica."
     },
     {
      "tr": "Arkadaşlar hesabı ödüyor.",
-     "en": "The friends pay the bill."
+     "en": "The friends pay the bill.",
+     "es": "Las amigas pagan la cuenta."
     },
     {
      "tr": "Elif ve Lina yumurta, makarna ve çorba hazırlıyor.",
-     "en": "Elif and Lina cook eggs, pasta, and soup."
+     "en": "Elif and Lina cook eggs, pasta, and soup.",
+     "es": "Elif y Lina cocinan huevos, pasta y sopa."
     },
     {
      "tr": "Ekmek, tereyağı ve peynirleri de var.",
-     "en": "They also have bread, butter, and cheese."
+     "en": "They also have bread, butter, and cheese.",
+     "es": "También tienen pan, mantequilla y queso."
     },
     {
      "tr": "Elif elma yemeyi ve çay içmeyi seviyor.",
-     "en": "Elif likes eating an apple and drinking tea."
+     "en": "Elif likes eating an apple and drinking tea.",
+     "es": "A Elif le gusta comer una manzana y beber té."
     },
     {
      "tr": "Kahvaltı çok güzel.",
-     "en": "The breakfast is very good."
+     "en": "The breakfast is very good.",
+     "es": "El desayuno está muy rico."
     }
    ],
    "glossary": [
@@ -3247,7 +3813,12 @@
      "extra": null,
      "mean": {
       "tr": "kafe",
-      "en": "café"
+      "en": "café",
+      "es": "cafetería",
+      "fr": "café",
+      "it": "bar, caffetteria",
+      "ku": "kafe",
+      "ar": "مقهى"
      }
     },
     {
@@ -3258,7 +3829,8 @@
      "extra": null,
      "mean": {
       "tr": "gitmek",
-      "en": "to go"
+      "en": "to go",
+      "es": "ir"
      }
     },
     {
@@ -3269,7 +3841,12 @@
      "extra": null,
      "mean": {
       "tr": "kahvaltı",
-      "en": "breakfast"
+      "en": "breakfast",
+      "es": "desayuno",
+      "fr": "petit-déjeuner",
+      "it": "colazione",
+      "ku": "taşt",
+      "ar": "الإفطار"
      }
     }
    ],
@@ -3330,51 +3907,63 @@
    "trans": [
     {
      "tr": "Elif: Bu ne kadar?",
-     "en": "Elif: How much is this?"
+     "en": "Elif: How much is this?",
+     "es": "Elif: ¿Cuánto cuesta esto?"
     },
     {
      "tr": "Frau Schmidt: Elmanın fiyatı bir avro.",
-     "en": "Frau Schmidt: The apple costs one euro."
+     "en": "Frau Schmidt: The apple costs one euro.",
+     "es": "Señora Schmidt: La manzana cuesta un euro."
     },
     {
      "tr": "Lina: Başka elmaya ihtiyacın var mı?",
-     "en": "Lina: Do you need any more apples?"
+     "en": "Lina: Do you need any more apples?",
+     "es": "Lina: ¿Necesitas más manzanas?"
     },
     {
      "tr": "Elif: Evet, üç elma ve iki küçük ekmek alıyorum.",
-     "en": "Elif: Yes, I'll take three apples and two bread rolls."
+     "en": "Elif: Yes, I'll take three apples and two bread rolls.",
+     "es": "Elif: Sí, me llevo tres manzanas y dos panecillos."
     },
     {
      "tr": "Frau Schmidt: Hepsi toplam beş avro tutuyor.",
-     "en": "Frau Schmidt: That comes to five euros in total."
+     "en": "Frau Schmidt: That comes to five euros in total.",
+     "es": "Señora Schmidt: En total son cinco euros."
     },
     {
      "tr": "Elif: Teşekkürler. Poşete ihtiyacım yok.",
-     "en": "Elif: Thanks. I don't need a bag."
+     "en": "Elif: Thanks. I don't need a bag.",
+     "es": "Elif: Gracias. No necesito bolsa."
     },
     {
      "tr": "Lina: Mavi ceket çok güzel.",
-     "en": "Lina: The blue jacket is very nice."
+     "en": "Lina: The blue jacket is very nice.",
+     "es": "Lina: La chaqueta azul es muy bonita."
     },
     {
      "tr": "Elif: Bunun M bedeni var mı?",
-     "en": "Elif: Do you have this in size M?"
+     "en": "Elif: Do you have this in size M?",
+     "es": "Elif: ¿La tiene en talla M?"
     },
     {
      "tr": "Frau Schmidt: Evet, tabii.",
-     "en": "Frau Schmidt: Yes, of course."
+     "en": "Frau Schmidt: Yes, of course.",
+     "es": "Señora Schmidt: Sí, por supuesto."
     },
     {
      "tr": "Elif: Evet, mavi ceketi alıyorum.",
-     "en": "Elif: Yes, I'll take the blue jacket."
+     "en": "Elif: Yes, I'll take the blue jacket.",
+     "es": "Elif: Sí, me llevo la chaqueta azul."
     },
     {
      "tr": "Elif: Kartla ödeyebilir miyim?",
-     "en": "Elif: Can I pay by card?"
+     "en": "Elif: Can I pay by card?",
+     "es": "Elif: ¿Puedo pagar con tarjeta?"
     },
     {
      "tr": "Frau Schmidt: Evet, tabii.",
-     "en": "Frau Schmidt: Yes, of course."
+     "en": "Frau Schmidt: Yes, of course.",
+     "es": "Señora Schmidt: Sí, por supuesto."
     }
    ],
    "glossary": [
@@ -3386,7 +3975,12 @@
      "extra": null,
      "mean": {
       "tr": "ziyaret etmek",
-      "en": "to visit"
+      "en": "to visit",
+      "es": "visitar",
+      "fr": "rendre visite à",
+      "it": "visitare",
+      "ku": "serdan kirin",
+      "ar": "يزور"
      }
     },
     {
@@ -3397,7 +3991,12 @@
      "extra": null,
      "mean": {
       "tr": "beden",
-      "en": "size"
+      "en": "size",
+      "es": "talla",
+      "fr": "taille, pointure",
+      "it": "misura, numero",
+      "ku": "mezinahî, hejmar",
+      "ar": "مقاس"
      }
     }
    ],
@@ -3455,39 +4054,48 @@
    "trans": [
     {
      "tr": "Elif ve Lina birlikte pazarı geziyor.",
-     "en": "Elif and Lina visit the market together."
+     "en": "Elif and Lina visit the market together.",
+     "es": "Elif y Lina visitan juntas el mercado."
     },
     {
      "tr": "Elif üç elma, iki küçük ekmek ve peynir alıyor.",
-     "en": "Elif buys three apples, two bread rolls, and cheese."
+     "en": "Elif buys three apples, two bread rolls, and cheese.",
+     "es": "Elif compra tres manzanas, dos panecillos y queso."
     },
     {
      "tr": "“Bu ne kadar?” diye soruyor.",
-     "en": "She asks, “How much is this?”"
+     "en": "She asks, “How much is this?”",
+     "es": "Pregunta: «¿Cuánto cuesta esto?»"
     },
     {
      "tr": "Bir elma bir avro, peynir de üç avro.",
-     "en": "An apple costs one euro, and cheese costs three euros."
+     "en": "An apple costs one euro, and cheese costs three euros.",
+     "es": "Una manzana cuesta un euro y el queso cuesta tres euros."
     },
     {
      "tr": "Lina bir kazak arıyor ama Elif bir ceket buluyor.",
-     "en": "Lina is looking for a sweater, but Elif finds a jacket."
+     "en": "Lina is looking for a sweater, but Elif finds a jacket.",
+     "es": "Lina busca un jersey, pero Elif encuentra una chaqueta."
     },
     {
      "tr": "Elif M beden mavi ceketi alıyor.",
-     "en": "Elif takes the blue jacket in size M."
+     "en": "Elif takes the blue jacket in size M.",
+     "es": "Elif se lleva la chaqueta azul de talla M."
     },
     {
      "tr": "Ceketi giyiyor.",
-     "en": "She wears the jacket."
+     "en": "She wears the jacket.",
+     "es": "Se pone la chaqueta."
     },
     {
      "tr": "Elif kartla ödüyor ve poşete ihtiyacı yok.",
-     "en": "Elif pays by card and doesn't need a bag."
+     "en": "Elif pays by card and doesn't need a bag.",
+     "es": "Elif paga con tarjeta y no necesita bolsa."
     },
     {
      "tr": "Lina mutlu çünkü fiyat iyi.",
-     "en": "Lina is happy because the price is good."
+     "en": "Lina is happy because the price is good.",
+     "es": "Lina está contenta porque el precio es bueno."
     }
    ],
    "glossary": [
@@ -3499,7 +4107,12 @@
      "extra": null,
      "mean": {
       "tr": "ziyaret etmek",
-      "en": "to visit"
+      "en": "to visit",
+      "es": "visitar",
+      "fr": "rendre visite à",
+      "it": "visitare",
+      "ku": "serdan kirin",
+      "ar": "يزور"
      }
     },
     {
@@ -3510,7 +4123,12 @@
      "extra": null,
      "mean": {
       "tr": "beden",
-      "en": "size"
+      "en": "size",
+      "es": "talla",
+      "fr": "taille, pointure",
+      "it": "misura, numero",
+      "ku": "mezinahî, hejmar",
+      "ar": "مقاس"
      }
     }
    ],
@@ -3569,43 +4187,53 @@
    "trans": [
     {
      "tr": "Lina: Kanepe oturma odasında duruyor.",
-     "en": "Lina: The sofa is in the living room."
+     "en": "Lina: The sofa is in the living room.",
+     "es": "Lina: El sofá está en el salón."
     },
     {
      "tr": "Elif: Mutfak küçük ama aydınlık.",
-     "en": "Elif: The kitchen is small but bright."
+     "en": "Elif: The kitchen is small but bright.",
+     "es": "Elif: La cocina es pequeña, pero luminosa."
     },
     {
      "tr": "Lina: Kira ne kadar?",
-     "en": "Lina: How much is the rent?"
+     "en": "Lina: How much is the rent?",
+     "es": "Lina: ¿Cuánto cuesta el alquiler?"
     },
     {
      "tr": "Elif: Kira yüksek değil.",
-     "en": "Elif: The rent isn't high."
+     "en": "Elif: The rent isn't high.",
+     "es": "Elif: El alquiler no es caro."
     },
     {
      "tr": "Lina: Yatağın nerede duruyor?",
-     "en": "Lina: Where is your bed?"
+     "en": "Lina: Where is your bed?",
+     "es": "Lina: ¿Dónde está tu cama?"
     },
     {
      "tr": "Elif: Yatağım yatak odasında duruyor.",
-     "en": "Elif: My bed is in the bedroom."
+     "en": "Elif: My bed is in the bedroom.",
+     "es": "Elif: Mi cama está en el dormitorio."
     },
     {
      "tr": "Lina: Lambayı kanepenin yanına koyuyorum.",
-     "en": "Lina: I'll put the lamp next to the sofa."
+     "en": "Lina: I'll put the lamp next to the sofa.",
+     "es": "Lina: Pondré la lámpara junto al sofá."
     },
     {
      "tr": "Elif: Masanın yanında iki sandalye duruyor.",
-     "en": "Elif: There are two chairs by the table here."
+     "en": "Elif: There are two chairs by the table here.",
+     "es": "Elif: Aquí hay dos sillas junto a la mesa."
     },
     {
      "tr": "Lina: Senin balkonun da var mı?",
-     "en": "Lina: Do you also have a balcony?"
+     "en": "Lina: Do you also have a balcony?",
+     "es": "Lina: ¿Tienes también balcón?"
     },
     {
      "tr": "Elif: Evet ama balkonum küçük.",
-     "en": "Elif: Yes, but my balcony is small."
+     "en": "Elif: Yes, but my balcony is small.",
+     "es": "Elif: Sí, pero mi balcón es pequeño."
     }
    ],
    "glossary": [],
@@ -3663,39 +4291,56 @@
    "trans": [
     {
      "tr": "Elif Köln'de yeni bir dairede oturuyor.",
-     "en": "Elif lives in a new apartment in Cologne."
+     "en": "Elif lives in a new apartment in Cologne.",
+     "es": "Elif vive en un piso nuevo en Colonia."
     },
     {
      "tr": "Dairesinde üç oda var.",
-     "en": "Her apartment has three rooms."
+     "en": "Her apartment has three rooms.",
+     "es": "Su piso tiene tres habitaciones."
     },
     {
      "tr": "Mutfak küçük ama aydınlık.",
-     "en": "The kitchen is small but bright."
+     "en": "The kitchen is small but bright.",
+     "es": "La cocina es pequeña, pero luminosa.",
+     "fr": "La cuisine est petite mais lumineuse.",
+     "it": "La cucina è piccola ma luminosa.",
+     "ku": "Metbex piçûk e, lê ronî ye.",
+     "ar": "المطبخ صغير ولكنه مشرق."
     },
     {
      "tr": "Lina bir lamba ve iki sandalye getiriyor.",
-     "en": "Lina brings a lamp and two chairs."
+     "en": "Lina brings a lamp and two chairs.",
+     "es": "Lina trae una lámpara y dos sillas."
     },
     {
      "tr": "Elif sandalyeleri masanın yanına koyuyor.",
-     "en": "Elif puts the chairs next to the table."
+     "en": "Elif puts the chairs next to the table.",
+     "es": "Elif pone las sillas junto a la mesa."
     },
     {
      "tr": "Çantasını yatak odasındaki yatağın üstüne koyuyor.",
-     "en": "She puts her bag on the bed in the bedroom."
+     "en": "She puts her bag on the bed in the bedroom.",
+     "es": "Pone su bolso sobre la cama del dormitorio."
     },
     {
      "tr": "Kanepe oturma odasında duruyor.",
-     "en": "The sofa is in the living room."
+     "en": "The sofa is in the living room.",
+     "es": "El sofá está en el salón.",
+     "fr": "Le canapé est dans le salon.",
+     "it": "Il divano è in soggiorno.",
+     "ku": "Sofa di odeya rûniştinê de ye.",
+     "ar": "الأريكة موجودة في غرفة المعيشة."
     },
     {
      "tr": "Kira yüksek değil.",
-     "en": "The rent isn't high."
+     "en": "The rent isn't high.",
+     "es": "El alquiler no es caro."
     },
     {
      "tr": "Elif seviniyor: Odası güzel ve temiz.",
-     "en": "Elif is happy: her room is nice and clean."
+     "en": "Elif is happy: her room is nice and clean.",
+     "es": "Elif está contenta: su habitación es bonita y está limpia."
     }
    ],
    "glossary": [],
@@ -3754,43 +4399,53 @@
    "trans": [
     {
      "tr": "Lina: Saat kaç?",
-     "en": "Lina: What time is it?"
+     "en": "Lina: What time is it?",
+     "es": "Lina: ¿Qué hora es?"
     },
     {
      "tr": "Elif: Saat yedi buçuk.",
-     "en": "Elif: It's half past seven."
+     "en": "Elif: It's half past seven.",
+     "es": "Elif: Son las siete y media."
     },
     {
      "tr": "Lina: Saat altıda kalkıyorum.",
-     "en": "Lina: I get up at six."
+     "en": "Lina: I get up at six.",
+     "es": "Lina: Me levanto a las seis."
     },
     {
      "tr": "Elif: Pazartesi bir randevum var.",
-     "en": "Elif: I have an appointment on Monday."
+     "en": "Elif: I have an appointment on Monday.",
+     "es": "Elif: Tengo una cita el lunes."
     },
     {
      "tr": "Lina: Kurs saat kaçta başlıyor?",
-     "en": "Lina: What time does the course start?"
+     "en": "Lina: What time does the course start?",
+     "es": "Lina: ¿A qué hora empieza el curso?"
     },
     {
      "tr": "Elif: Kurs saat sekizde başlıyor.",
-     "en": "Elif: The course starts at eight."
+     "en": "Elif: The course starts at eight.",
+     "es": "Elif: El curso empieza a las ocho."
     },
     {
      "tr": "Lina: Bu akşam vaktin var mı?",
-     "en": "Lina: Do you have time this evening?"
+     "en": "Lina: Do you have time this evening?",
+     "es": "Lina: ¿Tienes tiempo esta tarde?"
     },
     {
      "tr": "Elif: Evet, saat yedide.",
-     "en": "Elif: Yes, at seven."
+     "en": "Elif: Yes, at seven.",
+     "es": "Elif: Sí, a las siete."
     },
     {
      "tr": "Lina: Akşam birlikte yemek yiyoruz.",
-     "en": "Lina: We'll eat together in the evening."
+     "en": "Lina: We'll eat together in the evening.",
+     "es": "Lina: Cenaremos juntos por la tarde."
     },
     {
      "tr": "Elif: Memnuniyetle!",
-     "en": "Elif: Sure!"
+     "en": "Elif: Sure!",
+     "es": "Elif: ¡Claro!"
     }
    ],
    "glossary": [],
@@ -3847,35 +4502,43 @@
    "trans": [
     {
      "tr": "Elif pazartesi şöyle diyor: “Saat altıda kalkıyorum.”",
-     "en": "On Monday, Elif says, “I get up at six.”"
+     "en": "On Monday, Elif says, “I get up at six.”",
+     "es": "El lunes, Elif dice: «Me levanto a las seis»"
     },
     {
      "tr": "Duş alıyor ve kahvaltıda bir yumurta yiyor.",
-     "en": "She showers and eats an egg for breakfast."
+     "en": "She showers and eats an egg for breakfast.",
+     "es": "Se ducha y desayuna un huevo."
     },
     {
      "tr": "Saat yedi buçuk. Elif kursa otobüsle gidiyor.",
-     "en": "It is half past seven. Elif takes the bus to the course."
+     "en": "It is half past seven. Elif takes the bus to the course.",
+     "es": "Son las siete y media. Elif va al curso en autobús."
     },
     {
      "tr": "Kurs saat sekizde başlıyor ve üç saat sürüyor.",
-     "en": "The course starts at eight and lasts three hours."
+     "en": "The course starts at eight and lasts three hours.",
+     "es": "El curso empieza a las ocho y dura tres horas."
     },
     {
      "tr": "Öğlen Elif, Lina'yla su içiyor.",
-     "en": "At noon, Elif drinks water with Lina."
+     "en": "At noon, Elif drinks water with Lina.",
+     "es": "Al mediodía, Elif bebe agua con Lina."
     },
     {
      "tr": "Saat dörtte bir randevusu var.",
-     "en": "She has an appointment at four."
+     "en": "She has an appointment at four.",
+     "es": "Tiene una cita a las cuatro."
     },
     {
      "tr": "Akşam Elif dairesinde ve çay içiyor.",
-     "en": "In the evening, Elif is in her apartment and drinks tea."
+     "en": "In the evening, Elif is in her apartment and drinks tea.",
+     "es": "Por la tarde, Elif está en su piso y bebe té."
     },
     {
      "tr": "Hafta sonunda Elif uzun süre yatakta kalıyor ve izinli.",
-     "en": "At the weekend, Elif stays in bed for a long time and has the day off."
+     "en": "At the weekend, Elif stays in bed for a long time and has the day off.",
+     "es": "El fin de semana, Elif se queda mucho tiempo en la cama y tiene el día libre."
     }
    ],
    "glossary": [],
@@ -3934,43 +4597,53 @@
    "trans": [
     {
      "tr": "Elif: Affedersiniz, tren istasyonu nerede?",
-     "en": "Elif: Excuse me, where is the train station?"
+     "en": "Elif: Excuse me, where is the train station?",
+     "es": "Elif: Disculpe, ¿dónde está la estación de tren?"
     },
     {
      "tr": "Mann: Düz gidin, sonra sola dönün.",
-     "en": "Mann: Go straight ahead and then turn left."
+     "en": "Mann: Go straight ahead and then turn left.",
+     "es": "Hombre: Siga recto y luego gire a la izquierda."
     },
     {
      "tr": "Elif: Eczaneyi arıyorum.",
-     "en": "Elif: I'm looking for the pharmacy."
+     "en": "Elif: I'm looking for the pharmacy.",
+     "es": "Elif: Estoy buscando la farmacia."
     },
     {
      "tr": "Mann: Eczane bankanın yanında.",
-     "en": "Mann: The pharmacy is next to the bank."
+     "en": "Mann: The pharmacy is next to the bank.",
+     "es": "Hombre: La farmacia está junto al banco."
     },
     {
      "tr": "Elif: Ne kadar uzak?",
-     "en": "Elif: How far is it?"
+     "en": "Elif: How far is it?",
+     "es": "Elif: ¿Está lejos?"
     },
     {
      "tr": "Mann: Meydan durağın yanında.",
-     "en": "Mann: The square is next to the stop."
+     "en": "Mann: The square is next to the stop.",
+     "es": "Hombre: La plaza está junto a la parada."
     },
     {
      "tr": "Elif: Merkeze otobüsle gidiyorum.",
-     "en": "Elif: I'll take the bus to the center."
+     "en": "Elif: I'll take the bus to the center.",
+     "es": "Elif: Iré en autobús al centro."
     },
     {
      "tr": "Mann: Tramvay da merkeze gidiyor.",
-     "en": "Mann: The tram also goes to the center."
+     "en": "Mann: The tram also goes to the center.",
+     "es": "Hombre: El tranvía también va al centro."
     },
     {
      "tr": "Elif: Bankanın yanında iniyorum.",
-     "en": "Elif: I'll get off by the bank."
+     "en": "Elif: I'll get off by the bank.",
+     "es": "Elif: Me bajaré junto al banco."
     },
     {
      "tr": "Mann: Evet, eczane bankanın yanında.",
-     "en": "Mann: Yes, the pharmacy is next to the bank."
+     "en": "Mann: Yes, the pharmacy is next to the bank.",
+     "es": "Hombre: Sí, la farmacia está junto al banco."
     }
    ],
    "glossary": [],
@@ -4028,39 +4701,52 @@
    "trans": [
     {
      "tr": "Elif şehirde ve eczaneyi arıyor.",
-     "en": "Elif is in the city and is looking for the pharmacy."
+     "en": "Elif is in the city and is looking for the pharmacy.",
+     "es": "Elif está en la ciudad y está buscando la farmacia."
     },
     {
      "tr": "Durakta bir adama soru soruyor.",
-     "en": "She asks a man at the stop."
+     "en": "She asks a man at the stop.",
+     "es": "Le pregunta a un hombre en la parada."
     },
     {
      "tr": "Adam, “Düz gidin, sonra sola dönün,” diyor.",
-     "en": "He says, “Go straight ahead and then turn left.”"
+     "en": "He says, “Go straight ahead and then turn left.”",
+     "es": "Él dice: «Siga recto y luego gire a la izquierda»"
     },
     {
      "tr": "Elif merkeze otobüsle gidiyor.",
-     "en": "Elif takes the bus to the center."
+     "en": "Elif takes the bus to the center.",
+     "es": "Elif va al centro en autobús."
     },
     {
      "tr": "Meydanda tramvaya biniyor.",
-     "en": "At the square, she gets on the tram."
+     "en": "At the square, she gets on the tram.",
+     "es": "En la plaza, sube al tranvía."
     },
     {
      "tr": "Merkezde iniyor ve bankayı arıyor.",
-     "en": "In the center, she gets off and looks for the bank."
+     "en": "In the center, she gets off and looks for the bank.",
+     "es": "En el centro, se baja y busca el banco."
     },
     {
      "tr": "Eczane bankanın yanında.",
-     "en": "The pharmacy is next to the bank."
+     "en": "The pharmacy is next to the bank.",
+     "es": "La farmacia está al lado del banco.",
+     "fr": "La pharmacie est à côté de la banque.",
+     "it": "La farmacia è accanto alla banca.",
+     "ku": "Dermanxane li kêleka bankê ye.",
+     "ar": "الصيدلية بجوار البنك."
     },
     {
      "tr": "Elif eczaneden bir yara bandı ve su alıyor.",
-     "en": "Elif buys a plaster and some water at the pharmacy."
+     "en": "Elif buys a plaster and some water at the pharmacy.",
+     "es": "Elif compra una tirita y agua en la farmacia."
     },
     {
      "tr": "Sonra Elif kursa geri dönüyor.",
-     "en": "Then Elif goes back to the course."
+     "en": "Then Elif goes back to the course.",
+     "es": "Después, Elif vuelve al curso."
     }
    ],
    "glossary": [],
@@ -4119,43 +4805,53 @@
    "trans": [
     {
      "tr": "Elif: Günaydın, başım ağrıyor.",
-     "en": "Elif: Good morning, I have a headache."
+     "en": "Elif: Good morning, I have a headache.",
+     "es": "Elif: Buenos días, me duele la cabeza."
     },
     {
      "tr": "Arzt: Ateşiniz de var mı?",
-     "en": "Arzt: Do you also have a fever?"
+     "en": "Arzt: Do you also have a fever?",
+     "es": "Médico: ¿También tiene fiebre?"
     },
     {
      "tr": "Elif: Evet, midem de bulanıyor.",
-     "en": "Elif: Yes, and I feel sick."
+     "en": "Elif: Yes, and I feel sick.",
+     "es": "Elif: Sí, y me siento mal."
     },
     {
      "tr": "Arzt: Bir randevuya mı ihtiyacınız var?",
-     "en": "Arzt: Do you need an appointment?"
+     "en": "Arzt: Do you need an appointment?",
+     "es": "Médico: ¿Necesita una cita?"
     },
     {
      "tr": "Elif: Evet, bir randevuya ihtiyacım var.",
-     "en": "Elif: Yes, I need an appointment."
+     "en": "Elif: Yes, I need an appointment.",
+     "es": "Elif: Sí, necesito una cita."
     },
     {
      "tr": "Arzt: Bugün saat onda gelin.",
-     "en": "Arzt: Come at ten today."
+     "en": "Arzt: Come at ten today.",
+     "es": "Médico: Venga hoy a las diez."
     },
     {
      "tr": "Elif: Muayenehaneniz nerede?",
-     "en": "Elif: Where is your practice?"
+     "en": "Elif: Where is your practice?",
+     "es": "Elif: ¿Dónde está la consulta?"
     },
     {
      "tr": "Arzt: Muayenehane eczanenin yanında.",
-     "en": "Arzt: The practice is next to the pharmacy."
+     "en": "Arzt: The practice is next to the pharmacy.",
+     "es": "Médico: La consulta está junto a la farmacia."
     },
     {
      "tr": "Elif: Peki, saat onda geliyorum.",
-     "en": "Elif: All right, I'll come at ten."
+     "en": "Elif: All right, I'll come at ten.",
+     "es": "Elif: De acuerdo, vendré a las diez."
     },
     {
      "tr": "Arzt: Geçmiş olsun!",
-     "en": "Arzt: Get well soon!"
+     "en": "Arzt: Get well soon!",
+     "es": "Médico: ¡Que se mejore!"
     }
    ],
    "glossary": [],
@@ -4213,39 +4909,48 @@
    "trans": [
     {
      "tr": "Sabah Elif'in başı ağrıyor.",
-     "en": "Elif has a headache in the morning."
+     "en": "Elif has a headache in the morning.",
+     "es": "Por la mañana, a Elif le duele la cabeza."
     },
     {
      "tr": "Midesi bulanıyor ve ateşi de var.",
-     "en": "She feels sick and also has a fever."
+     "en": "She feels sick and also has a fever.",
+     "es": "Se siente mal y también tiene fiebre."
     },
     {
      "tr": "Elif muayenehaneyle konuşuyor ve bir randevuya ihtiyacı var.",
-     "en": "Elif speaks to the doctor's practice and needs an appointment."
+     "en": "Elif speaks to the doctor's practice and needs an appointment.",
+     "es": "Elif habla con la consulta del médico y necesita una cita."
     },
     {
      "tr": "Doktor ona termometreyi gösteriyor.",
-     "en": "The doctor shows her the thermometer."
+     "en": "The doctor shows her the thermometer.",
+     "es": "El médico le enseña el termómetro."
     },
     {
      "tr": "“Yatakta kalmanız gerekiyor,” diyor.",
-     "en": "He says, “You have to stay in bed.”"
+     "en": "He says, “You have to stay in bed.”",
+     "es": "Él dice: «Tiene que quedarse en cama»"
     },
     {
      "tr": "Elif bir tablet alıyor ve yatakta uzanıyor.",
-     "en": "Elif takes a tablet and lies in bed."
+     "en": "Elif takes a tablet and lies in bed.",
+     "es": "Elif se toma una pastilla y se acuesta."
     },
     {
      "tr": "Su ve çay içiyor.",
-     "en": "She drinks water and tea."
+     "en": "She drinks water and tea.",
+     "es": "Bebe agua y té."
     },
     {
      "tr": "Lina bir elma getiriyor ve “Geçmiş olsun!” diyor.",
-     "en": "Lina brings an apple and says, “Get well soon!”"
+     "en": "Lina brings an apple and says, “Get well soon!”",
+     "es": "Lina trae una manzana y dice: «¡Que te mejores!»"
     },
     {
      "tr": "Elif akşam uyuyor.",
-     "en": "Elif sleeps in the evening."
+     "en": "Elif sleeps in the evening.",
+     "es": "Elif duerme por la tarde."
     }
    ],
    "glossary": [],
@@ -4304,43 +5009,53 @@
    "trans": [
     {
      "tr": "Elif: Yarın sınav var.",
-     "en": "Elif: The exam is tomorrow."
+     "en": "Elif: The exam is tomorrow.",
+     "es": "Elif: El examen es mañana."
     },
     {
      "tr": "Lina: Bugün kurs için çok çalışıyorsun.",
-     "en": "Lina: You're studying a lot for the course today."
+     "en": "Lina: You're studying a lot for the course today.",
+     "es": "Lina: Hoy estás estudiando mucho para el curso."
     },
     {
      "tr": "Elif: Evet ama öğlen bir iş görüşmem var.",
-     "en": "Elif: Yes, but I have a job interview at noon."
+     "en": "Elif: Yes, but I have a job interview at noon.",
+     "es": "Elif: Sí, pero al mediodía tengo una entrevista de trabajo."
     },
     {
      "tr": "Lina: Bugün izinliyim. Seve seve seninle gelirim.",
-     "en": "Lina: I have the day off today. I'd be happy to come with you."
+     "en": "Lina: I have the day off today. I'd be happy to come with you.",
+     "es": "Lina: Hoy tengo el día libre. Me encantaría acompañarte."
     },
     {
      "tr": "Elif: Yarı zamanlı iş bir şirkette.",
-     "en": "Elif: The part-time position is at a company."
+     "en": "Elif: The part-time position is at a company.",
+     "es": "Elif: El puesto a tiempo parcial es en una empresa."
     },
     {
      "tr": "Lina: Müdür ne soruyor?",
-     "en": "Lina: What does the manager ask?"
+     "en": "Lina: What does the manager ask?",
+     "es": "Lina: ¿Qué pregunta la gerente?"
     },
     {
      "tr": "Elif: Adımı ve işimi soruyor.",
-     "en": "Elif: She asks about my name and my work."
+     "en": "Elif: She asks about my name and my work.",
+     "es": "Elif: Pregunta por mi nombre y mi trabajo."
     },
     {
      "tr": "Lina: Bunu tekrar edebilir misiniz lütfen?",
-     "en": "Lina: Could you repeat that, please?"
+     "en": "Lina: Could you repeat that, please?",
+     "es": "Lina: ¿Podrías repetirlo, por favor?"
     },
     {
      "tr": "Elif: Evet. Peki bu nasıl yazılıyor?",
-     "en": "Elif: Yes. And how do you spell that?"
+     "en": "Elif: Yes. And how do you spell that?",
+     "es": "Elif: Sí. ¿Y cómo se escribe eso?"
     },
     {
      "tr": "Lina: Adını harf harf söylersin. Bu iyi olur.",
-     "en": "Lina: You spell your name. That will go well."
+     "en": "Lina: You spell your name. That will go well.",
+     "es": "Lina: Deletreas tu nombre. Todo saldrá bien."
     }
    ],
    "glossary": [
@@ -4352,7 +5067,12 @@
      "extra": null,
      "mean": {
       "tr": "iş görüşmesi",
-      "en": "job interview"
+      "en": "job interview",
+      "es": "entrevista de trabajo",
+      "fr": "entretien d'embauche",
+      "it": "colloquio di lavoro",
+      "ku": "hevpeyvîna kar",
+      "ar": "مقابلة عمل"
      }
     },
     {
@@ -4363,7 +5083,8 @@
      "extra": null,
      "mean": {
       "tr": "yarı zamanlı iş",
-      "en": "part-time position"
+      "en": "part-time position",
+      "es": "puesto a tiempo parcial"
      }
     },
     {
@@ -4374,7 +5095,12 @@
      "extra": null,
      "mean": {
       "tr": "kadın yönetici",
-      "en": "female manager"
+      "en": "female manager",
+      "es": "gerente",
+      "fr": "responsable",
+      "it": "responsabile",
+      "ku": "rêveber (jin)",
+      "ar": "مديرة"
      }
     }
    ],
@@ -4431,35 +5157,43 @@
    "trans": [
     {
      "tr": "Yarın sınav var ve Elif bugün kursta çalışıyor.",
-     "en": "The exam is tomorrow, and Elif is studying in class today."
+     "en": "The exam is tomorrow, and Elif is studying in class today.",
+     "es": "El examen es mañana y hoy Elif estudia en clase."
     },
     {
      "tr": "Saat on birde Elif'in bir şirkette iş görüşmesi var.",
-     "en": "At eleven, Elif has a job interview at a company."
+     "en": "At eleven, Elif has a job interview at a company.",
+     "es": "A las once, Elif tiene una entrevista de trabajo en una empresa."
     },
     {
      "tr": "Yönetici Elif'in adını soruyor.",
-     "en": "The manager asks Elif's name."
+     "en": "The manager asks Elif's name.",
+     "es": "La gerente le pregunta su nombre a Elif."
     },
     {
      "tr": "Elif, “Benim adım Elif ve Köln'de oturuyorum,” diyor.",
-     "en": "Elif says, “My name is Elif and I live in Cologne.”"
+     "en": "Elif says, “My name is Elif and I live in Cologne.”",
+     "es": "Elif dice: «Me llamo Elif y vivo en Colonia»"
     },
     {
      "tr": "Yönetici hızlı konuşuyor ama Elif her şeyi anlamıyor.",
-     "en": "The manager speaks quickly, but Elif doesn't understand everything."
+     "en": "The manager speaks quickly, but Elif doesn't understand everything.",
+     "es": "La gerente habla rápido, pero Elif no entiende todo."
     },
     {
      "tr": "Elif, “Bunu tekrar edebilir misiniz lütfen?” diye soruyor.",
-     "en": "Elif asks, “Could you repeat that, please?”"
+     "en": "Elif asks, “Could you repeat that, please?”",
+     "es": "Elif pregunta: «¿Podría repetirlo, por favor?»"
     },
     {
      "tr": "Yönetici, “İşim sekizde başlıyor,” diyor.",
-     "en": "The manager says, “My work starts at eight.”"
+     "en": "The manager says, “My work starts at eight.”",
+     "es": "La gerente dice: «Empiezo a trabajar a las ocho»"
     },
     {
      "tr": "Elif bugün izinli ve mutlu.",
-     "en": "Elif has the day off today and is happy."
+     "en": "Elif has the day off today and is happy.",
+     "es": "Hoy Elif tiene el día libre y está contenta."
     }
    ],
    "glossary": [
@@ -4471,7 +5205,12 @@
      "extra": null,
      "mean": {
       "tr": "iş görüşmesi",
-      "en": "job interview"
+      "en": "job interview",
+      "es": "entrevista de trabajo",
+      "fr": "entretien d'embauche",
+      "it": "colloquio di lavoro",
+      "ku": "hevpeyvîna kar",
+      "ar": "مقابلة عمل"
      }
     },
     {
@@ -4482,7 +5221,12 @@
      "extra": null,
      "mean": {
       "tr": "şirket",
-      "en": "company"
+      "en": "company",
+      "es": "empresa",
+      "fr": "entreprise",
+      "it": "azienda",
+      "ku": "şîrket",
+      "ar": "شركة"
      }
     },
     {
@@ -4493,7 +5237,12 @@
      "extra": null,
      "mean": {
       "tr": "kadın yönetici",
-      "en": "female manager"
+      "en": "female manager",
+      "es": "gerente",
+      "fr": "responsable",
+      "it": "responsabile",
+      "ku": "rêveber (jin)",
+      "ar": "مديرة"
      }
     }
    ],
@@ -4552,43 +5301,53 @@
    "trans": [
     {
      "tr": "Tom: Hafta sonu futbol oynarım.",
-     "en": "Tom: I play football at the weekend."
+     "en": "Tom: I play football at the weekend.",
+     "es": "Tom: Juego al fútbol los fines de semana."
     },
     {
      "tr": "Elif: Bugün hava güzel.",
-     "en": "Elif: The weather is nice today."
+     "en": "Elif: The weather is nice today.",
+     "es": "Elif: Hoy hace buen tiempo."
     },
     {
      "tr": "Lina: Sinemaya gidelim mi?",
-     "en": "Lina: Shall we go to the cinema?"
+     "en": "Lina: Shall we go to the cinema?",
+     "es": "Lina: ¿Vamos al cine?"
     },
     {
      "tr": "Elif: Hayır, göle gitmeyi tercih ederim.",
-     "en": "Elif: No, I'd rather go to the lake."
+     "en": "Elif: No, I'd rather go to the lake.",
+     "es": "Elif: No, prefiero ir al lago."
     },
     {
      "tr": "Tom: Olur. Kameramı yanıma alırım.",
-     "en": "Tom: Sure. I'll bring my camera."
+     "en": "Tom: Sure. I'll bring my camera.",
+     "es": "Tom: Claro. Llevaré mi cámara."
     },
     {
      "tr": "Lina: Kitap okumayı severim ama bugün yüzeceğim.",
-     "en": "Lina: I like reading books, but today I'll swim."
+     "en": "Lina: I like reading books, but today I'll swim.",
+     "es": "Lina: Me gusta leer libros, pero hoy nadaré."
     },
     {
      "tr": "Elif: Cumartesi günü otobüsle gitmeyi severim.",
-     "en": "Elif: I like taking the bus on Saturday."
+     "en": "Elif: I like taking the bus on Saturday.",
+     "es": "Elif: Me gusta ir en autobús los sábados."
     },
     {
      "tr": "Tom: Gölde fotoğraf çekiyorum.",
-     "en": "Tom: I'll take photos at the lake."
+     "en": "Tom: I'll take photos at the lake.",
+     "es": "Tom: Haré fotos en el lago."
     },
     {
      "tr": "Lina: Ekmek ve peynir yeriz.",
-     "en": "Lina: We'll eat bread and cheese."
+     "en": "Lina: We'll eat bread and cheese.",
+     "es": "Lina: Comeremos pan y queso."
     },
     {
      "tr": "Elif: Gezi harika!",
-     "en": "Elif: The trip is great!"
+     "en": "Elif: The trip is great!",
+     "es": "Elif: ¡La excursión es estupenda!"
     }
    ],
    "glossary": [],
@@ -4646,39 +5405,48 @@
    "trans": [
     {
      "tr": "Tom pazartesi, “Hafta sonu futbol oynarım,” diyor.",
-     "en": "On Monday, Tom says, “I play football at the weekend.”"
+     "en": "On Monday, Tom says, “I play football at the weekend.”",
+     "es": "El lunes, Tom dice: «Juego al fútbol los fines de semana»"
     },
     {
      "tr": "Elif, “Bugün hava güzel,” diyor.",
-     "en": "Elif says, “The weather is nice today.”"
+     "en": "Elif says, “The weather is nice today.”",
+     "es": "Elif dice: «Hoy hace buen tiempo»"
     },
     {
      "tr": "Cumartesi Elif, Lina'yla göle gitti.",
-     "en": "On Saturday, Elif went to the lake with Lina."
+     "en": "On Saturday, Elif went to the lake with Lina.",
+     "es": "El sábado, Elif fue al lago con Lina."
     },
     {
      "tr": "Arkadaşlar çok yüzdü ve fotoğraf çekti.",
-     "en": "The friends swam a lot and took photos."
+     "en": "The friends swam a lot and took photos.",
+     "es": "Las amigas nadaron mucho e hicieron fotos."
     },
     {
      "tr": "Tom futbol oynadı, Lina da bir kitap okudu.",
-     "en": "Tom played football, and Lina read a book."
+     "en": "Tom played football, and Lina read a book.",
+     "es": "Tom jugó al fútbol y Lina leyó un libro."
     },
     {
      "tr": "Öğle yemeğinde herkes ekmek ve peynir yedi.",
-     "en": "Everyone ate bread and cheese for lunch."
+     "en": "Everyone ate bread and cheese for lunch.",
+     "es": "Todos comieron pan y queso para almorzar."
     },
     {
      "tr": "Akşam otobüsle geri döndüler.",
-     "en": "In the evening, they went back by bus."
+     "en": "In the evening, they went back by bus.",
+     "es": "Por la tarde, volvieron en autobús."
     },
     {
      "tr": "Elif yorgundu ama çok mutluydu.",
-     "en": "Elif was tired but very happy."
+     "en": "Elif was tired but very happy.",
+     "es": "Elif estaba cansada, pero muy contenta."
     },
     {
      "tr": "“Gezi harikaydı!” diyor.",
-     "en": "She says, “The trip was great!”"
+     "en": "She says, “The trip was great!”",
+     "es": "Dice: «¡La excursión fue estupenda!»"
     }
    ],
    "glossary": [],
@@ -4737,43 +5505,53 @@
    "trans": [
     {
      "tr": "Elif: Berlin'e bir bilet lütfen.",
-     "en": "Elif: A ticket to Berlin, please."
+     "en": "Elif: A ticket to Berlin, please.",
+     "es": "Elif: Un billete a Berlín, por favor."
     },
     {
      "tr": "Lina: Sonraki tren ne zaman kalkıyor?",
-     "en": "Lina: When does the next train leave?"
+     "en": "Lina: When does the next train leave?",
+     "es": "Lina: ¿Cuándo sale el próximo tren?"
     },
     {
      "tr": "Elif: Saat onda.",
-     "en": "Elif: At ten o'clock."
+     "en": "Elif: At ten o'clock.",
+     "es": "Elif: A las diez."
     },
     {
      "tr": "Lina: Tren hangi perondan kalkıyor?",
-     "en": "Lina: Which platform does the train leave from?"
+     "en": "Lina: Which platform does the train leave from?",
+     "es": "Lina: ¿Desde qué andén sale el tren?"
     },
     {
      "tr": "Elif: Üçüncü perondan.",
-     "en": "Elif: From platform three."
+     "en": "Elif: From platform three.",
+     "es": "Elif: Desde el andén tres."
     },
     {
      "tr": "Lina: Bonn'da aktarma yapman gerekiyor mu?",
-     "en": "Lina: Do you have to change trains in Bonn?"
+     "en": "Lina: Do you have to change trains in Bonn?",
+     "es": "Lina: ¿Tiene que cambiar de tren en Bonn?"
     },
     {
      "tr": "Elif: Evet, Bonn'da aktarma yapıyorum.",
-     "en": "Elif: Yes, I'm changing trains in Bonn."
+     "en": "Elif: Yes, I'm changing trains in Bonn.",
+     "es": "Elif: Sí, cambio de tren en Bonn."
     },
     {
      "tr": "Lina: Bir oda ayırttım.",
-     "en": "Lina: I've booked a room."
+     "en": "Lina: I've booked a room.",
+     "es": "Lina: He reservado una habitación."
     },
     {
      "tr": "Elif: Otel merkezde.",
-     "en": "Elif: The hotel is in the center."
+     "en": "Elif: The hotel is in the center.",
+     "es": "Elif: El hotel está en el centro."
     },
     {
      "tr": "Lina: Valizin ağır. Sana yardım ediyorum.",
-     "en": "Lina: Your suitcase is heavy. I'll help you."
+     "en": "Lina: Your suitcase is heavy. I'll help you.",
+     "es": "Lina: Tu maleta pesa mucho. Te ayudaré."
     }
    ],
    "glossary": [],
@@ -4830,35 +5608,43 @@
    "trans": [
     {
      "tr": "Elif gişede, “Berlin'e bir bilet lütfen,” diyor.",
-     "en": "At the counter, Elif says, “A ticket to Berlin, please.”"
+     "en": "At the counter, Elif says, “A ticket to Berlin, please.”",
+     "es": "En la taquilla, Elif dice: «Un billete a Berlín, por favor»"
     },
     {
      "tr": "Tren saat onda üçüncü perondan kalkıyor.",
-     "en": "The train leaves from platform three at ten."
+     "en": "The train leaves from platform three at ten.",
+     "es": "El tren sale del andén tres a las diez."
     },
     {
      "tr": "Bonn'da aktarma yapıyor ve on dakika bekliyor.",
-     "en": "She changes trains in Bonn and waits for ten minutes."
+     "en": "She changes trains in Bonn and waits for ten minutes.",
+     "es": "Cambia de tren en Bonn y espera diez minutos."
     },
     {
      "tr": "Öğleden sonra Berlin'e varıyor.",
-     "en": "She arrives in Berlin in the afternoon."
+     "en": "She arrives in Berlin in the afternoon.",
+     "es": "Llega a Berlín por la tarde."
     },
     {
      "tr": "“Bir oda ayırttım,” diyor.",
-     "en": "She says, “I've booked a room.”"
+     "en": "She says, “I've booked a room.”",
+     "es": "Dice: «He reservado una habitación»"
     },
     {
      "tr": "Otel merkezde, müzenin yanında.",
-     "en": "The hotel is in the center, next to the museum."
+     "en": "The hotel is in the center, next to the museum.",
+     "es": "El hotel está en el centro, junto al museo."
     },
     {
      "tr": "Elif valizini odaya koyuyor ve parka gidiyor.",
-     "en": "Elif puts her suitcase in the room and goes to the park."
+     "en": "Elif puts her suitcase in the room and goes to the park.",
+     "es": "Elif deja su maleta en la habitación y va al parque."
     },
     {
      "tr": "Lina'yı arıyor ve mutlu.",
-     "en": "She calls Lina and is happy."
+     "en": "She calls Lina and is happy.",
+     "es": "Llama a Lina y está contenta."
     }
    ],
    "glossary": [],
@@ -4917,43 +5703,53 @@
    "trans": [
     {
      "tr": "Elif: Günaydın. Adres kaydı yaptırmak istiyorum.",
-     "en": "Elif: Good morning. I'd like to register my address."
+     "en": "Elif: Good morning. I'd like to register my address.",
+     "es": "Elif: Buenos días. Quisiera registrar mi dirección."
     },
     {
      "tr": "Frau Becker: Günaydın. Randevunuz var mı?",
-     "en": "Frau Becker: Good morning. Do you have an appointment?"
+     "en": "Frau Becker: Good morning. Do you have an appointment?",
+     "es": "Señora Becker: Buenos días. ¿Tiene una cita?"
     },
     {
      "tr": "Elif: Evet, saat onda.",
-     "en": "Elif: Yes, at ten o'clock."
+     "en": "Elif: Yes, at ten o'clock.",
+     "es": "Elif: Sí, a las diez."
     },
     {
      "tr": "Frau Becker: Lütfen kimliğinizi gösterin.",
-     "en": "Frau Becker: Please show me your ID."
+     "en": "Frau Becker: Please show me your ID.",
+     "es": "Señora Becker: Enséñeme su documento de identidad, por favor."
     },
     {
      "tr": "Elif: Kimliğim ve pasaportum burada.",
-     "en": "Elif: Here are my ID and passport."
+     "en": "Elif: Here are my ID and passport.",
+     "es": "Elif: Aquí tiene mi documento de identidad y mi pasaporte."
     },
     {
      "tr": "Frau Becker: Lütfen formu doldurun.",
-     "en": "Frau Becker: Please fill out the form."
+     "en": "Frau Becker: Please fill out the form.",
+     "es": "Señora Becker: Rellene el formulario, por favor."
     },
     {
      "tr": "Elif: Hangi belgelere ihtiyacım var?",
-     "en": "Elif: Which documents do I need?"
+     "en": "Elif: Which documents do I need?",
+     "es": "Elif: ¿Qué documentos necesito?"
     },
     {
      "tr": "Frau Becker: Kimliğiniz ve form.",
-     "en": "Frau Becker: Your ID and the form."
+     "en": "Frau Becker: Your ID and the form.",
+     "es": "Señora Becker: Su documento de identidad y el formulario."
     },
     {
      "tr": "Elif: Nereyi imzalamam gerekiyor?",
-     "en": "Elif: Where do I have to sign?"
+     "en": "Elif: Where do I have to sign?",
+     "es": "Elif: ¿Dónde tengo que firmar?"
     },
     {
      "tr": "Frau Becker: Lütfen burada, aşağıya.",
-     "en": "Frau Becker: Here at the bottom, please."
+     "en": "Frau Becker: Here at the bottom, please.",
+     "es": "Señora Becker: Aquí abajo, por favor."
     }
    ],
    "glossary": [],
@@ -5011,39 +5807,48 @@
    "trans": [
     {
      "tr": "Elif'in bugün Köln'de resmî dairede randevusu var.",
-     "en": "Elif has an appointment at the office in Cologne today."
+     "en": "Elif has an appointment at the office in Cologne today.",
+     "es": "Hoy Elif tiene una cita en la oficina de Colonia."
     },
     {
      "tr": "“Adres kaydı yaptırmak istiyorum,” diyor.",
-     "en": "She says, “I'd like to register my address.”"
+     "en": "She says, “I'd like to register my address.”",
+     "es": "Dice: «Quisiera registrar mi dirección»"
     },
     {
      "tr": "Frau Becker kimliğini ve formu alıyor.",
-     "en": "Ms Becker takes her ID and the form."
+     "en": "Ms Becker takes her ID and the form.",
+     "es": "La señora Becker lleva su documento de identidad y el formulario."
     },
     {
      "tr": "Elif adresini ve kapı numarasını forma yazıyor.",
-     "en": "Elif writes her address and house number on the form."
+     "en": "Elif writes her address and house number on the form.",
+     "es": "Elif escribe su dirección y el número de la casa en el formulario."
     },
     {
      "tr": "“Hangi belgelere ihtiyacım var?” diye soruyor.",
-     "en": "She asks, “Which documents do I need?”"
+     "en": "She asks, “Which documents do I need?”",
+     "es": "Pregunta: «¿Qué documentos necesito?»"
     },
     {
      "tr": "Öğlen Elif şehirdeki bankaya gidiyor.",
-     "en": "At noon, Elif goes to the bank in town."
+     "en": "At noon, Elif goes to the bank in town.",
+     "es": "Al mediodía, Elif va al banco del centro."
     },
     {
      "tr": "Bir hesap açmak istiyor.",
-     "en": "She would like to open an account."
+     "en": "She would like to open an account.",
+     "es": "Quiere abrir una cuenta."
     },
     {
      "tr": "Elif kimliğini gösterip formu imzalıyor.",
-     "en": "Elif shows her ID and signs the form."
+     "en": "Elif shows her ID and signs the form.",
+     "es": "Elif muestra su documento de identidad y firma el formulario."
     },
     {
      "tr": "Artık bir hesabı var ve çok mutlu.",
-     "en": "Now she has an account and is very happy."
+     "en": "Now she has an account and is very happy.",
+     "es": "Ahora tiene una cuenta y está muy contenta."
     }
    ],
    "glossary": [
@@ -5055,7 +5860,8 @@
      "extra": null,
      "mean": {
       "tr": "açmak (hesap açmak)",
-      "en": "to open (an account)"
+      "en": "to open (an account)",
+      "es": "abrir (una cuenta)"
      }
     }
    ],
