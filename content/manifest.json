@@ -5,16 +5,16 @@
    "size": 1920702
   },
   "a2.json": {
-   "sha256": "fe057a261a7fe8a9fd859f0b376381a261f3655bd1e053ada405654bd855869a",
-   "size": 952114
+   "sha256": "f88955cd7e1a8cbf914c63a5bb312b2a250ecc744cb36a0f52599152826a57b9",
+   "size": 1404951
   },
   "b1.json": {
-   "sha256": "2ee84a7c4f304d49af347a476e762d75a8d8e67d4b167acfadb28439bb24bb8d",
-   "size": 978132
+   "sha256": "d81729fa93fbe21140a7dc5e3427cb0d51fdaf0f7d6c820e2864c96da27fdf62",
+   "size": 979065
   },
   "b2.json": {
-   "sha256": "7249084563fd83065537370d4919a0d60b2ceafd8f2d6a9c648952447fb3e641",
-   "size": 914352
+   "sha256": "0bdf9c498d6ddc5818b0ccb6b24b09c2debd5a9366078b2d157910b4718f62f2",
+   "size": 914983
   },
   "covers/a1-001.jpg": {
    "sha256": "ffb61825043c584137a13b60dcd40bb90f990877601702f9f6c6a4dc6cc8f2db",
@@ -3437,16 +3437,16 @@
    "size": 357155
   },
   "daily_a2.json": {
-   "sha256": "1046937df7ed568112b13686ef70007cacab66de75f6350ecc431d0fac885cbf",
-   "size": 347151
+   "sha256": "c24b9abb59269d3b64b433afb977ec19c9b64c7235d09d43e14090c5ecef3cb1",
+   "size": 506924
   },
   "daily_b1.json": {
-   "sha256": "15bb3c63dfbb73fdeaebe760d05ada81056c8ede60d7cefeb04520ab635b207d",
-   "size": 416437
+   "sha256": "d4bb3b43e30022bf1fe05d0357ffe85c075dab8a622ba4187f33efa0febd892a",
+   "size": 417177
   },
   "daily_b2.json": {
-   "sha256": "f51effbad3f541a91028eb78a29d02efbe0575652a0b669e497488372ed6b4ed",
-   "size": 476803
+   "sha256": "a96f8670ff701486886d0c090c1153ebe56868ab917a1808fea990aa041b98a9",
+   "size": 477591
   },
   "lexicon.json": {
    "sha256": "4d37072c28d1a59f34042462cf912983bd56694b36585be0300aee63f3af5350",
@@ -3461,8 +3461,8 @@
    "size": 196266
   },
   "phone_a2.json": {
-   "sha256": "d1f578f67647d5d8e289661789b9755efcc227c3f158130af0e8bbdef037dfba",
-   "size": 125430
+   "sha256": "56065e40e292ee2ec33eb6732aea7b65a3faf4f1457287113db31fd85bbee772",
+   "size": 256900
   },
   "phone_b1.json": {
    "sha256": "17208784cda9a815a1a80c79046771ed89ea25dcb429776474287de390731109",
@@ -3477,8 +3477,8 @@
    "size": 76977
   },
   "speaking.json": {
-   "sha256": "56a7aa020ea66c3be2b4b820030c2483b164b0faf2bdc72a2f01a2fd8e48a470",
-   "size": 140537
+   "sha256": "29a4255c4a08aaeef20e6741c82100edc83ade16044dcd25a8dd7ef3f12a443b",
+   "size": 200415
   },
   "starter_a1.json": {
    "sha256": "2da47d3d6ff13a3c3bcc3eb40357e3bec367df6668fe8ce7def87f8c7f12a062",
@@ -3489,8 +3489,16 @@
    "size": 246642
   },
   "stories_a2.json": {
-   "sha256": "8e879acdda21ebe4dbe31824a0268bfee877abec10190d4ab997f581c5023481",
-   "size": 136444
+   "sha256": "6091f570ab0d675bbff0332320ac6d8b67d62e06d3dedd029f5e866ac00589eb",
+   "size": 299332
+  },
+  "stories_b1.json": {
+   "sha256": "7563a01ad339adfebbf9f12f5fe421c4064e801134861e6a40b9430541c762b4",
+   "size": 213365
+  },
+  "stories_b2.json": {
+   "sha256": "0e486df14756ad181700fbfab4266384ab71aab8beb1ba47b3eef4df2b95cf62",
+   "size": 208787
   },
   "units.json": {
    "sha256": "2cb098bdcd464f2bd6436e15ab52b30570e5ce7713102c6236c25a31391b672f",
@@ -3501,20 +3509,20 @@
    "size": 2389203
   },
   "verbs_a2.json": {
-   "sha256": "de1814980f225ea1c22dd9a56de7a0767bc8dc7a155821b1091294851596056c",
-   "size": 712900
+   "sha256": "0b127680b68b067b866ccdb19ee63541ce88b12e45fb0747d33245fb2d55f9e8",
+   "size": 1301808
   },
   "verbs_b1.json": {
-   "sha256": "b31fd5b9c54465428c792929f36e02031273e6e219e271fe9b73308a3bb9df87",
-   "size": 753693
+   "sha256": "f5af349968f81cc00169f2c5d97ec1e7da62cb7d4c26f82815073159d5f00bee",
+   "size": 754657
   },
   "verbs_b2.json": {
-   "sha256": "9f9b3616accaec3bde0c2783f408241a731bc839934af651678aa2a623e8445d",
-   "size": 662402
+   "sha256": "d1bbff2385f5a2700810f3792c450ad0320f9500efbb9d1deed52e7aacf3e61f",
+   "size": 662804
   },
   "writing.json": {
-   "sha256": "d38bc1421125ff2a959f71d44a3e8f885c827e2a199c029f61a143b963ce4c6e",
-   "size": 89000
+   "sha256": "c1436c42b0b9caf59c8e9cfecec397a75d6c7677ff03ed8e63a5e435fd2ce25c",
+   "size": 120242
   }
  },
  "schema": 2

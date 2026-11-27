@@ -4865,6 +4865,1299 @@
     }
    ],
    "sample": "Guten Tag, mein Name ist Deniz Kaya, ich wohne in der Lindenstraße zwölf im dritten Stock. Ich rufe an, weil unsere Heizung seit einer Woche nicht funktioniert. Die Wohnung ist inzwischen sehr kalt, und wir haben ein kleines Kind. Ich habe schon zweimal eine E-Mail geschrieben, aber leider keine Antwort bekommen. Könnten Sie bitte so schnell wie möglich einen Techniker schicken, spätestens bis Freitag? Sonst müsste ich mich an den Mieterverein wenden. Vielen Dank für Ihre Hilfe."
+  },
+  {
+   "id": "b2-7",
+   "level": "B2",
+   "seconds": 120,
+   "title": {
+    "tr": "Sunum: Yapay zekâ okulda",
+    "en": "Presentation: Artificial Intelligence at School",
+    "es": "Presentaci?n: inteligencia artificial en la escuela",
+    "fr": "Présentation : L'intelligence artificielle à l'école",
+    "it": "Presentazione: L'intelligenza artificiale a scuola",
+    "ku": "Pêşkêşkirin: Zekaya çêkirî li dibistanê",
+    "ar": "عرض تقديمي: الذكاء الاصطناعي في المدرسة"
+   },
+   "prompt": "Halten Sie einen kurzen Vortrag zum Thema „Künstliche Intelligenz in der Schule“. Gehen Sie auf Vor- und Nachteile, ein Beispiel, die Situation in Ihrem Heimatland und Ihre eigene Meinung ein. Schließen Sie mit einem Fazit.",
+   "help": {
+    "tr": "Konuyu tanıt; öğrenmeye katkılarını ve riskleri açıkla, bir örnek ve ülkenin durumunu ver, görüşünle bitir.",
+    "en": "Introduce the topic, explain benefits and risks, give an example and describe your country, then conclude with your view.",
+    "es": "Introduce el tema, explica las ventajas y los riesgos, da un ejemplo y describe la situaci?n en tu pa?s; termina con tu opini?n.",
+    "fr": "Présente le sujet, explique les avantages et les risques, donne un exemple et décris la situation dans ton pays, puis conclus en donnant ton avis.",
+    "it": "Introduci l'argomento, spiega vantaggi e rischi, fai un esempio e descrivi la situazione nel tuo Paese, poi concludi con la tua opinione.",
+    "ku": "Mijarê pêşkêş bike, feyde û rîskan rave bike, mînakek bide û rewşa welatê xwe binirxîne, paşê bi nêrîna xwe encamê bigire.",
+    "ar": "قدّم الموضوع، واشرح الفوائد والمخاطر، واذكر مثالًا، ثم صف الوضع في بلدك واختتم برأيك."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Konu",
+      "en": "Topic",
+      "es": "Tema",
+      "fr": "Sujet",
+      "it": "Argomento",
+      "ku": "Mijar",
+      "ar": "الموضوع"
+     },
+     "say": "Mein Thema ist …",
+     "keys": [
+      "künstliche intelligenz"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Avantaj ve dezavantajlar",
+      "en": "Advantages and disadvantages",
+      "es": "Ventajas y desventajas",
+      "fr": "Avantages et inconvénients",
+      "it": "Vantaggi e svantaggi",
+      "ku": "Avantaj û dezavantaj",
+      "ar": "المزايا والعيوب"
+     },
+     "say": "Ein Vorteil besteht darin, dass …",
+     "keys": [
+      "ein großer vorteil"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Örnek",
+      "en": "Example",
+      "ku": "Mînak",
+      "it": "Esempio",
+      "fr": "Exemple",
+      "ar": "مثال",
+      "es": "Ejemplo"
+     },
+     "say": "Ein Beispiel aus dem Unterricht …",
+     "keys": [
+      "ein beispiel"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Ülke ve görüş",
+      "en": "Country and opinion",
+      "es": "Tu pa?s y tu opini?n",
+      "fr": "Pays et opinion",
+      "it": "Paese e opinione",
+      "ku": "Welat û nêrîn",
+      "ar": "البلد والرأي"
+     },
+     "say": "In meinem Heimatland …",
+     "keys": [
+      "in meinem heimatland"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Sonuç",
+      "en": "Conclusion",
+      "ku": "Encam",
+      "it": "Conclusione",
+      "fr": "Conclusion",
+      "ar": "خاتمة",
+      "es": "Conclusión"
+     },
+     "say": "Zusammenfassend …",
+     "keys": [
+      "zusammenfassend"
+     ]
+    }
+   ],
+   "sample": "Mein Thema ist künstliche Intelligenz in der Schule. Digitale Programme können Lernende unterstützen, wenn sie passende Übungen vorschlagen oder schwierige Inhalte anders erklären. Ein großer Vorteil ist, dass Schülerinnen und Schüler selbstständig in ihrem Tempo üben können. Lehrkräfte erhalten außerdem schneller einen Überblick darüber, wo jemand Hilfe braucht. Ein Beispiel wäre ein Sprachprogramm, das Aussprache erkennt und sofort Rückmeldung gibt.\n\nTrotzdem gibt es Risiken. Antworten können falsch sein, und persönliche Daten müssen geschützt werden. Wenn Jugendliche jede Aufgabe von einer Maschine erledigen lassen, lernen sie möglicherweise weniger, kritisch zu denken. Deshalb braucht es klare Regeln und eine Begleitung durch Lehrkräfte.\n\nIn meinem Heimatland nutzen einige Schulen bereits digitale Lernplattformen, aber der Zugang ist nicht überall gleich gut. Meiner Ansicht nach sollte KI den Unterricht ergänzen, nicht die Lehrkraft ersetzen. Zusammenfassend kann sie hilfreich sein, sofern Datenschutz, Chancengleichheit und selbstständiges Lernen berücksichtigt werden."
+  },
+  {
+   "id": "b2-8",
+   "level": "B2",
+   "seconds": 120,
+   "title": {
+    "tr": "Sunum: Şehirde kiraların artması",
+    "en": "Presentation: Rising Rents in Cities",
+    "es": "Presentaci?n: el aumento de los alquileres en las ciudades",
+    "fr": "Présentation : La hausse des loyers en ville",
+    "it": "Presentazione: L'aumento degli affitti nelle città",
+    "ku": "Pêşkêşkirin: Bilindbûna kirêyan li bajaran",
+    "ar": "عرض تقديمي: ارتفاع الإيجارات في المدن"
+   },
+   "prompt": "Halten Sie einen kurzen Vortrag zum Thema „Steigende Mieten in der Stadt“. Beschreiben Sie Ursachen und Folgen, nennen Sie Vor- und Nachteile möglicher Maßnahmen, geben Sie ein Beispiel und erläutern Sie die Situation in Ihrem Heimatland. Formulieren Sie Ihre Meinung und ein Fazit.",
+   "help": {
+    "tr": "Kira artışının nedenlerini ve sonuçlarını, olası çözümleri, bir örneği ve ülkendeki durumu anlatıp sonuçlandır.",
+    "en": "Explain causes and effects of rising rents, possible measures, an example, and the situation in your country; then conclude.",
+    "es": "Explica las causas y consecuencias del aumento de los alquileres, las posibles medidas y un ejemplo; describe la situaci?n en tu pa?s y concluye.",
+    "fr": "Explique les causes et les conséquences de la hausse des loyers, les mesures possibles, donne un exemple et parle de la situation dans ton pays, puis conclus.",
+    "it": "Spiega le cause e gli effetti dell'aumento degli affitti, le possibili misure e un esempio; descrivi anche la situazione nel tuo Paese e poi concludi.",
+    "ku": "Sedem û bandorên bilindbûna kirêyan û tedbîrên gengaz rave bike, mînakek bide, rewşa welatê xwe jî binirxîne û paşê encamê bigire.",
+    "ar": "اشرح أسباب ارتفاع الإيجارات وآثاره والتدابير الممكنة، واذكر مثالًا، وتناول الوضع في بلدك، ثم اختتم."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Konuyu tanıt",
+      "en": "Introduce the topic",
+      "ku": "Mijarê nas bike",
+      "it": "Introduci l’argomento",
+      "fr": "Présenter le sujet",
+      "ar": "تقديم الموضوع",
+      "es": "Presenta el tema"
+     },
+     "say": "Ich möchte heute über … sprechen.",
+     "keys": [
+      "steigende mieten"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Neden ve sonuç",
+      "en": "Causes and effects",
+      "es": "Causas y consecuencias",
+      "fr": "Causes et conséquences",
+      "it": "Cause ed effetti",
+      "ku": "Sedem û bandor",
+      "ar": "الأسباب والآثار"
+     },
+     "say": "Ein Grund dafür ist …",
+     "keys": [
+      "ein grund"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Çözüm ve örnek",
+      "en": "Measures and example",
+      "es": "Medidas y ejemplo",
+      "fr": "Mesures et exemple",
+      "it": "Misure ed esempio",
+      "ku": "Tedbîr û mînak",
+      "ar": "التدابير والمثال"
+     },
+     "say": "Eine mögliche Maßnahme wäre …",
+     "keys": [
+      "eine mögliche maßnahme"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Ülke ve görüş",
+      "en": "Country and opinion",
+      "es": "Tu pa?s y tu opini?n",
+      "fr": "Pays et opinion",
+      "it": "Paese e opinione",
+      "ku": "Welat û nêrîn",
+      "ar": "البلد والرأي"
+     },
+     "say": "In meinem Heimatland …",
+     "keys": [
+      "in meinem heimatland"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Sonuç",
+      "en": "Conclusion",
+      "ku": "Encam",
+      "it": "Conclusione",
+      "fr": "Conclusion",
+      "ar": "خاتمة",
+      "es": "Conclusión"
+     },
+     "say": "Abschließend lässt sich sagen …",
+     "keys": [
+      "abschließend"
+     ]
+    }
+   ],
+   "sample": "Ich möchte heute über steigende Mieten in der Stadt sprechen. Viele Menschen ziehen in Großstädte, weil sie dort Arbeit, Ausbildung und kulturelle Angebote finden. Gleichzeitig entstehen zu wenige neue Wohnungen, weshalb die Nachfrage hoch bleibt. Ein Grund dafür ist auch, dass manche Wohnungen als Ferienunterkünfte genutzt werden. Für Familien und Studierende wird es dadurch immer schwieriger, eine bezahlbare Wohnung zu finden.\n\nEine mögliche Maßnahme wäre, mehr Sozialwohnungen zu bauen und vorhandene Gebäude besser zu nutzen. Das braucht jedoch Zeit und öffentliche Investitionen. Ein Beispiel aus Köln sind gemeinschaftliche Wohnprojekte, bei denen mehrere Generationen zusammenleben und Kosten teilen. Solche Modelle helfen, sind aber keine Lösung für alle.\n\nIn meinem Heimatland steigen die Mieten in den größeren Städten ebenfalls, während kleinere Orte oft günstiger sind. Ich finde, dass Städte langfristig planen und Mieter besser beraten sollten. Abschließend lässt sich sagen, dass ein vielfältiges Wohnungsangebot wichtig ist, damit Menschen mit unterschiedlichem Einkommen in der Stadt bleiben können."
+  },
+  {
+   "id": "b2-9",
+   "level": "B2",
+   "seconds": 120,
+   "title": {
+    "tr": "Sunum: Gönüllü çalışma zorunlu olmalı mı?",
+    "en": "Presentation: Should Volunteering Be Compulsory?",
+    "es": "Presentaci?n: ?Deber?a ser obligatorio el voluntariado?",
+    "fr": "Présentation : Le bénévolat doit-il être obligatoire ?",
+    "it": "Presentazione: Il volontariato dovrebbe essere obbligatorio?",
+    "ku": "Pêşkêşkirin: Divê xebata dilxwazî mecbûrî be?",
+    "ar": "عرض تقديمي: هل ينبغي أن يكون العمل التطوعي إلزاميًا؟"
+   },
+   "prompt": "Halten Sie einen kurzen Vortrag zum Thema „Sollte ehrenamtliches Engagement verpflichtend sein?“. Nennen Sie mögliche Vorteile und Nachteile, führen Sie ein Beispiel an, beschreiben Sie die Lage in Ihrem Heimatland und begründen Sie Ihre Meinung. Schließen Sie mit einem Fazit.",
+   "help": {
+    "tr": "Zorunluluğun olası yarar ve sakıncalarını karşılaştır; örnek ve ülke durumunu ekleyip kendi görüşünle bitir.",
+    "en": "Compare possible benefits and drawbacks of compulsory volunteering, add an example and country context, and conclude with your opinion.",
+    "es": "Compara las posibles ventajas y desventajas del voluntariado obligatorio, a?ade un ejemplo y el contexto de tu pa?s, y concluye con tu opini?n.",
+    "fr": "Compare les avantages et les inconvénients possibles du bénévolat obligatoire, ajoute un exemple et le contexte de ton pays, puis conclus en donnant ton avis.",
+    "it": "Confronta i possibili vantaggi e svantaggi del volontariato obbligatorio, aggiungi un esempio e il contesto del tuo Paese e concludi con la tua opinione.",
+    "ku": "Feyde û kêmasiyên gengaz ên xebata dilxwazî ya mecbûrî li hev bide, mînakek û rewşa welatê xwe zêde bike û bi nêrîna xwe encamê bigire.",
+    "ar": "قارن بين الفوائد والعيوب المحتملة للعمل التطوعي الإلزامي، وأضف مثالًا وسياق بلدك، ثم اختتم برأيك."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Konu",
+      "en": "Topic",
+      "es": "Tema",
+      "fr": "Sujet",
+      "it": "Argomento",
+      "ku": "Mijar",
+      "ar": "الموضوع"
+     },
+     "say": "Heute geht es um …",
+     "keys": [
+      "ehrenamtliches engagement"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Avantaj",
+      "en": "Benefit",
+      "ku": "Berjewendî",
+      "it": "Vantaggio",
+      "fr": "Avantage",
+      "ar": "فائدة",
+      "es": "Beneficio"
+     },
+     "say": "Dafür spricht, dass …",
+     "keys": [
+      "dafür spricht"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Dezavantaj",
+      "en": "Drawback",
+      "es": "Desventaja",
+      "fr": "Inconvénient",
+      "it": "Svantaggio",
+      "ku": "Kêmasî",
+      "ar": "عيب"
+     },
+     "say": "Dagegen spricht allerdings …",
+     "keys": [
+      "dagegen spricht"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Ülke ve görüş",
+      "en": "Country and opinion",
+      "es": "Tu pa?s y tu opini?n",
+      "fr": "Pays et opinion",
+      "it": "Paese e opinione",
+      "ku": "Welat û nêrîn",
+      "ar": "البلد والرأي"
+     },
+     "say": "Bei uns …",
+     "keys": [
+      "bei uns"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Sonuç",
+      "en": "Conclusion",
+      "ku": "Encam",
+      "it": "Conclusione",
+      "fr": "Conclusion",
+      "ar": "خاتمة",
+      "es": "Conclusión"
+     },
+     "say": "Mein Fazit lautet …",
+     "keys": [
+      "mein fazit"
+     ]
+    }
+   ],
+   "sample": "Heute geht es um die Frage, ob ehrenamtliches Engagement verpflichtend sein sollte. Dafür spricht, dass junge Menschen dadurch soziale Einrichtungen kennenlernen und Verantwortung übernehmen. Ein Einsatz in einem Pflegeheim oder Sportverein kann außerdem den Zusammenhalt stärken. Man entdeckt vielleicht Fähigkeiten, die im normalen Schulalltag kaum sichtbar werden.\n\nDagegen spricht, dass echte Freiwilligkeit verloren geht, wenn der Staat eine bestimmte Zahl an Stunden vorschreibt. Manche Jugendliche haben bereits familiäre Pflichten oder brauchen Zeit für Ausbildung und Arbeit. Ein verpflichtender Einsatz könnte dann als zusätzliche Belastung erlebt werden. Sinnvoller wäre es, verschiedene Projekte vorzustellen und die Teilnahme gut zu begleiten.\n\nBei uns engagieren sich viele Menschen in Vereinen, Nachbarschaftsgruppen oder Hilfsorganisationen. Ein Schüler könnte beispielsweise bei einer Hausaufgabenhilfe mitmachen und dabei selbst entscheiden, wie lange er sich beteiligen möchte. Ich bin gegen eine allgemeine Pflicht, aber für bessere Informationen und Anerkennung. Mein Fazit lautet: Freiwilliges Engagement wirkt am besten, wenn Menschen einen passenden Einsatz wählen können und ihre Arbeit wertgeschätzt wird."
+  },
+  {
+   "id": "b2-10",
+   "level": "B2",
+   "seconds": 120,
+   "title": {
+    "tr": "Sunum: Yurt dışında okumak",
+    "en": "Presentation: Studying Abroad",
+    "es": "Presentaci?n: estudiar en el extranjero",
+    "fr": "Présentation : Étudier à l'étranger",
+    "it": "Presentazione: Studiare all'estero",
+    "ku": "Pêşkêşkirin: Li derveyî welat xwendin",
+    "ar": "عرض تقديمي: الدراسة في الخارج"
+   },
+   "prompt": "Halten Sie einen kurzen Vortrag zum Thema „Im Ausland studieren“. Sprechen Sie über Vorteile und Herausforderungen, nennen Sie ein Beispiel, berichten Sie über die Situation in Ihrem Heimatland und äußern Sie Ihre Meinung. Ziehen Sie abschließend ein Fazit.",
+   "help": {
+    "tr": "Yurt dışında eğitimin katkılarını ve zorluklarını karşılaştır; örnek, ülke bilgisi ve sonuç ekle.",
+    "en": "Compare the benefits and challenges of studying abroad, then give an example, country context, and conclusion.",
+    "es": "Compara las ventajas y dificultades de estudiar en el extranjero; a?ade un ejemplo, el contexto de tu pa?s y una conclusi?n.",
+    "fr": "Compare les avantages et les difficultés des études à l'étranger, puis donne un exemple, parle de la situation dans ton pays et conclus.",
+    "it": "Confronta i vantaggi e le difficoltà dello studio all'estero, poi fai un esempio, descrivi la situazione nel tuo Paese e concludi.",
+    "ku": "Feyde û zehmetiyên xwendina li derveyî welat li hev bide, paşê mînakek bide, rewşa welatê xwe rave bike û encamê bigire.",
+    "ar": "قارن بين فوائد الدراسة في الخارج وتحدياتها، ثم اذكر مثالًا، وتناول الوضع في بلدك، واختتم."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Konu",
+      "en": "Topic",
+      "es": "Tema",
+      "fr": "Sujet",
+      "it": "Argomento",
+      "ku": "Mijar",
+      "ar": "الموضوع"
+     },
+     "say": "Mein Vortrag handelt von …",
+     "keys": [
+      "im ausland zu studieren"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Avantajlar",
+      "en": "Benefits",
+      "es": "Ventajas",
+      "fr": "Avantages",
+      "it": "Vantaggi",
+      "ku": "Feyde",
+      "ar": "الفوائد"
+     },
+     "say": "Ein wichtiger Vorteil ist …",
+     "keys": [
+      "ein wichtiger vorteil"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Zorluklar ve örnek",
+      "en": "Challenges and example",
+      "es": "Dificultades y ejemplo",
+      "fr": "Difficultés et exemple",
+      "it": "Difficoltà ed esempio",
+      "ku": "Zehemetî û mînak",
+      "ar": "التحديات والمثال"
+     },
+     "say": "Eine Herausforderung ist …",
+     "keys": [
+      "eine herausforderung"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Ülke ve görüş",
+      "en": "Country and opinion",
+      "es": "Tu pa?s y tu opini?n",
+      "fr": "Pays et opinion",
+      "it": "Paese e opinione",
+      "ku": "Welat û nêrîn",
+      "ar": "البلد والرأي"
+     },
+     "say": "In meinem Heimatland …",
+     "keys": [
+      "in meinem heimatland"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Sonuç",
+      "en": "Conclusion",
+      "ku": "Encam",
+      "it": "Conclusione",
+      "fr": "Conclusion",
+      "ar": "خاتمة",
+      "es": "Conclusión"
+     },
+     "say": "Insgesamt bin ich der Meinung …",
+     "keys": [
+      "insgesamt bin ich der meinung"
+     ]
+    }
+   ],
+   "sample": "Mein Vortrag handelt von der Möglichkeit, im Ausland zu studieren. Ein wichtiger Vorteil ist, dass man eine Sprache täglich benutzt und eine andere Kultur unmittelbar erlebt. Außerdem lernen Studierende, selbstständiger zu werden und neue Kontakte zu knüpfen. Diese Erfahrungen können später auch bei der Arbeitssuche hilfreich sein.\n\nEine Herausforderung ist die Finanzierung. Miete, Versicherung und Fahrtkosten können sehr hoch sein. Auch Heimweh und komplizierte Behördengänge sollte man nicht unterschätzen. Ein Beispiel ist das Erasmus-Programm, das vielen jungen Menschen einen zeitlich begrenzten Austausch ermöglicht. Wer früh plant und sich beraten lässt, kann viele Schwierigkeiten vermeiden.\n\nIn meinem Heimatland interessieren sich zahlreiche Studierende für ein Auslandssemester, doch nicht alle können es bezahlen. Stipendien und verständliche Informationen wären deshalb wichtig. Insgesamt bin ich der Meinung, dass ein Auslandsaufenthalt eine wertvolle Chance ist, sofern er für Menschen aus verschiedenen finanziellen Verhältnissen erreichbar wird. Zusammenfassend erweitert er nicht nur die Sprachkenntnisse, sondern auch den eigenen Blick auf die Welt."
+  },
+  {
+   "id": "b2-11",
+   "level": "B2",
+   "seconds": 120,
+   "title": {
+    "tr": "Sunum: Hızlı moda",
+    "en": "Presentation: Fast Fashion",
+    "es": "Presentaci?n: moda r?pida",
+    "fr": "Présentation : La mode éphémère",
+    "it": "Presentazione: Fast fashion",
+    "ku": "Pêşkêşkirin: Moda bilez",
+    "ar": "عرض تقديمي: الموضة السريعة"
+   },
+   "prompt": "Halten Sie einen kurzen Vortrag zum Thema „Fast Fashion und ihre Folgen“. Gehen Sie auf Vor- und Nachteile ein, nennen Sie ein Beispiel, beschreiben Sie die Situation in Ihrem Heimatland und äußern Sie Ihre Meinung. Beenden Sie Ihren Vortrag mit einem Fazit.",
+   "help": {
+    "tr": "Hızlı modanın ucuzluk ve erişilebilirlik yönünü çevresel ve sosyal etkilerle karşılaştır; örnek ve sonuç ver.",
+    "en": "Balance the affordability and accessibility of fast fashion against its environmental and social impact, with an example and conclusion.",
+    "es": "Contrasta los precios asequibles y la facilidad de acceso a la moda r?pida con su impacto ambiental y social; incluye un ejemplo y una conclusi?n.",
+    "fr": "Mets en balance le prix abordable et l'accessibilité de la mode éphémère avec ses effets sur l'environnement et la société. Donne un exemple et conclus.",
+    "it": "Metti a confronto i prezzi accessibili e la diffusione della fast fashion con il suo impatto ambientale e sociale, facendo un esempio e concludendo.",
+    "ku": "Bihayên erzan û gihîştina hêsan a moda bilez li hember bandorên wê yên li ser jîngeh û civakê binirxîne, mînakek bide û encamê bigire.",
+    "ar": "وازن بين أسعار الموضة السريعة المناسبة وسهولة الحصول عليها وبين آثارها البيئية والاجتماعية، مع ذكر مثال واختتام العرض."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Konuyu tanıt",
+      "en": "Introduce the topic",
+      "ku": "Mijarê nas bike",
+      "it": "Introduci l’argomento",
+      "fr": "Présenter le sujet",
+      "ar": "تقديم الموضوع",
+      "es": "Presenta el tema"
+     },
+     "say": "Ich spreche heute über …",
+     "keys": [
+      "fast fashion"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Avantaj",
+      "en": "Benefit",
+      "ku": "Berjewendî",
+      "it": "Vantaggio",
+      "fr": "Avantage",
+      "ar": "فائدة",
+      "es": "Beneficio"
+     },
+     "say": "Ein Vorteil liegt darin, dass …",
+     "keys": [
+      "ein vorteil"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Dezavantaj",
+      "en": "Drawback",
+      "es": "Desventaja",
+      "fr": "Inconvénient",
+      "it": "Svantaggio",
+      "ku": "Kêmasî",
+      "ar": "عيب"
+     },
+     "say": "Problematisch ist jedoch …",
+     "keys": [
+      "problematisch"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Ülke ve örnek",
+      "en": "Country and example",
+      "es": "Tu pa?s y un ejemplo",
+      "fr": "Pays et exemple",
+      "it": "Paese ed esempio",
+      "ku": "Welat û mînak",
+      "ar": "البلد والمثال"
+     },
+     "say": "In meinem Heimatland …",
+     "keys": [
+      "in meinem heimatland"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Sonuç",
+      "en": "Conclusion",
+      "ku": "Encam",
+      "it": "Conclusione",
+      "fr": "Conclusion",
+      "ar": "خاتمة",
+      "es": "Conclusión"
+     },
+     "say": "Abschließend meine ich …",
+     "keys": [
+      "abschließend"
+     ]
+    }
+   ],
+   "sample": "Ich spreche heute über Fast Fashion und ihre Folgen. Ein Vorteil liegt darin, dass modische Kleidung zu niedrigen Preisen angeboten wird. Dadurch können auch Menschen mit kleinem Budget verschiedene Stile ausprobieren. Problematisch ist jedoch, dass viele Kleidungsstücke nur kurze Zeit getragen und schnell ersetzt werden. Ihre Herstellung verbraucht Wasser und Energie, während Beschäftigte in manchen Fabriken unter schlechten Bedingungen arbeiten.\n\nEin Beispiel aus meinem Alltag ist ein T-Shirt, das nach wenigen Wäschen seine Form verlor. Seitdem achte ich stärker auf Material und Verarbeitung und kaufe seltener spontan. In meinem Heimatland gibt es große Einkaufszentren mit günstigen Modeketten, aber auch kleine Initiativen für gebrauchte Kleidung. Solche Angebote machen nachhaltigere Entscheidungen einfacher, wenn sie gut erreichbar und bezahlbar sind.\n\nAbschließend meine ich, dass Verbraucher nicht allein für die gesamte Lieferkette verantwortlich sein können. Unternehmen sollten transparenter produzieren, und Kleidung sollte länger haltbar sein. Gleichzeitig können wir reparieren, tauschen und weniger kaufen. So wird Mode nicht nur günstiger, sondern auch fairer und umweltschonender."
+  },
+  {
+   "id": "b2-12",
+   "level": "B2",
+   "seconds": 120,
+   "title": {
+    "tr": "Tartışma: Toplu taşıma ücretsiz olmalı mı?",
+    "en": "Discussion: Should Public Transport Be Free?",
+    "es": "Debate: ?Deber?a ser gratuito el transporte p?blico?",
+    "fr": "Débat : Les transports publics devraient-ils être gratuits ?",
+    "it": "Discussione: I trasporti pubblici dovrebbero essere gratuiti?",
+    "ku": "Nîqaş: Divê veguheztina giştî bêpere be?",
+    "ar": "نقاش: هل ينبغي أن تكون وسائل النقل العام مجانية؟"
+   },
+   "prompt": "Diskutieren Sie die Frage, ob öffentliche Verkehrsmittel kostenlos sein sollten. Äußern Sie Ihre Meinung, begründen Sie sie, reagieren Sie auf eine Gegenmeinung und schlagen Sie einen Kompromiss vor.",
+   "help": {
+    "tr": "Görüşünü gerekçelendir, olası karşı görüşü yanıtla ve uygulanabilir bir uzlaşma öner.",
+    "en": "Explain your position, respond to a possible counterargument, and suggest a practical compromise.",
+    "es": "Explica tu postura, responde a un posible argumento contrario y propone una soluci?n pr?ctica de compromiso.",
+    "fr": "Explique ta position, réponds à un contre-argument possible et propose un compromis pratique.",
+    "it": "Spiega la tua posizione, rispondi a una possibile obiezione e proponi un compromesso pratico.",
+    "ku": "Helwesta xwe rave bike, bersiva îtirazekê ya gengaz bide û lihevhatineke pratîk pêşniyar bike.",
+    "ar": "اشرح موقفك، وردّ على حجة مضادة محتملة، واقترح حلًا وسطًا عمليًا."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Görüş",
+      "en": "Opinion",
+      "ku": "Raya te",
+      "it": "Opinione",
+      "fr": "Avis",
+      "ar": "رأي",
+      "es": "Opinión"
+     },
+     "say": "Ich bin dafür/dagegen, weil …",
+     "keys": [
+      "ich bin dafür"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Gerekçe",
+      "en": "Reason",
+      "ku": "Sedem",
+      "it": "Motivo",
+      "fr": "Raison",
+      "ar": "سبب",
+      "es": "Motivo"
+     },
+     "say": "Ein wichtiger Grund ist …",
+     "keys": [
+      "ein wichtiger grund"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Karşı görüşe yanıt",
+      "en": "Response to counterargument",
+      "es": "Respuesta al argumento contrario",
+      "fr": "Réponse au contre-argument",
+      "it": "Risposta all'obiezione",
+      "ku": "Bersiv li hember îtirazê",
+      "ar": "الرد على الحجة المضادة"
+     },
+     "say": "Ich verstehe den Einwand, dass …",
+     "keys": [
+      "ich verstehe den einwand"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Uzlaşma",
+      "en": "Compromise",
+      "es": "Compromiso",
+      "fr": "Compromis",
+      "it": "Compromesso",
+      "ku": "Lihevhatin",
+      "ar": "حل وسط"
+     },
+     "say": "Ein Kompromiss könnte …",
+     "keys": [
+      "ein kompromiss"
+     ]
+    }
+   ],
+   "sample": "Ich bin dafür, öffentliche Verkehrsmittel günstiger zu machen, weil viele Menschen auf Bus und Bahn angewiesen sind. Ein wichtiger Grund ist, dass niedrigere Preise den Umstieg vom Auto erleichtern könnten. Das wäre gut für die Luft und würde besonders Familien mit kleinem Einkommen entlasten. Ich verstehe den Einwand, dass ein kostenloses Angebot viel Geld kostet und die Fahrzeuge dadurch voller werden könnten. Trotzdem sollte man bedenken, dass auch Straßen und Parkplätze öffentlich finanziert werden. Ein Kompromiss wäre, zunächst Schülerinnen, Studierenden und Menschen mit geringem Einkommen ein kostenloses Ticket anzubieten. Zusätzlich könnte die Stadt die Verbindungen verbessern, damit mehr Menschen freiwillig umsteigen. So würde man die Kosten schrittweise prüfen und gleichzeitig konkrete Gruppen unterstützen."
+  },
+  {
+   "id": "b2-13",
+   "level": "B2",
+   "seconds": 120,
+   "title": {
+    "tr": "Tartışma: Çocuklara harçlık",
+    "en": "Discussion: Pocket Money for Children",
+    "es": "Debate: dinero de bolsillo para los ni?os",
+    "fr": "Débat : L'argent de poche pour les enfants",
+    "it": "Discussione: La paghetta per i bambini",
+    "ku": "Nîqaş: Pereyê xercê ji bo zarokan",
+    "ar": "نقاش: المصروف للأطفال"
+   },
+   "prompt": "Diskutieren Sie, ob Kinder regelmäßig Taschengeld bekommen sollten. Äußern Sie Ihre Meinung, nennen Sie Gründe, reagieren Sie auf eine Gegenmeinung und schlagen Sie einen Kompromiss vor.",
+   "help": {
+    "tr": "Harçlığın çocuklara kazandırdıklarını ve risklerini değerlendir; karşı görüşe yanıt verip yaşa uygun bir çözüm öner.",
+    "en": "Assess what pocket money teaches children and the possible risks, respond to a counterargument, and suggest an age-appropriate solution.",
+    "es": "Valora qu? ense?a el dinero de bolsillo a los ni?os y qu? riesgos puede tener; responde a un argumento contrario y propone una soluci?n adecuada a su edad.",
+    "fr": "Évalue ce que l'argent de poche apprend aux enfants et les risques possibles, réponds à un contre-argument et propose une solution adaptée à leur âge.",
+    "it": "Valuta cosa insegna ai bambini la paghetta e quali rischi può comportare, rispondi a un'obiezione e proponi una soluzione adatta alla loro età.",
+    "ku": "Binirxîne pereyê xercê çi ji zarokan re hîn dike û çi rîsk hene; bersiva îtirazekê bide û çareseriyeke li gor temenê wan pêşniyar bike.",
+    "ar": "قيّم ما يتعلمه الأطفال من المصروف والمخاطر المحتملة، وردّ على حجة مضادة، واقترح حلًا مناسبًا لأعمارهم."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Görüş",
+      "en": "Opinion",
+      "ku": "Raya te",
+      "it": "Opinione",
+      "fr": "Avis",
+      "ar": "رأي",
+      "es": "Opinión"
+     },
+     "say": "Meiner Ansicht nach …",
+     "keys": [
+      "meiner ansicht nach"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Gerekçe",
+      "en": "Reason",
+      "ku": "Sedem",
+      "it": "Motivo",
+      "fr": "Raison",
+      "ar": "سبب",
+      "es": "Motivo"
+     },
+     "say": "Dadurch lernen Kinder …",
+     "keys": [
+      "geld einzuteilen"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Karşı görüş",
+      "en": "Counterargument",
+      "es": "Argumento contrario",
+      "fr": "Contre-argument",
+      "it": "Obiezione",
+      "ku": "Îtiraz",
+      "ar": "حجة مضادة"
+     },
+     "say": "Manche Eltern befürchten, dass …",
+     "keys": [
+      "manche eltern befürchten"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Uzlaşma",
+      "en": "Compromise",
+      "es": "Compromiso",
+      "fr": "Compromis",
+      "it": "Compromesso",
+      "ku": "Lihevhatin",
+      "ar": "حل وسط"
+     },
+     "say": "Ein sinnvoller Mittelweg wäre …",
+     "keys": [
+      "ein sinnvoller mittelweg"
+     ]
+    }
+   ],
+   "sample": "Meiner Ansicht nach sollten Kinder regelmäßig Taschengeld bekommen, sobald sie alt genug sind, kleine Entscheidungen selbst zu treffen. Dadurch lernen Kinder, Geld einzuteilen und zwischen Wünschen und notwendigen Ausgaben zu unterscheiden. Sie können auch erleben, dass man manchmal sparen muss, bevor man sich etwas Größeres kauft. Manche Eltern befürchten, dass Kinder das Geld sofort für Süßigkeiten oder Spiele ausgeben. Das kann passieren, gehört aber auch zum Lernprozess, solange der Betrag angemessen bleibt. Ein sinnvoller Mittelweg wäre, das Taschengeld nach Alter festzulegen und gemeinsam über Sparziele zu sprechen. Eltern sollten nicht jede Ausgabe kontrollieren, aber bei Fragen beratend helfen. So entwickeln Kinder Schritt für Schritt Verantwortung, ohne dass die Familie ihnen zu viel Geld geben muss."
+  },
+  {
+   "id": "b2-14",
+   "level": "B2",
+   "seconds": 120,
+   "title": {
+    "tr": "Tartışma: Emeklilik yaşı yükseltilmeli mi?",
+    "en": "Discussion: Should the Retirement Age Rise?",
+    "es": "Debate: ?Deber?a aumentarse la edad de jubilaci?n?",
+    "fr": "Débat : Faut-il relever l'âge de la retraite ?",
+    "it": "Discussione: Bisognerebbe aumentare l'età pensionabile?",
+    "ku": "Nîqaş: Ma divê temenê teqawidiyê bilind bibe?",
+    "ar": "نقاش: هل ينبغي رفع سن التقاعد؟"
+   },
+   "prompt": "Diskutieren Sie, ob das Rentenalter erhöht werden sollte. Begründen Sie Ihre Meinung, gehen Sie auf eine Gegenposition ein und schlagen Sie einen Kompromiss vor.",
+   "help": {
+    "tr": "Emeklilik yaşı, sağlık ve meslek farklılıkları üzerine görüşünü açıkla; karşı argümanı değerlendir ve esnek bir çözüm öner.",
+    "en": "Discuss retirement age, health, and differences between occupations; address a counterargument and suggest a flexible solution.",
+    "es": "Comenta la edad de jubilaci?n, la salud y las diferencias entre profesiones; responde a un argumento contrario y propone una soluci?n flexible.",
+    "fr": "Parle de l'âge de la retraite, de la santé et des différences entre les métiers. Réponds à un contre-argument et propose une solution flexible.",
+    "it": "Discuti l'età pensionabile, la salute e le differenze tra le professioni; rispondi a un'obiezione e proponi una soluzione flessibile.",
+    "ku": "Li ser temenê teqawidiyê, tenduristî û cûdahiyên di navbera pîşeyan de biaxive; bersiva îtirazekê bide û çareseriyeke nerm pêşniyar bike.",
+    "ar": "ناقش سن التقاعد والصحة والاختلافات بين المهن، وردّ على حجة مضادة، واقترح حلًا مرنًا."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Görüş",
+      "en": "Opinion",
+      "ku": "Raya te",
+      "it": "Opinione",
+      "fr": "Avis",
+      "ar": "رأي",
+      "es": "Opinión"
+     },
+     "say": "Ich halte eine pauschale Erhöhung für …",
+     "keys": [
+      "pauschale erhöhung"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Gerekçe",
+      "en": "Reason",
+      "ku": "Sedem",
+      "it": "Motivo",
+      "fr": "Raison",
+      "ar": "سبب",
+      "es": "Motivo"
+     },
+     "say": "Dabei muss man berücksichtigen, dass …",
+     "keys": [
+      "berücksichtigen"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Karşı görüş",
+      "en": "Counterargument",
+      "es": "Argumento contrario",
+      "fr": "Contre-argument",
+      "it": "Obiezione",
+      "ku": "Îtiraz",
+      "ar": "حجة مضادة"
+     },
+     "say": "Zwar …, aber …",
+     "keys": [
+      "zwar"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Uzlaşma",
+      "en": "Compromise",
+      "es": "Compromiso",
+      "fr": "Compromis",
+      "it": "Compromesso",
+      "ku": "Lihevhatin",
+      "ar": "حل وسط"
+     },
+     "say": "Eine flexiblere Lösung wäre …",
+     "keys": [
+      "eine flexiblere lösung"
+     ]
+    }
+   ],
+   "sample": "Ich halte eine pauschale Erhöhung des Rentenalters für problematisch. Menschen arbeiten in sehr unterschiedlichen Berufen, und nicht jede Tätigkeit lässt sich bis ins hohe Alter ausüben. Dabei muss man berücksichtigen, dass körperlich belastende Arbeit oft früher zu gesundheitlichen Problemen führt. Zwar werden Menschen im Durchschnitt älter und das Rentensystem braucht verlässliche Einnahmen, aber eine einheitliche Regel wäre nicht für alle fair. Eine flexiblere Lösung wäre, das Rentenalter teilweise an Beruf und Gesundheit anzupassen. Wer länger arbeiten möchte und kann, sollte dafür einen finanziellen Vorteil erhalten. Gleichzeitig brauchen Beschäftigte in anstrengenden Berufen einen realistischen früheren Ausstieg. Auch Weiterbildung und altersgerechte Arbeitsplätze könnten helfen. So ließe sich die Finanzierung verbessern, ohne die Belastung allein auf ältere Arbeitnehmerinnen und Arbeitnehmer abzuwälzen."
+  },
+  {
+   "id": "b2-15",
+   "level": "B2",
+   "seconds": 120,
+   "title": {
+    "tr": "Tartışma: Şirketlerde kadın kotası",
+    "en": "Discussion: Gender Quotas in Companies",
+    "es": "Debate: cuotas de g?nero en las empresas",
+    "fr": "Débat : Les quotas de genre dans les entreprises",
+    "it": "Discussione: Quote di genere nelle aziende",
+    "ku": "Nîqaş: Kotayên zayendî di şirketan de",
+    "ar": "نقاش: حصص تمثيل الجنسين في الشركات"
+   },
+   "prompt": "Diskutieren Sie, ob Unternehmen eine Frauenquote für Führungspositionen einführen sollten. Begründen Sie Ihre Position, reagieren Sie auf eine Gegenmeinung und schlagen Sie einen Kompromiss vor.",
+   "help": {
+    "tr": "Kadın kotasının eşit fırsatlara etkisini açıkla; liyakat itirazına yanıt ver ve somut bir uzlaşma öner.",
+    "en": "Explain how quotas affect equal opportunity, respond to concerns about merit, and propose a concrete compromise.",
+    "es": "Explica c?mo influyen las cuotas en la igualdad de oportunidades, responde a las objeciones sobre el m?rito y propone un compromiso concreto.",
+    "fr": "Explique comment les quotas influencent l'égalité des chances, réponds aux inquiétudes sur le mérite et propose un compromis concret.",
+    "it": "Spiega come le quote influiscono sulle pari opportunità, rispondi ai dubbi sul merito e proponi un compromesso concreto.",
+    "ku": "Rave bike kotayan bandorê li derfetên wekhev çawa dikin, bersiva fikarên li ser şiyanê bide û lihevhatineke konkret pêşniyar bike.",
+    "ar": "اشرح أثر الحصص في تكافؤ الفرص، وردّ على المخاوف المتعلقة بالجدارة، واقترح حلًا وسطًا ملموسًا."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Görüş",
+      "en": "Opinion",
+      "ku": "Raya te",
+      "it": "Opinione",
+      "fr": "Avis",
+      "ar": "رأي",
+      "es": "Opinión"
+     },
+     "say": "Ich unterstütze/lehne eine Quote ab, weil …",
+     "keys": [
+      "ich unterstütze eine quote"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Gerekçe",
+      "en": "Reason",
+      "ku": "Sedem",
+      "it": "Motivo",
+      "fr": "Raison",
+      "ar": "سبب",
+      "es": "Motivo"
+     },
+     "say": "Entscheidend ist, dass …",
+     "keys": [
+      "gleiche chancen"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Karşı görüş",
+      "en": "Counterargument",
+      "es": "Argumento contrario",
+      "fr": "Contre-argument",
+      "it": "Obiezione",
+      "ku": "Îtiraz",
+      "ar": "حجة مضادة"
+     },
+     "say": "Der Einwand, dass …, ist verständlich.",
+     "keys": [
+      "der einwand"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Uzlaşma",
+      "en": "Compromise",
+      "es": "Compromiso",
+      "fr": "Compromis",
+      "it": "Compromesso",
+      "ku": "Lihevhatin",
+      "ar": "حل وسط"
+     },
+     "say": "Ein möglicher Kompromiss wäre …",
+     "keys": [
+      "ein möglicher kompromiss"
+     ]
+    }
+   ],
+   "sample": "Ich unterstütze eine Quote für Führungspositionen, solange sie transparent und zeitlich überprüfbar eingeführt wird. Entscheidend ist, dass gleiche Chancen nicht nur auf dem Papier bestehen. In vielen Unternehmen sind Frauen trotz passender Qualifikation in leitenden Funktionen unterrepräsentiert. Eine Quote kann dazu führen, dass Auswahlverfahren genauer geprüft und geeignete Kandidatinnen aktiv gesucht werden. Der Einwand, dass am Ende nur die Quote und nicht die Leistung zählt, ist verständlich. Deshalb müssen alle Bewerberinnen und Bewerber weiterhin nach klaren fachlichen Kriterien beurteilt werden. Ein möglicher Kompromiss wäre, zunächst konkrete Ziele festzulegen und regelmäßig über Fortschritte zu berichten. Zusätzlich sollten Firmen transparente Beförderungswege und bessere Möglichkeiten zur Vereinbarkeit von Beruf und Familie schaffen. So wird die Quote zu einem Instrument für faire Verfahren und nicht zu einem Ersatz für Qualifikation."
+  },
+  {
+   "id": "b2-16",
+   "level": "B2",
+   "seconds": 120,
+   "title": {
+    "tr": "Tartışma: Restoranlarda bahşiş",
+    "en": "Discussion: Tipping in Restaurants",
+    "es": "Debate: propinas en los restaurantes",
+    "fr": "Débat : Le pourboire au restaurant",
+    "it": "Discussione: La mancia al ristorante",
+    "ku": "Nîqaş: Bacîş li xwaringehan",
+    "ar": "نقاش: الإكرامية في المطاعم"
+   },
+   "prompt": "Diskutieren Sie, ob Gäste in Restaurants Trinkgeld geben sollten. Äußern Sie Ihre Meinung, nennen Sie Gründe, reagieren Sie auf eine Gegenmeinung und machen Sie einen Kompromissvorschlag.",
+   "help": {
+    "tr": "Bahşişin hizmet çalışanları için önemini ve adil ücret konusunu değerlendir; karşı görüşü ele alıp çözüm öner.",
+    "en": "Discuss the importance of tips for service workers and fair pay, address a counterargument, and suggest a solution.",
+    "es": "Comenta la importancia de las propinas para el personal de servicio y de ofrecer salarios justos; responde a un argumento contrario y propone una soluci?n.",
+    "fr": "Parle de l'importance des pourboires pour le personnel de service et d'un salaire équitable, réponds à un contre-argument et propose une solution.",
+    "it": "Discuti l'importanza delle mance per il personale di sala e di una retribuzione equa, rispondi a un'obiezione e proponi una soluzione.",
+    "ku": "Girîngiya bacîşan ji bo karmendên xizmetê û meaşê adil nîqaş bike, bersiva îtirazekê bide û çareseriyekê pêşniyar bike.",
+    "ar": "ناقش أهمية الإكراميات للعاملين في الخدمة وأهمية الأجر العادل، وردّ على حجة مضادة، واقترح حلًا."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Görüş",
+      "en": "Opinion",
+      "ku": "Raya te",
+      "it": "Opinione",
+      "fr": "Avis",
+      "ar": "رأي",
+      "es": "Opinión"
+     },
+     "say": "Grundsätzlich finde ich …",
+     "keys": [
+      "grundsätzlich finde ich"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Gerekçe",
+      "en": "Reason",
+      "ku": "Sedem",
+      "it": "Motivo",
+      "fr": "Raison",
+      "ar": "سبب",
+      "es": "Motivo"
+     },
+     "say": "Ein Trinkgeld kann …",
+     "keys": [
+      "gute leistung"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Karşı görüş",
+      "en": "Counterargument",
+      "es": "Argumento contrario",
+      "fr": "Contre-argument",
+      "it": "Obiezione",
+      "ku": "Îtiraz",
+      "ar": "حجة مضادة"
+     },
+     "say": "Man darf jedoch nicht vergessen, dass …",
+     "keys": [
+      "nicht vergessen"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Uzlaşma",
+      "en": "Compromise",
+      "es": "Compromiso",
+      "fr": "Compromis",
+      "it": "Compromesso",
+      "ku": "Lihevhatin",
+      "ar": "حل وسط"
+     },
+     "say": "Eine faire Lösung wäre …",
+     "keys": [
+      "eine faire lösung"
+     ]
+    }
+   ],
+   "sample": "Grundsätzlich finde ich, dass Gäste freiwillig Trinkgeld geben können, wenn sie mit dem Service zufrieden sind. Ein Trinkgeld kann gute Leistung anerkennen und Beschäftigten im Restaurant direkt zugutekommen. Besonders bei niedrigem Grundlohn ist diese Unterstützung für manche wichtig. Man darf jedoch nicht vergessen, dass faire Löhne in erster Linie die Verantwortung des Arbeitgebers sind. Gäste sollten sich nicht verpflichtet fühlen, einen bestimmten Betrag zusätzlich zu zahlen, nur damit das Personal angemessen verdient. Eine faire Lösung wäre, angemessene Löhne fest einzuplanen und Trinkgeld als freiwillige Anerkennung zu behandeln. Restaurants könnten außerdem klar erklären, ob ein Servicebetrag bereits in der Rechnung enthalten ist. So bleibt die Entscheidung beim Gast, während Beschäftigte nicht allein von unregelmäßigen Zusatzzahlungen abhängig sind."
+  },
+  {
+   "id": "b2-17",
+   "level": "B2",
+   "seconds": 90,
+   "title": {
+    "tr": "İş görüşmesi: Kendini tanıtma",
+    "en": "Job Interview: Introducing Yourself",
+    "es": "Entrevista de trabajo: presentaci?n personal",
+    "fr": "Entretien d'embauche : Se présenter",
+    "it": "Colloquio di lavoro: Presentarsi",
+    "ku": "Hevdîtina karê: Xwe nas bike",
+    "ar": "مقابلة عمل: تقديم نفسك"
+   },
+   "prompt": "Sie haben ein Vorstellungsgespräch für eine Stelle als Projektassistentin oder Projektassistent. Stellen Sie sich vor, beschreiben Sie Ihre bisherige Erfahrung, nennen Sie Ihre Stärken und erklären Sie, warum Sie sich bewerben.",
+   "help": {
+    "tr": "Kibarca selam ver; eğitimini ve deneyimini, güçlü yönlerini ve bu işe neden başvurduğunu kısa biçimde anlat.",
+    "en": "Greet the interviewer, briefly describe your education, experience, strengths, and reasons for applying.",
+    "es": "Saluda a la persona entrevistadora y describe brevemente tu formaci?n, experiencia, puntos fuertes y motivos para solicitar el puesto.",
+    "fr": "Salue la personne qui te reçoit, puis présente brièvement ta formation, ton expérience, tes points forts et les raisons de ta candidature.",
+    "it": "Saluta chi ti farà il colloquio e descrivi brevemente la tua formazione, la tua esperienza, i tuoi punti di forza e i motivi per cui ti candidi.",
+    "ku": "Silav li kesê ku pirsan dike bike, paşê perwerde, ezmûn, hêz û sedemên serlêdana xwe bi kurtî rave bike.",
+    "ar": "حيّ الشخص الذي يجري المقابلة، ثم تحدث بإيجاز عن تعليمك وخبرتك ونقاط قوتك وأسباب التقدم للوظيفة."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Selamlama",
+      "en": "Greeting",
+      "es": "Saludo",
+      "fr": "Salutation",
+      "it": "Saluto",
+      "ku": "Silav",
+      "ar": "التحية"
+     },
+     "say": "Guten Tag, vielen Dank für …",
+     "keys": [
+      "guten tag"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Deneyim",
+      "en": "Experience",
+      "ku": "Tecrûbe",
+      "it": "Esperienza",
+      "fr": "Expérience",
+      "ar": "خبرة",
+      "es": "Experiencia"
+     },
+     "say": "In meiner bisherigen Tätigkeit …",
+     "keys": [
+      "bisherigen tätigkeit"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Güçlü yönler",
+      "en": "Strengths",
+      "es": "Puntos fuertes",
+      "fr": "Points forts",
+      "it": "Punti di forza",
+      "ku": "Hêz",
+      "ar": "نقاط القوة"
+     },
+     "say": "Zu meinen Stärken gehört …",
+     "keys": [
+      "zu meinen stärken"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Başvuru nedeni",
+      "en": "Reason for applying",
+      "es": "Motivo de la candidatura",
+      "fr": "Motivation",
+      "it": "Motivazione",
+      "ku": "Sedema serlêdanê",
+      "ar": "سبب التقدم للوظيفة"
+     },
+     "say": "Ich bewerbe mich bei Ihnen, weil …",
+     "keys": [
+      "ich bewerbe mich"
+     ]
+    }
+   ],
+   "sample": "Guten Tag, vielen Dank für die Einladung. Mein Name ist Elif Yılmaz, und ich arbeite seit drei Jahren als Projektassistentin in einem kleinen Unternehmen. Dort koordiniere ich Termine, bereite Unterlagen vor und unterstütze die Kommunikation zwischen verschiedenen Teams. Zu meinen Stärken gehören eine sorgfältige Arbeitsweise und ein guter Überblick, auch wenn mehrere Aufgaben gleichzeitig anfallen. Außerdem arbeite ich gern mit digitalen Werkzeugen und lerne neue Programme schnell. Ich bewerbe mich bei Ihnen, weil Ihr Unternehmen internationale Projekte betreut und ich meine Sprachkenntnisse stärker einsetzen möchte. Besonders interessiert mich die Zusammenarbeit mit unterschiedlichen Abteilungen. In meiner bisherigen Tätigkeit habe ich gelernt, auch unter Zeitdruck freundlich und zuverlässig zu bleiben. Ich freue mich darauf, mehr über die Aufgaben und Ihr Team zu erfahren."
+  },
+  {
+   "id": "b2-18",
+   "level": "B2",
+   "seconds": 90,
+   "title": {
+    "tr": "Bankayı arama: Kartı bloke ettirme",
+    "en": "Calling the Bank: Blocking a Card",
+    "es": "Llamar al banco: bloquear una tarjeta",
+    "fr": "Appeler la banque : Faire bloquer une carte",
+    "it": "Telefonare alla banca: Bloccare una carta",
+    "ku": "Telefonkirin ji bankê re: Qefilandina kartê",
+    "ar": "الاتصال بالبنك: إيقاف بطاقة"
+   },
+   "prompt": "Sie bemerken unbekannte Abbuchungen auf Ihrem Konto und rufen Ihre Bank an. Erklären Sie das Problem, bitten Sie um die Sperrung Ihrer Karte und fragen Sie nach einer Ersatzkarte sowie den nächsten Schritten.",
+   "help": {
+    "tr": "Sorunu ve işlem tarihlerini belirt; kartı bloke ettir, yedek kartı ve sonraki adımları sor, görüşmeyi kibarca bitir.",
+    "en": "Describe the issue and transaction dates, request a card block and replacement, ask about next steps, and close politely.",
+    "es": "Describe el problema y las fechas de las operaciones, solicita el bloqueo y la sustituci?n de la tarjeta, pregunta por los siguientes pasos y desp?dete con cortes?a.",
+    "fr": "Explique le problème et les dates des transactions, demande le blocage et le remplacement de la carte, renseigne-toi sur les prochaines étapes et termine poliment.",
+    "it": "Descrivi il problema e le date delle transazioni, chiedi di bloccare e sostituire la carta, informati sui passi successivi e concludi con cortesia.",
+    "ku": "Pirsgirêk û tarîxên danûstendinan rave bike, qefilandin û kartê nû bixwaze, li ser gavên paşîn bipirse û bi rêzdarî bidawî bike.",
+    "ar": "اشرح المشكلة وتواريخ المعاملات، واطلب إيقاف البطاقة واستبدالها، واسأل عن الخطوات التالية، ثم أنهِ المكالمة بأدب."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Selamlama ve kimlik",
+      "en": "Greeting and identification",
+      "es": "Saludo e identificaci?n",
+      "fr": "Salutation et présentation",
+      "it": "Saluto e presentazione",
+      "ku": "Silav û nasandin",
+      "ar": "التحية والتعريف بالنفس"
+     },
+     "say": "Guten Tag, mein Name ist …",
+     "keys": [
+      "mein name ist"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Sorun",
+      "en": "Problem",
+      "es": "Problema",
+      "fr": "Problème",
+      "it": "Problema",
+      "ku": "Pirsgirêk",
+      "ar": "المشكلة"
+     },
+     "say": "Auf meinem Konto habe ich … entdeckt.",
+     "keys": [
+      "unbekannte abbuchungen"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Talep",
+      "en": "Request",
+      "es": "Solicitud",
+      "fr": "Demande",
+      "it": "Richiesta",
+      "ku": "Daxwaz",
+      "ar": "الطلب"
+     },
+     "say": "Könnten Sie bitte …",
+     "keys": [
+      "karte sperren"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Sonraki adımlar",
+      "en": "Next steps",
+      "es": "Siguientes pasos",
+      "fr": "Prochaines étapes",
+      "it": "Passi successivi",
+      "ku": "Gavên paşîn",
+      "ar": "الخطوات التالية"
+     },
+     "say": "Wie kann ich … erhalten?",
+     "keys": [
+      "ersatzkarte"
+     ]
+    }
+   ],
+   "sample": "Guten Tag, mein Name ist Elif Yılmaz. Ich rufe an, weil ich auf meinem Konto zwei unbekannte Abbuchungen entdeckt habe. Die Zahlungen wurden gestern gebucht und stammen von einem Geschäft, bei dem ich nicht eingekauft habe. Könnten Sie bitte sofort meine Karte sperren, damit keine weiteren Beträge abgebucht werden? Ich kann Ihnen gern die letzten Ziffern der Karte und die genaue Höhe der Zahlungen nennen. Außerdem möchte ich wissen, wie ich eine Ersatzkarte bekommen kann und wie lange die Ausstellung ungefähr dauert. Muss ich die Abbuchungen zusätzlich schriftlich melden oder ein Formular ausfüllen? Bitte sagen Sie mir auch, ob mein Online-Banking weiterhin funktioniert. Vielen Dank für Ihre Hilfe. Ich notiere mir die Vorgangsnummer und warte auf Ihre schriftliche Bestätigung. Auf Wiederhören."
+  },
+  {
+   "id": "b2-19",
+   "level": "B2",
+   "seconds": 90,
+   "title": {
+    "tr": "Toplantı: Proje özeti ve sonraki adımlar",
+    "en": "Meeting: Project Summary and Next Steps",
+    "es": "Reuni?n: resumen del proyecto y pr?ximos pasos",
+    "fr": "Réunion : Résumé du projet et prochaines étapes",
+    "it": "Riunione: Riepilogo del progetto e prossimi passi",
+    "ku": "Civîn: Kurteya projeyê û gavên paşîn",
+    "ar": "اجتماع: ملخص المشروع والخطوات التالية"
+   },
+   "prompt": "Fassen Sie in einer Besprechung ein Projekt kurz zusammen. Berichten Sie über den aktuellen Stand, nennen Sie einen offenen Punkt und schlagen Sie konkrete nächste Schritte mit Zuständigkeiten und Terminen vor.",
+   "help": {
+    "tr": "Projenin amacını ve mevcut durumunu özetle; açık konuyu belirt, sorumluları ve tarihleri içeren sonraki adımları öner.",
+    "en": "Summarize the project's goal and status, identify an open issue, and propose next steps with owners and dates.",
+    "es": "Resume el objetivo y el estado del proyecto, se?ala un asunto pendiente y propone los siguientes pasos con responsables y fechas.",
+    "fr": "Résume l'objectif et l'état du projet, indique un point encore à régler et propose les prochaines étapes avec les personnes responsables et les dates.",
+    "it": "Riassumi l'obiettivo e lo stato del progetto, indica una questione ancora aperta e proponi i prossimi passi con responsabili e date.",
+    "ku": "Armanc û rewşa projeyê kurte bike, mijarekî vekirî destnîşan bike û gavên paşîn bi berpirsiyar û tarîxan pêşniyar bike.",
+    "ar": "لخّص هدف المشروع وحالته، وحدد مسألة لم تُحل بعد، واقترح الخطوات التالية مع المسؤولين والتواريخ."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Özet",
+      "en": "Summary",
+      "es": "Resumen",
+      "fr": "Résumé",
+      "it": "Riepilogo",
+      "ku": "Kurte",
+      "ar": "الملخص"
+     },
+     "say": "Das Projekt hatte das Ziel, …",
+     "keys": [
+      "das projekt"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Mevcut durum",
+      "en": "Current status",
+      "es": "Estado actual",
+      "fr": "État actuel",
+      "it": "Stato attuale",
+      "ku": "Rewşa niha",
+      "ar": "الحالة الراهنة"
+     },
+     "say": "Derzeit haben wir …",
+     "keys": [
+      "derzeit"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Açık konu",
+      "en": "Open issue",
+      "es": "Asunto pendiente",
+      "fr": "Point à régler",
+      "it": "Questione aperta",
+      "ku": "Mijara vekirî",
+      "ar": "مسألة عالقة"
+     },
+     "say": "Noch offen ist …",
+     "keys": [
+      "noch offen"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Sonraki adımlar",
+      "en": "Next steps",
+      "es": "Siguientes pasos",
+      "fr": "Prochaines étapes",
+      "it": "Passi successivi",
+      "ku": "Gavên paşîn",
+      "ar": "الخطوات التالية"
+     },
+     "say": "Als nächsten Schritt schlage ich vor …",
+     "keys": [
+      "als nächsten schritt"
+     ]
+    }
+   ],
+   "sample": "Das Projekt hatte das Ziel, unsere interne Terminplanung zu vereinfachen. Derzeit haben wir die neue Software getestet und Rückmeldungen aus drei Abteilungen gesammelt. Insgesamt funktioniert das System zuverlässig, allerdings ist die Verbindung zum Kalender noch nicht stabil. Noch offen ist außerdem die kurze Schulung für Kolleginnen und Kollegen, die selten mit der Anwendung arbeiten. Als nächsten Schritt schlage ich vor, dass die IT-Abteilung das Kalenderproblem bis Freitag untersucht. Anschließend kann das Projektteam die aktualisierte Version erneut testen. Frau Demir könnte die Schulung vorbereiten, während ich eine verständliche Anleitung schreibe. Wenn alle Prüfungen erfolgreich sind, sollten wir das System ab dem ersten des nächsten Monats einführen. Bitte teilen Sie mir mit, ob diese Aufgabenverteilung für Sie passt. Dann halte ich die Beschlüsse im Protokoll fest."
+  },
+  {
+   "id": "b2-20",
+   "level": "B2",
+   "seconds": 90,
+   "title": {
+    "tr": "Komşuyla gürültü sorununu konuşma",
+    "en": "Discussing a Noise Problem with a Neighbor",
+    "es": "C?mo hablar con un vecino sobre el ruido",
+    "fr": "Parler d'un problème de bruit avec un voisin",
+    "it": "Parlare con un vicino di un problema di rumore",
+    "ku": "Axaftina bi cîranekî re li ser pirsgirêka dengê",
+    "ar": "التحدث مع جار بشأن مشكلة ضوضاء"
+   },
+   "prompt": "Sie möchten mit Ihrer Nachbarin oder Ihrem Nachbarn höflich über wiederholten Lärm am Abend sprechen. Beschreiben Sie die Situation, erklären Sie die Auswirkungen und suchen Sie gemeinsam nach einer Lösung.",
+   "help": {
+    "tr": "Nazikçe konuya gir; gürültünün ne zaman olduğunu ve etkisini açıkla, anlayış rica et ve ortak çözüm öner.",
+    "en": "Raise the issue politely, explain when the noise occurs and how it affects you, then ask for understanding and suggest a solution.",
+    "es": "Plantea el problema con educaci?n, explica cu?ndo se produce el ruido y c?mo te afecta; despu?s pide comprensi?n y sugiere una soluci?n.",
+    "fr": "Aborde le problème poliment, explique quand le bruit se produit et ses effets sur toi, puis demande à ton voisin de comprendre et propose une solution.",
+    "it": "Affronta la questione con cortesia, spiega quando si sente il rumore e come ti disturba, poi chiedi comprensione e proponi una soluzione.",
+    "ku": "Bi rêzdarî mijarê veke, rave bike deng kengê derdikeve û çawa te bandor dike, paşê têgihiştina cîranê bixwaze û çareseriyekê pêşniyar bike.",
+    "ar": "اطرح المشكلة بأدب، واشرح متى تحدث الضوضاء وكيف تؤثر فيك، ثم اطلب تفهّم الجار واقترح حلًا."
+   },
+   "points": [
+    {
+     "label": {
+      "tr": "Kibar giriş",
+      "en": "Polite opening",
+      "es": "Inicio cort?s",
+      "fr": "Ouverture polie",
+      "it": "Apertura cortese",
+      "ku": "Destpêkeke bi rêzdarî",
+      "ar": "افتتاحية مهذبة"
+     },
+     "say": "Entschuldigen Sie bitte, hätten Sie kurz Zeit?",
+     "keys": [
+      "entschuldigen sie bitte"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Sorun ve etkisi",
+      "en": "Problem and effect",
+      "es": "Problema y efecto",
+      "fr": "Problème et conséquences",
+      "it": "Problema ed effetto",
+      "ku": "Pirsgirêk û bandor",
+      "ar": "المشكلة والأثر"
+     },
+     "say": "In den letzten Tagen …",
+     "keys": [
+      "in den letzten tagen"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Rica",
+      "en": "Request",
+      "es": "Solicitud",
+      "fr": "Demande",
+      "it": "Richiesta",
+      "ku": "Daxwaz",
+      "ar": "الطلب"
+     },
+     "say": "Wäre es möglich, …",
+     "keys": [
+      "etwas leiser"
+     ]
+    },
+    {
+     "label": {
+      "tr": "Çözüm",
+      "en": "Solution",
+      "ku": "Çareserî",
+      "it": "Soluzione",
+      "fr": "Solution",
+      "ar": "حل",
+      "es": "Solución"
+     },
+     "say": "Vielleicht könnten wir …",
+     "keys": [
+      "eine lösung finden"
+     ]
+    }
+   ],
+   "sample": "Entschuldigen Sie bitte, hätten Sie kurz Zeit? Ich möchte etwas ansprechen, das mir ein wenig unangenehm ist. In den letzten Tagen war abends nach zehn Uhr öfter laute Musik zu hören. Ich verstehe natürlich, dass man manchmal Besuch hat oder etwas feiern möchte. Leider kann ich wegen des Lärms nur schwer einschlafen, und ich muss morgens früh zur Arbeit. Wäre es möglich, die Musik ab zehn Uhr etwas leiser zu stellen oder die Fenster zu schließen? Ich möchte keinen Streit, sondern gern eine Lösung finden, die für uns beide passt. Wenn Sie vorher eine Feier planen, können Sie mir gern kurz Bescheid sagen. Dann kann ich mich darauf einstellen. Vielen Dank für Ihr Verständnis. Ich hoffe, dass wir das unkompliziert klären können, und bin selbstverständlich auch offen für Ihren Vorschlag."
   }
  ]
 }
