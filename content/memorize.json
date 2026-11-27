@@ -32,7 +32,11 @@
      "xm": {
       "tr": "Yorgunum.",
       "en": "I am tired.",
-      "es": "Estoy cansado."
+      "es": "Estoy cansado.",
+      "fr": "Je suis fatigué(e).",
+      "it": "Sono stanco.",
+      "ku": "Ez westiyayî me.",
+      "ar": "أنا متعب."
      }
     },
     {
@@ -42,7 +46,11 @@
      "xm": {
       "tr": "Evde misin?",
       "en": "Are you at home?",
-      "es": "¿Estás en casa?"
+      "es": "¿Estás en casa?",
+      "fr": "Tu es à la maison ?",
+      "it": "Sei a casa?",
+      "ku": "Tu li malê yî?",
+      "ar": "هل أنت في المنزل؟"
      }
     },
     {
@@ -52,7 +60,11 @@
      "xm": {
       "tr": "O öğretmen.",
       "en": "He is a teacher.",
-      "es": "Él es profesor."
+      "es": "Él es profesor.",
+      "fr": "Il est professeur.",
+      "it": "Lui è insegnante.",
+      "ku": "Ew mamosteyek e.",
+      "ar": "هو معلّم."
      }
     },
     {
@@ -62,7 +74,11 @@
      "xm": {
       "tr": "Türkiyeliyiz.",
       "en": "We are from Turkey.",
-      "es": "Somos de Turquía."
+      "es": "Somos de Turquía.",
+      "fr": "Nous venons de Turquie.",
+      "it": "Siamo della Turchia.",
+      "ku": "Em ji Tirkiyeyê ne.",
+      "ar": "نحن من تركيا."
      }
     },
     {
@@ -72,7 +88,11 @@
      "xm": {
       "tr": "Siz çok naziksiniz.",
       "en": "You are nice.",
-      "es": "Eres amable."
+      "es": "Eres amable.",
+      "fr": "Tu es gentil(le).",
+      "it": "Sei gentile.",
+      "ku": "Tu xweş î.",
+      "ar": "أنت لطيف."
      }
     },
     {
@@ -82,7 +102,11 @@
      "xm": {
       "tr": "Siz Kaya Hanım mısınız?",
       "en": "Are you Ms Kaya?",
-      "es": "¿Es usted la señora Kaya?"
+      "es": "¿Es usted la señora Kaya?",
+      "fr": "Vous êtes Madame Kaya ?",
+      "it": "È Lei la signora Kaya?",
+      "ku": "Ma tu Xanima Kaya yî?",
+      "ar": "هل أنت السيدة كايا؟"
      }
     }
    ]
@@ -119,7 +143,11 @@
      "xm": {
       "tr": "Acıktım.",
       "en": "I am hungry.",
-      "es": "Tengo hambre."
+      "es": "Tengo hambre.",
+      "fr": "J’ai faim.",
+      "it": "Ho fame.",
+      "ku": "Ez birçî me.",
+      "ar": "أنا جائع."
      }
     },
     {
@@ -143,7 +171,11 @@
      "xm": {
       "tr": "Onun iki çocuğu var.",
       "en": "She has two children.",
-      "es": "Ella tiene dos hijos."
+      "es": "Ella tiene dos hijos.",
+      "fr": "Elle a deux enfants.",
+      "it": "Lei ha due figli.",
+      "ku": "Wê du zarok hene.",
+      "ar": "لديها طفلان."
      }
     },
     {
@@ -153,7 +185,11 @@
      "xm": {
       "tr": "Bir arabamız var.",
       "en": "We have a car.",
-      "es": "Tenemos coche."
+      "es": "Tenemos coche.",
+      "fr": "Nous avons une voiture.",
+      "it": "Abbiamo una macchina.",
+      "ku": "Me erebeyek heye.",
+      "ar": "لدينا سيارة."
      }
     },
     {
@@ -163,7 +199,11 @@
      "xm": {
       "tr": "Sorunuz var mı?",
       "en": "Do you have questions?",
-      "es": "¿Tienes preguntas?"
+      "es": "¿Tienes preguntas?",
+      "fr": "Tu as des questions ?",
+      "it": "Hai domande?",
+      "ku": "Pirsên te hene?",
+      "ar": "هل لديكم أسئلة؟"
      }
     },
     {
@@ -173,7 +213,11 @@
      "xm": {
       "tr": "Suyunuz var mı?",
       "en": "Do you have water?",
-      "es": "¿Tienes agua?"
+      "es": "¿Tienes agua?",
+      "fr": "Tu as de l’eau ?",
+      "it": "Hai dell’acqua?",
+      "ku": "Avê te heye?",
+      "ar": "هل لديك ماء؟"
      }
     }
    ]
@@ -210,7 +254,11 @@
      "xm": {
       "tr": "Yüzebilirim.",
       "en": "I can swim.",
-      "es": "Sé nadar."
+      "es": "Sé nadar.",
+      "fr": "Je sais nager.",
+      "it": "So nuotare.",
+      "ku": "Ez dikarim avjeniyê bikim.",
+      "ar": "أستطيع السباحة."
      }
     },
     {
@@ -240,7 +288,11 @@
      "xm": {
       "tr": "Çalışmam lazım.",
       "en": "I have to work.",
-      "es": "Tengo que trabajar."
+      "es": "Tengo que trabajar.",
+      "fr": "Je dois travailler.",
+      "it": "Devo lavorare.",
+      "ku": "Divê ez bixebitim.",
+      "ar": "يجب أن أعمل."
      }
     },
     {
@@ -270,7 +322,11 @@
      "xm": {
       "tr": "Eve gitmek istiyorum.",
       "en": "I want to go home.",
-      "es": "Quiero ir a casa."
+      "es": "Quiero ir a casa.",
+      "fr": "Je veux rentrer à la maison.",
+      "it": "Voglio tornare a casa.",
+      "ku": "Ez dixwazim biçim malê.",
+      "ar": "أريد الذهاب إلى المنزل."
      }
     },
     {
@@ -300,7 +356,11 @@
      "xm": {
       "tr": "Bir kahve istiyorum.",
       "en": "I would like a coffee.",
-      "es": "Quisiera un café."
+      "es": "Quisiera un café.",
+      "fr": "Je voudrais un café.",
+      "it": "Vorrei un caffè.",
+      "ku": "Ez qehweyekê dixwazim.",
+      "ar": "أود قهوة."
      }
     },
     {
@@ -330,7 +390,11 @@
      "xm": {
       "tr": "Sorabilir miyim?",
       "en": "May I ask?",
-      "es": "¿Puedo preguntar?"
+      "es": "¿Puedo preguntar?",
+      "fr": "Puis-je demander ?",
+      "it": "Posso chiedere?",
+      "ku": "Ma dikarim bipirsim?",
+      "ar": "هل يمكنني أن أسأل؟"
      }
     },
     {
@@ -510,7 +574,11 @@
      "xm": {
       "tr": "Adam burada.",
       "en": "The man is here.",
-      "es": "El hombre está aquí."
+      "es": "El hombre está aquí.",
+      "fr": "L’homme est ici.",
+      "it": "L’uomo è qui.",
+      "ku": "Mêr li vir e.",
+      "ar": "الرجل هنا."
      }
     },
     {
@@ -520,7 +588,11 @@
      "xm": {
       "tr": "Adamı görüyorum.",
       "en": "I see the man.",
-      "es": "Veo al hombre."
+      "es": "Veo al hombre.",
+      "fr": "Je vois l’homme.",
+      "it": "Vedo l’uomo.",
+      "ku": "Ez mêr dibînim.",
+      "ar": "أرى الرجل."
      }
     },
     {
@@ -530,7 +602,11 @@
      "xm": {
       "tr": "Adama yardım ediyorum.",
       "en": "I help the man.",
-      "es": "Ayudo al hombre."
+      "es": "Ayudo al hombre.",
+      "fr": "J’aide l’homme.",
+      "it": "Aiuto l’uomo.",
+      "ku": "Ez alîkariya mêr dikim.",
+      "ar": "أساعد الرجل."
      }
     },
     {
@@ -540,7 +616,11 @@
      "xm": {
       "tr": "Kadın burada.",
       "en": "The woman is here.",
-      "es": "La mujer está aquí."
+      "es": "La mujer está aquí.",
+      "fr": "La femme est ici.",
+      "it": "La donna è qui.",
+      "ku": "Jin li vir e.",
+      "ar": "المرأة هنا."
      }
     },
     {
@@ -550,7 +630,11 @@
      "xm": {
       "tr": "Kadını görüyorum.",
       "en": "I see the woman.",
-      "es": "Veo a la mujer."
+      "es": "Veo a la mujer.",
+      "fr": "Je vois la femme.",
+      "it": "Vedo la donna.",
+      "ku": "Ez jinê dibînim.",
+      "ar": "أرى المرأة."
      }
     },
     {
@@ -560,7 +644,11 @@
      "xm": {
       "tr": "Kadına yardım ediyorum.",
       "en": "I help the woman.",
-      "es": "Ayudo a la mujer."
+      "es": "Ayudo a la mujer.",
+      "fr": "J’aide la femme.",
+      "it": "Aiuto la donna.",
+      "ku": "Ez alîkariya jinê dikim.",
+      "ar": "أساعد المرأة."
      }
     },
     {
@@ -570,7 +658,11 @@
      "xm": {
       "tr": "Çocuk burada.",
       "en": "The child is here.",
-      "es": "El niño está aquí."
+      "es": "El niño está aquí.",
+      "fr": "L’enfant est ici.",
+      "it": "Il bambino è qui.",
+      "ku": "Zarok li vir e.",
+      "ar": "الطفل هنا."
      }
     },
     {
@@ -580,7 +672,11 @@
      "xm": {
       "tr": "Çocuğu görüyorum.",
       "en": "I see the child.",
-      "es": "Veo al niño."
+      "es": "Veo al niño.",
+      "fr": "Je vois l’enfant.",
+      "it": "Vedo il bambino.",
+      "ku": "Ez zarokê dibînim.",
+      "ar": "أرى الطفل."
      }
     },
     {
@@ -590,7 +686,11 @@
      "xm": {
       "tr": "Çocuğa yardım ediyorum.",
       "en": "I help the child.",
-      "es": "Ayudo al niño."
+      "es": "Ayudo al niño.",
+      "fr": "J’aide l’enfant.",
+      "it": "Aiuto il bambino.",
+      "ku": "Ez alîkariya zarokê dikim.",
+      "ar": "أساعد الطفل."
      }
     },
     {
@@ -600,7 +700,11 @@
      "xm": {
       "tr": "Çocuklar burada.",
       "en": "The children are here.",
-      "es": "Los niños están aquí."
+      "es": "Los niños están aquí.",
+      "fr": "Les enfants sont ici.",
+      "it": "I bambini sono qui.",
+      "ku": "Zarokan li vir in.",
+      "ar": "الأطفال هنا."
      }
     },
     {
@@ -610,7 +714,11 @@
      "xm": {
       "tr": "Çocukları görüyorum.",
       "en": "I see the children.",
-      "es": "Veo a los niños."
+      "es": "Veo a los niños.",
+      "fr": "Je vois les enfants.",
+      "it": "Vedo i bambini.",
+      "ku": "Ez zarokan dibînim.",
+      "ar": "أرى الأطفال."
      }
     },
     {
@@ -620,7 +728,11 @@
      "xm": {
       "tr": "Çocuklara yardım ediyorum.",
       "en": "I help the children.",
-      "es": "Ayudo a los niños."
+      "es": "Ayudo a los niños.",
+      "fr": "J’aide les enfants.",
+      "it": "Aiuto i bambini.",
+      "ku": "Ez alîkariya zarokan dikim.",
+      "ar": "أساعد الأطفال."
      }
     }
    ]
@@ -657,7 +769,11 @@
      "xm": {
       "tr": "Bu bir masa.",
       "en": "This is a table.",
-      "es": "Esto es una mesa."
+      "es": "Esto es una mesa.",
+      "fr": "C’est une table.",
+      "it": "Questo è un tavolo.",
+      "ku": "Ev maseyek e.",
+      "ar": "هذه طاولة."
      }
     },
     {
@@ -667,7 +783,11 @@
      "xm": {
       "tr": "Bir erkek kardeşim var.",
       "en": "I have a brother.",
-      "es": "Tengo un hermano."
+      "es": "Tengo un hermano.",
+      "fr": "J’ai un frère.",
+      "it": "Ho un fratello.",
+      "ku": "Birayek min heye.",
+      "ar": "لدي أخ."
      }
     },
     {
@@ -677,7 +797,11 @@
      "xm": {
       "tr": "bir arkadaşla (erkek)",
       "en": "with a friend (male)",
-      "es": "con un amigo"
+      "es": "con un amigo",
+      "fr": "avec un ami",
+      "it": "con un amico",
+      "ku": "bi hevalekî re",
+      "ar": "مع صديق"
      }
     },
     {
@@ -687,7 +811,11 @@
      "xm": {
       "tr": "Bu bir lamba.",
       "en": "This is a lamp.",
-      "es": "Esto es una lámpara."
+      "es": "Esto es una lámpara.",
+      "fr": "C’est une lampe.",
+      "it": "Questa è una lampada.",
+      "ku": "Ev çiraya maseyê ye.",
+      "ar": "هذا مصباح."
      }
     },
     {
@@ -697,7 +825,11 @@
      "xm": {
       "tr": "Bir ceket alıyorum.",
       "en": "I am buying a jacket.",
-      "es": "Estoy comprando una chaqueta."
+      "es": "Estoy comprando una chaqueta.",
+      "fr": "J’achète une veste.",
+      "it": "Sto comprando una giacca.",
+      "ku": "Ez çakêtekê dikirim.",
+      "ar": "أشتري سترة."
      }
     },
     {
@@ -707,7 +839,11 @@
      "xm": {
       "tr": "bir arkadaşla (kadın)",
       "en": "with a friend (female)",
-      "es": "con una amiga"
+      "es": "con una amiga",
+      "fr": "avec une amie",
+      "it": "con un’amica",
+      "ku": "bi hevaleke re",
+      "ar": "مع صديقة"
      }
     },
     {
@@ -717,7 +853,11 @@
      "xm": {
       "tr": "Bu bir ev.",
       "en": "This is a house.",
-      "es": "Esto es una casa."
+      "es": "Esto es una casa.",
+      "fr": "C’est une maison.",
+      "it": "Questa è una casa.",
+      "ku": "Ev xaniyek e.",
+      "ar": "هذا منزل."
      }
     },
     {
@@ -741,7 +881,11 @@
      "xm": {
       "tr": "Çocuğum yok.",
       "en": "I have no children.",
-      "es": "No tengo hijos."
+      "es": "No tengo hijos.",
+      "fr": "Je n’ai pas d’enfants.",
+      "it": "Non ho figli.",
+      "ku": "Zarokên min tune ne.",
+      "ar": "ليس لدي أطفال."
      }
     },
     {
@@ -751,7 +895,11 @@
      "xm": {
       "tr": "Aç değilim.",
       "en": "I am not hungry.",
-      "es": "No tengo hambre."
+      "es": "No tengo hambre.",
+      "fr": "Je n’ai pas faim.",
+      "it": "Non ho fame.",
+      "ku": "Ez ne birçî me.",
+      "ar": "لست جائعًا."
      }
     }
    ]
@@ -883,7 +1031,11 @@
      "xm": {
       "tr": "babam",
       "en": "my father",
-      "es": "mi padre"
+      "es": "mi padre",
+      "fr": "mon père",
+      "it": "mio padre",
+      "ku": "bavê min",
+      "ar": "أبي"
      }
     },
     {
@@ -893,7 +1045,11 @@
      "xm": {
       "tr": "senin telefonun",
       "en": "your phone",
-      "es": "tu teléfono"
+      "es": "tu teléfono",
+      "fr": "ton téléphone",
+      "it": "il tuo telefono",
+      "ku": "telefonê te",
+      "ar": "هاتفك"
      }
     },
     {
@@ -903,7 +1059,11 @@
      "xm": {
       "tr": "onun arabası (erkek)",
       "en": "his car",
-      "es": "su coche"
+      "es": "su coche",
+      "fr": "sa voiture",
+      "it": "la sua macchina",
+      "ku": "erebeya wî",
+      "ar": "سيارته"
      }
     },
     {
@@ -913,7 +1073,11 @@
      "xm": {
       "tr": "onun erkek kardeşi (kadın)",
       "en": "her brother",
-      "es": "su hermano"
+      "es": "su hermano",
+      "fr": "son frère à elle",
+      "it": "suo fratello",
+      "ku": "birayê wê",
+      "ar": "أخوها"
      }
     },
     {
@@ -923,7 +1087,11 @@
      "xm": {
       "tr": "onun oyuncağı (çocuk)",
       "en": "its toy",
-      "es": "su juguete"
+      "es": "su juguete",
+      "fr": "son jouet à lui/elle",
+      "it": "il suo giocattolo",
+      "ku": "lîstika wî",
+      "ar": "لعبته"
      }
     },
     {
@@ -933,7 +1101,11 @@
      "xm": {
       "tr": "bizim evimiz",
       "en": "our house",
-      "es": "nuestra casa"
+      "es": "nuestra casa",
+      "fr": "notre maison",
+      "it": "la nostra casa",
+      "ku": "xaniyê me",
+      "ar": "منزلنا"
      }
     },
     {
@@ -943,7 +1115,11 @@
      "xm": {
       "tr": "sizin bahçeniz",
       "en": "your garden (you all)",
-      "es": "vuestro jardín"
+      "es": "vuestro jardín",
+      "fr": "votre jardin",
+      "it": "il vostro giardino",
+      "ku": "baxçeyê we (hûn)",
+      "ar": "حديقتكم"
      }
     },
     {
@@ -953,7 +1129,11 @@
      "xm": {
       "tr": "onların köpeği",
       "en": "their dog",
-      "es": "su perro"
+      "es": "su perro",
+      "fr": "leur chien",
+      "it": "il loro cane",
+      "ku": "kûçikê wan",
+      "ar": "كلبهم"
      }
     },
     {
@@ -963,7 +1143,11 @@
      "xm": {
       "tr": "sizin pasaportunuz (resmî)",
       "en": "your passport (formal)",
-      "es": "su pasaporte"
+      "es": "su pasaporte",
+      "fr": "votre passeport",
+      "it": "il Suo passaporto",
+      "ku": "pasaporta we (fermî)",
+      "ar": "جواز سفرك (رسمي)"
      }
     }
    ]
@@ -1000,7 +1184,11 @@
      "xm": {
       "tr": "Türkiye'den",
       "en": "from Turkey",
-      "es": "de Turquía"
+      "es": "de Turquía",
+      "fr": "de Turquie",
+      "it": "dalla Turchia",
+      "ku": "ji Tirkiyeyê",
+      "ar": "من تركيا"
      }
     },
     {
@@ -1010,7 +1198,11 @@
      "xm": {
       "tr": "doktorda",
       "en": "at the doctor's",
-      "es": "en la consulta del médico"
+      "es": "en la consulta del médico",
+      "fr": "chez le médecin",
+      "it": "dal medico",
+      "ku": "li cem bijîşk",
+      "ar": "عند الطبيب"
      }
     },
     {
@@ -1020,7 +1212,11 @@
      "xm": {
       "tr": "otobüsle",
       "en": "by bus",
-      "es": "en autobús"
+      "es": "en autobús",
+      "fr": "en bus",
+      "it": "in autobus",
+      "ku": "bi otobêsê",
+      "ar": "بالحافلة"
      }
     },
     {
@@ -1030,7 +1226,11 @@
      "xm": {
       "tr": "işten sonra",
       "en": "after work",
-      "es": "después del trabajo"
+      "es": "después del trabajo",
+      "fr": "après le travail",
+      "it": "dopo il lavoro",
+      "ku": "piştî kar",
+      "ar": "بعد العمل"
      }
     },
     {
@@ -1040,7 +1240,11 @@
      "xm": {
       "tr": "bir yıldır",
       "en": "for a year",
-      "es": "desde hace un año"
+      "es": "desde hace un año",
+      "fr": "depuis un an",
+      "it": "per un anno",
+      "ku": "ji bo salekê",
+      "ar": "لمدة سنة"
      }
     },
     {
@@ -1050,7 +1254,11 @@
      "xm": {
       "tr": "istasyondan",
       "en": "from the station",
-      "es": "desde la estación"
+      "es": "desde la estación",
+      "fr": "de la gare",
+      "it": "dalla stazione",
+      "ku": "ji qereqolê",
+      "ar": "من المحطة"
      }
     },
     {
@@ -1060,7 +1268,11 @@
      "xm": {
       "tr": "süpermarkete",
       "en": "to the supermarket",
-      "es": "al supermercado"
+      "es": "al supermercado",
+      "fr": "au supermarché",
+      "it": "al supermercato",
+      "ku": "ber bi sûpermarketê ve",
+      "ar": "إلى المتجر الكبير"
      }
     },
     {
@@ -1070,7 +1282,11 @@
      "xm": {
       "tr": "parkın içinden",
       "en": "through the park",
-      "es": "por el parque"
+      "es": "por el parque",
+      "fr": "à travers le parc",
+      "it": "attraverso il parco",
+      "ku": "di nav parkê re",
+      "ar": "عبر الحديقة"
      }
     },
     {
@@ -1080,7 +1296,11 @@
      "xm": {
       "tr": "senin için",
       "en": "for you",
-      "es": "para ti"
+      "es": "para ti",
+      "fr": "pour toi",
+      "it": "per te",
+      "ku": "ji bo te",
+      "ar": "من أجلك"
      }
     },
     {
@@ -1090,7 +1310,11 @@
      "xm": {
       "tr": "ağaca (çarpmak)",
       "en": "against the tree",
-      "es": "contra el árbol"
+      "es": "contra el árbol",
+      "fr": "contre l’arbre",
+      "it": "contro l’albero",
+      "ku": "li dijî darê",
+      "ar": "ضد الشجرة"
      }
     },
     {
@@ -1100,7 +1324,11 @@
      "xm": {
       "tr": "şekersiz",
       "en": "without sugar",
-      "es": "sin azúcar"
+      "es": "sin azúcar",
+      "fr": "sans sucre",
+      "it": "senza zucchero",
+      "ku": "bê şekir",
+      "ar": "من دون سكر"
      }
     },
     {
@@ -1110,7 +1338,11 @@
      "xm": {
       "tr": "masanın etrafında",
       "en": "around the table",
-      "es": "alrededor de la mesa"
+      "es": "alrededor de la mesa",
+      "fr": "autour de la table",
+      "it": "intorno al tavolo",
+      "ku": "li dora masê",
+      "ar": "حول الطاولة"
      }
     },
     {
@@ -1120,7 +1352,11 @@
      "xm": {
       "tr": "sinemada / sinemaya",
       "en": "at the cinema / to the cinema",
-      "es": "en el cine / al cine"
+      "es": "en el cine / al cine",
+      "fr": "au cinéma / vers le cinéma",
+      "it": "al cinema / verso il cinema",
+      "ku": "li sînemayê / ber bi sînemayê ve",
+      "ar": "في السينما / إلى السينما"
      }
     },
     {
@@ -1130,7 +1366,11 @@
      "xm": {
       "tr": "pencerede / pencereye",
       "en": "at the window / to the window",
-      "es": "en la ventana / hacia la ventana"
+      "es": "en la ventana / hacia la ventana",
+      "fr": "à la fenêtre / vers la fenêtre",
+      "it": "alla finestra / verso la finestra",
+      "ku": "li pencereyê / ber bi pencereyê ve",
+      "ar": "عند النافذة / إلى النافذة"
      }
     },
     {
@@ -1140,7 +1380,11 @@
      "xm": {
       "tr": "masanın üstünde / masanın üstüne",
       "en": "on the table / onto the table",
-      "es": "sobre la mesa / encima de la mesa"
+      "es": "sobre la mesa / encima de la mesa",
+      "fr": "sur la table / sur la table (mouvement)",
+      "it": "sul tavolo / sopra il tavolo",
+      "ku": "li ser masê / ber ser masê ve",
+      "ar": "على الطاولة / إلى الطاولة"
      }
     },
     {
@@ -1150,7 +1394,11 @@
      "xm": {
       "tr": "yatağın yanında",
       "en": "next to the bed",
-      "es": "al lado de la cama"
+      "es": "al lado de la cama",
+      "fr": "à côté du lit",
+      "it": "accanto al letto",
+      "ku": "li kêleka nivînê",
+      "ar": "بجانب السرير"
      }
     },
     {
@@ -1160,7 +1408,11 @@
      "xm": {
       "tr": "sandalyenin altında",
       "en": "under the chair",
-      "es": "debajo de la silla"
+      "es": "debajo de la silla",
+      "fr": "sous la chaise",
+      "it": "sotto la sedia",
+      "ku": "di binê kursiyê de",
+      "ar": "تحت الكرسي"
      }
     },
     {
@@ -1170,7 +1422,11 @@
      "xm": {
       "tr": "kanepenin üstünde (yukarıda)",
       "en": "above the sofa",
-      "es": "encima del sofá"
+      "es": "encima del sofá",
+      "fr": "au-dessus du canapé",
+      "it": "sopra il divano",
+      "ku": "li jorê kanapeyê",
+      "ar": "فوق الأريكة"
      }
     },
     {
@@ -1180,7 +1436,11 @@
      "xm": {
       "tr": "evin önünde",
       "en": "in front of the house",
-      "es": "delante de la casa"
+      "es": "delante de la casa",
+      "fr": "devant la maison",
+      "it": "davanti alla casa",
+      "ku": "li ber xanî",
+      "ar": "أمام المنزل"
      }
     },
     {
@@ -1190,7 +1450,11 @@
      "xm": {
       "tr": "kapının arkasında",
       "en": "behind the door",
-      "es": "detrás de la puerta"
+      "es": "detrás de la puerta",
+      "fr": "derrière la porte",
+      "it": "dietro la porta",
+      "ku": "li pişt derî",
+      "ar": "خلف الباب"
      }
     },
     {
@@ -1200,7 +1464,11 @@
      "xm": {
       "tr": "evlerin arasında",
       "en": "between the houses",
-      "es": "entre las casas"
+      "es": "entre las casas",
+      "fr": "entre les maisons",
+      "it": "tra le case",
+      "ku": "di navbera xaniyan de",
+      "ar": "بين المنزلين"
      }
     }
    ]
@@ -1333,7 +1601,11 @@
      "xm": {
       "tr": "Nerelisin?",
       "en": "Where are you from?",
-      "es": "¿De dónde eres?"
+      "es": "¿De dónde eres?",
+      "fr": "Tu viens d’où ?",
+      "it": "Di dove sei?",
+      "ku": "Tu ji ku derê yî?",
+      "ar": "من أين أنت؟"
      }
     },
     {
@@ -1483,7 +1755,11 @@
      "xm": {
       "tr": "Kimi ziyaret ediyorsun?",
       "en": "Whom are you visiting?",
-      "es": "¿A quién visitas?"
+      "es": "¿A quién visitas?",
+      "fr": "Qui vas-tu voir ?",
+      "it": "Chi vai a trovare?",
+      "ku": "Tu serdana kê dikî?",
+      "ar": "من تزور؟"
      }
     },
     {

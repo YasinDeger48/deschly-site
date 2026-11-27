@@ -52,7 +52,11 @@
        "end": 4.444
       }
      ],
-     "es": "Todos mis patitos"
+     "es": "Todos mis patitos",
+     "fr": "Tous mes petits canetons",
+     "it": "Tutti i miei anatroccoli",
+     "ku": "Hemû pitikên wîçikê min",
+     "ar": "?? ????? ???????"
     },
     {
      "part": "verse",
@@ -92,7 +96,11 @@
        "end": 6.667
       }
      ],
-     "es": "nadan en el lago,"
+     "es": "nadan en el lago,",
+     "fr": "nagent sur le lac,",
+     "it": "nuotano nel lago,",
+     "ku": "li ser golê avjeniyê dikin,",
+     "ar": "???? ?? ????????"
     },
     {
      "part": "verse",
@@ -132,7 +140,11 @@
        "end": 8.889
       }
      ],
-     "es": "nadan en el lago,"
+     "es": "nadan en el lago,",
+     "fr": "nagent sur le lac,",
+     "it": "nuotano nel lago,",
+     "ku": "li ser golê avjeniyê dikin,",
+     "ar": "???? ?? ????????"
     },
     {
      "part": "verse",
@@ -178,7 +190,11 @@
        "end": 11.111
       }
      ],
-     "es": "con sus cabecitas en el agua,"
+     "es": "con sus cabecitas en el agua,",
+     "fr": "leurs petites t?tes dans l?eau,",
+     "it": "testoline sott?acqua,",
+     "ku": "serên biçûk di nav avê de,",
+     "ar": "?????? ??????? ?? ??????"
     },
     {
      "part": "verse",
@@ -218,7 +234,11 @@
        "end": 13.333
       }
      ],
-     "es": "y sus colitas bien arriba."
+     "es": "y sus colitas bien arriba.",
+     "fr": "leurs petites queues en l?air.",
+     "it": "codine all?ins?.",
+     "ku": "dûvên biçûk bilind in.",
+     "ar": "??????? ??????? ?????? ?????."
     }
    ],
    "questions": [
@@ -313,7 +333,11 @@
        "end": 4.444
       }
      ],
-     "es": "Hermano Jacob,"
+     "es": "Hermano Jacob,",
+     "fr": "Fr?re Jacob,",
+     "it": "Fratello Giacomo,",
+     "ku": "Birayê Jacob,",
+     "ar": "?? ??? ??????"
     },
     {
      "part": "verse",
@@ -347,7 +371,11 @@
        "end": 6.667
       }
      ],
-     "es": "Hermano Jacob,"
+     "es": "Hermano Jacob,",
+     "fr": "Fr?re Jacob,",
+     "it": "Fratello Giacomo,",
+     "ku": "Birayê Jacob,",
+     "ar": "?? ??? ??????"
     },
     {
      "part": "verse",
@@ -375,7 +403,11 @@
        "end": 8.889
       }
      ],
-     "es": "¿todavía estás dormido?"
+     "es": "¿todavía estás dormido?",
+     "fr": "dors-tu encore ?",
+     "it": "dormi ancora?",
+     "ku": "tu hîn radizê?",
+     "ar": "??? ??? ??????"
     },
     {
      "part": "verse",
@@ -403,7 +435,11 @@
        "end": 11.111
       }
      ],
-     "es": "¿todavía estás dormido?"
+     "es": "¿todavía estás dormido?",
+     "fr": "dors-tu encore ?",
+     "it": "dormi ancora?",
+     "ku": "tu hîn radizê?",
+     "ar": "??? ??? ??????"
     },
     {
      "part": "verse",
@@ -449,7 +485,11 @@
        "end": 13.333
       }
      ],
-     "es": "¿No oyes las campanas?"
+     "es": "¿No oyes las campanas?",
+     "fr": "N?entends-tu pas les cloches ?",
+     "it": "Non senti le campane?",
+     "ku": "Zengilan nabihîzî?",
+     "ar": "??? ???? ????????"
     },
     {
      "part": "verse",
@@ -495,7 +535,11 @@
        "end": 15.556
       }
      ],
-     "es": "¿No oyes las campanas?"
+     "es": "¿No oyes las campanas?",
+     "fr": "N?entends-tu pas les cloches ?",
+     "it": "Non senti le campane?",
+     "ku": "Zengilan nabihîzî?",
+     "ar": "??? ???? ????????"
     },
     {
      "part": "verse",
@@ -523,7 +567,11 @@
        "end": 17.778
       }
      ],
-     "es": "Din, dan, don."
+     "es": "Din, dan, don.",
+     "fr": "Ding, dang, dong.",
+     "it": "Din, dan, don.",
+     "ku": "Ding, dang, dong.",
+     "ar": "???? ???? ????."
     },
     {
      "part": "verse",
@@ -551,7 +599,11 @@
        "end": 20.0
       }
      ],
-     "es": "Din, dan, don."
+     "es": "Din, dan, don.",
+     "fr": "Ding, dang, dong.",
+     "it": "Din, dan, don.",
+     "ku": "Ding, dang, dong.",
+     "ar": "???? ???? ????."
     }
    ],
    "questions": [
@@ -670,7 +722,11 @@
        "end": 3.6
       }
      ],
-     "es": "El pequeño Hans se fue solo"
+     "es": "El pequeño Hans se fue solo",
+     "fr": "Le petit Hans est parti seul",
+     "it": "Il piccolo Hans ? partito da solo",
+     "ku": "Hansê biçûk bi tena xwe çû",
+     "ar": "????? Hans ?????? ????"
     },
     {
      "part": "verse",
@@ -722,7 +778,11 @@
        "end": 6.0
       }
      ],
-     "es": "por el ancho mundo."
+     "es": "por el ancho mundo.",
+     "fr": "? travers le vaste monde.",
+     "it": "per il vasto mondo.",
+     "ku": "ber bi cîhaneke fireh ve.",
+     "ar": "??? ?????? ??????."
     },
     {
      "part": "verse",
@@ -768,7 +828,11 @@
        "end": 8.4
       }
      ],
-     "es": "El bastón y el sombrero le quedan bien,"
+     "es": "El bastón y el sombrero le quedan bien,",
+     "fr": "Un b?ton et un chapeau lui vont bien,",
+     "it": "Bastone e cappello gli stanno bene,",
+     "ku": "Ço û kulavê wî baş tên,",
+     "ar": "?????? ????? ????????"
     },
     {
      "part": "verse",
@@ -808,7 +872,11 @@
        "end": 10.2
       }
      ],
-     "es": "está de buen humor."
+     "es": "está de buen humor.",
+     "fr": "il est de bonne humeur.",
+     "it": "? di buon umore.",
+     "ku": "hêşa wî baş e.",
+     "ar": "??? ???? ??????."
     },
     {
      "part": "verse",
@@ -860,7 +928,11 @@
        "end": 13.2
       }
      ],
-     "es": "Pero mamá llora mucho,"
+     "es": "Pero mamá llora mucho,",
+     "fr": "Mais sa m?re pleure beaucoup,",
+     "it": "Ma la mamma piange tanto,",
+     "ku": "Lê dayik gelek digirî,",
+     "ar": "??? ???? ???? ??????"
     },
     {
      "part": "verse",
@@ -912,7 +984,11 @@
        "end": 15.6
       }
      ],
-     "es": "¡ya no tiene a Hans!"
+     "es": "¡ya no tiene a Hans!",
+     "fr": "elle n?a plus son Hans !",
+     "it": "non ha pi? il suo Hans!",
+     "ku": "êdî Hansa wê tune ye!",
+     "ar": "??? ??? ????? Hans!"
     },
     {
      "part": "verse",
@@ -958,7 +1034,11 @@
        "end": 18.0
       }
      ],
-     "es": "El niño lo piensa,"
+     "es": "El niño lo piensa,",
+     "fr": "L?enfant y r?fl?chit,",
+     "it": "Il bambino ci ripensa,",
+     "ku": "Zarok li ser vê yekê difikire,",
+     "ar": "???? ????? ?? ??????"
     },
     {
      "part": "verse",
@@ -998,7 +1078,11 @@
        "end": 20.4
       }
      ],
-     "es": "y vuelve corriendo a casa."
+     "es": "y vuelve corriendo a casa.",
+     "fr": "puis court vite ? la maison.",
+     "it": "e torna a casa di corsa.",
+     "ku": "û zû bazdide malê.",
+     "ar": "?? ???? ????? ??? ?????."
     }
    ],
    "questions": [
@@ -1099,7 +1183,11 @@
        "end": 3.0
       }
      ],
-     "es": "¡Zum, zum, zum!"
+     "es": "¡Zum, zum, zum!",
+     "fr": "Bzzz, bzzz, bzzz !",
+     "it": "Bzz, bzz, bzz!",
+     "ku": "Vîz, vîz, vîz!",
+     "ar": "??? ??? ??!"
     },
     {
      "part": "verse",
@@ -1139,7 +1227,11 @@
        "end": 5.4
       }
      ],
-     "es": "¡Abeja pequeña, zumba y vuela!"
+     "es": "¡Abeja pequeña, zumba y vuela!",
+     "fr": "Petite abeille, vole en bourdonnant !",
+     "it": "Piccola ape, vola ronzando!",
+     "ku": "Mêşhingivê biçûk, li dora xwe vîz bike!",
+     "ar": "????? ?????? ???????? ??? ?????!"
     },
     {
      "part": "verse",
@@ -1197,7 +1289,11 @@
        "end": 8.4
       }
      ],
-     "es": "Oye, no te haremos daño,"
+     "es": "Oye, no te haremos daño,",
+     "fr": "H?, nous ne te ferons pas de mal,",
+     "it": "Ehi, non ti faremo del male,",
+     "ku": "Hey, em ê zirarê nede te,",
+     "ar": "????? ?? ??????"
     },
     {
      "part": "verse",
@@ -1255,7 +1351,11 @@
        "end": 10.8
       }
      ],
-     "es": "¡vuela hacia el bosque y el brezal!"
+     "es": "¡vuela hacia el bosque y el brezal!",
+     "fr": "vole vers les bois et la lande !",
+     "it": "vola nel bosco e nella brughiera!",
+     "ku": "here nav daristan û zozanê bifire!",
+     "ar": "???? ??? ??????? ???????? ??????!"
     },
     {
      "part": "verse",
@@ -1283,7 +1383,11 @@
        "end": 12.6
       }
      ],
-     "es": "¡Zum, zum, zum!"
+     "es": "¡Zum, zum, zum!",
+     "fr": "Bzzz, bzzz, bzzz !",
+     "it": "Bzz, bzz, bzz!",
+     "ku": "Vîz, vîz, vîz!",
+     "ar": "??? ??? ??!"
     },
     {
      "part": "verse",
@@ -1323,7 +1427,11 @@
        "end": 15.0
       }
      ],
-     "es": "¡Abeja pequeña, zumba y vuela!"
+     "es": "¡Abeja pequeña, zumba y vuela!",
+     "fr": "Petite abeille, vole en bourdonnant !",
+     "it": "Piccola ape, vola ronzando!",
+     "ku": "Mêşhingivê biçûk, li dora xwe vîz bike!",
+     "ar": "????? ?????? ???????? ??? ?????!"
     }
    ],
    "questions": [
@@ -1446,7 +1554,11 @@
        "end": 3.913
       }
      ],
-     "es": "En la pared, al acecho,"
+     "es": "En la pared, al acecho,",
+     "fr": "Sur le mur, ? l?aff?t,",
+     "it": "In agguato sul muro",
+     "ku": "Li ser dîwêr, veşartî rûniştiye,",
+     "ar": "??? ??????? ???????"
     },
     {
      "part": "verse",
@@ -1492,7 +1604,11 @@
        "end": 6.522
       }
      ],
-     "es": "se sienta un bichito."
+     "es": "se sienta un bichito.",
+     "fr": "est assis un petit insecte.",
+     "it": "c?? un piccolo insetto.",
+     "ku": "kêzikekî biçûk.",
+     "ar": "???? ??? ????."
     },
     {
      "part": "verse",
@@ -1550,7 +1666,11 @@
        "end": 9.13
       }
      ],
-     "es": "En la pared, al acecho,"
+     "es": "En la pared, al acecho,",
+     "fr": "Sur le mur, ? l?aff?t,",
+     "it": "In agguato sul muro",
+     "ku": "Li ser dîwêr, veşartî rûniştiye,",
+     "ar": "??? ??????? ???????"
     },
     {
      "part": "verse",
@@ -1596,7 +1716,11 @@
        "end": 11.739
       }
      ],
-     "es": "se sienta un bichito."
+     "es": "se sienta un bichito.",
+     "fr": "est assis un petit insecte.",
+     "it": "c?? un piccolo insetto.",
+     "ku": "kêzikekî biçûk.",
+     "ar": "???? ??? ????."
     },
     {
      "part": "verse",
@@ -1648,7 +1772,11 @@
        "end": 14.348
       }
      ],
-     "es": "Mira bien al bichito,"
+     "es": "Mira bien al bichito,",
+     "fr": "Regarde donc l?insecte,",
+     "it": "Guarda un po? l?insetto,",
+     "ku": "Tenê li kêzikê binêre,",
+     "ar": "???? ??? ??????"
     },
     {
      "part": "verse",
@@ -1700,7 +1828,11 @@
        "end": 16.957
       }
      ],
-     "es": "¡cómo sabe bailar!"
+     "es": "¡cómo sabe bailar!",
+     "fr": "comme il sait danser !",
+     "it": "come sa ballare!",
+     "ku": "bibîne ew çiqasî baş direqise!",
+     "ar": "??? ?????? ?????!"
     },
     {
      "part": "verse",
@@ -1758,7 +1890,11 @@
        "end": 19.565
       }
      ],
-     "es": "En la pared, al acecho,"
+     "es": "En la pared, al acecho,",
+     "fr": "Sur le mur, ? l?aff?t,",
+     "it": "In agguato sul muro",
+     "ku": "Li ser dîwêr, veşartî rûniştiye,",
+     "ar": "??? ??????? ???????"
     },
     {
      "part": "verse",
@@ -1804,7 +1940,11 @@
        "end": 22.174
       }
      ],
-     "es": "se sienta un bichito."
+     "es": "se sienta un bichito.",
+     "fr": "est assis un petit insecte.",
+     "it": "c?? un piccolo insetto.",
+     "ku": "kêzikekî biçûk.",
+     "ar": "???? ??? ????."
     }
    ],
    "questions": [
@@ -1923,7 +2063,11 @@
        "end": 3.913
       }
      ],
-     "es": "El conejito en la hondonada"
+     "es": "El conejito en la hondonada",
+     "fr": "Un petit lapin dans son terrier",
+     "it": "Piccolo coniglietto nella conca,",
+     "ku": "Keroşkê biçûk di qulika xwe de",
+     "ar": "???? ???? ?? ??????"
     },
     {
      "part": "verse",
@@ -1951,7 +2095,11 @@
        "end": 5.87
       }
      ],
-     "es": "se sentó y se durmió,"
+     "es": "se sentó y se durmió,",
+     "fr": "?tait assis et dormait,",
+     "it": "si ? seduto e addormentato,",
+     "ku": "rûnişt û razay,",
+     "ar": "??? ?????"
     },
     {
      "part": "verse",
@@ -1979,7 +2127,11 @@
        "end": 8.478
       }
      ],
-     "es": "se sentó y se durmió."
+     "es": "se sentó y se durmió.",
+     "fr": "?tait assis et dormait.",
+     "it": "si ? seduto e addormentato.",
+     "ku": "rûnişt û razay.",
+     "ar": "??? ????."
     },
     {
      "part": "verse",
@@ -2031,7 +2183,11 @@
        "end": 11.739
       }
      ],
-     "es": "Pobre conejito, ¿estás enfermo?"
+     "es": "Pobre conejito, ¿estás enfermo?",
+     "fr": "Pauvre petit lapin, es-tu malade,",
+     "it": "Povero coniglietto, sei malato,",
+     "ku": "Keroşka belengaz, nexweş î,",
+     "ar": "???? ?????? ?????? ???????? ?? ??? ?????"
     },
     {
      "part": "verse",
@@ -2083,7 +2239,11 @@
        "end": 14.348
       }
      ],
-     "es": "¿Ya no puedes saltar?"
+     "es": "¿Ya no puedes saltar?",
+     "fr": "pour ne plus pouvoir bondir ?",
+     "it": "che non riesci pi? a saltare?",
+     "ku": "ku êdî nikarî baz bidî?",
+     "ar": "????? ??? ?? ??? ?????? ??????"
     },
     {
      "part": "verse",
@@ -2129,7 +2289,11 @@
        "end": 16.957
       }
      ],
-     "es": "¡Conejito, salta! ¡Conejito, salta!"
+     "es": "¡Conejito, salta! ¡Conejito, salta!",
+     "fr": "Petit lapin, saute ! Petit lapin, saute !",
+     "it": "Coniglietto, salta! Coniglietto, salta!",
+     "ku": "Keroşkê biçûk, baz bide! Keroşkê biçûk, baz bide!",
+     "ar": "???? ?????? ??????? ????! ???? ?????? ??????? ????!"
     },
     {
      "part": "verse",
@@ -2157,7 +2321,11 @@
        "end": 18.913
       }
      ],
-     "es": "¡Conejito, salta!"
+     "es": "¡Conejito, salta!",
+     "fr": "Petit lapin, saute !",
+     "it": "Coniglietto, salta!",
+     "ku": "Keroşkê biçûk, baz bide!",
+     "ar": "???? ?????? ??????? ????!"
     }
    ],
    "questions": [
@@ -2278,7 +2446,11 @@
        "end": 4.5
       }
      ],
-     "es": "Un pajarito viene volando"
+     "es": "Un pajarito viene volando",
+     "fr": "Un petit oiseau arrive en volant",
+     "it": "Arriva volando un uccellino",
+     "ku": "Çivîkekî biçûk difire,",
+     "ar": "???? ???? ???? ??????"
     },
     {
      "part": "verse",
@@ -2330,7 +2502,11 @@
        "end": 7.0
       }
      ],
-     "es": "y se posa en mi pie,"
+     "es": "y se posa en mi pie,",
+     "fr": "et se pose sur mon pied.",
+     "it": "e si posa sul mio piede,",
+     "ku": "û li ser lingê min rûdine,",
+     "ar": "???? ??? ?????"
     },
     {
      "part": "verse",
@@ -2382,7 +2558,11 @@
        "end": 10.5
       }
      ],
-     "es": "lleva una nota en el pico,"
+     "es": "lleva una nota en el pico,",
+     "fr": "Il tient un petit mot dans son bec,",
+     "it": "ha un biglietto nel becco,",
+     "ku": "di devê xwe de nameyek heye,",
+     "ar": "??? ?????? ??????"
     },
     {
      "part": "verse",
@@ -2428,7 +2608,11 @@
        "end": 13.0
       }
      ],
-     "es": "un saludo de mamá."
+     "es": "un saludo de mamá.",
+     "fr": "un bonjour de maman.",
+     "it": "un saluto della mamma.",
+     "ku": "silav ji dayikê.",
+     "ar": "???? ???? ?? ???."
     }
    ],
    "questions": [
@@ -2531,7 +2715,11 @@
        "end": 4.821
       }
      ],
-     "es": "Copito de nieve, faldita blanca,"
+     "es": "Copito de nieve, faldita blanca,",
+     "fr": "Petit flocon de neige, petite jupe blanche,",
+     "it": "Fiocco di neve, gonnellina bianca,",
+     "ku": "Pariyê berfê biçûk, kincê spî,",
+     "ar": "?? ???? ????? ???????? ?? ????? ????? ??????"
     },
     {
      "part": "verse",
@@ -2571,7 +2759,11 @@
        "end": 8.036
       }
      ],
-     "es": "¿cuándo caerás del cielo?"
+     "es": "¿cuándo caerás del cielo?",
+     "fr": "quand viendras-tu tomber du ciel ?",
+     "it": "quando scenderai dal cielo?",
+     "ku": "tu kengî dê bibarî?",
+     "ar": "??? ??????? ????? ???????"
     },
     {
      "part": "verse",
@@ -2617,7 +2809,11 @@
        "end": 11.25
       }
      ],
-     "es": "Vives allá arriba, entre las nubes,"
+     "es": "Vives allá arriba, entre las nubes,",
+     "fr": "Tu vis l?-haut dans les nuages,",
+     "it": "Tu vivi lass? tra le nuvole,",
+     "ku": "Tu li jor, di ewrên de dijî,",
+     "ar": "?????? ????? ??? ???????"
     },
     {
      "part": "verse",
@@ -2657,7 +2853,11 @@
        "end": 14.464
       }
      ],
-     "es": "y tu camino es tan largo."
+     "es": "y tu camino es tan largo.",
+     "fr": "ton chemin est si long.",
+     "it": "la tua strada ? cos? lunga.",
+     "ku": "rêya te gelek dûr e.",
+     "ar": "?????? ???? ???."
     }
    ],
    "questions": [
@@ -2784,7 +2984,11 @@
        "end": 6.25
       }
      ],
-     "es": "Verde, verde, verde es toda mi ropa;"
+     "es": "Verde, verde, verde es toda mi ropa;",
+     "fr": "Vert, vert, verts sont tous mes habits ;",
+     "it": "Verde, verde, verdi sono tutti i miei vestiti;",
+     "ku": "Kincên min hemû kesk in, kesk, kesk;",
+     "ar": "????? ????? ???? ?? ?? ???????"
     },
     {
      "part": "verse",
@@ -2848,7 +3052,11 @@
        "end": 10.625
       }
      ],
-     "es": "verde, verde, verde es todo lo que tengo."
+     "es": "verde, verde, verde es todo lo que tengo.",
+     "fr": "vert, vert, tout ce que j?ai est vert.",
+     "it": "verde, verde, tutto ci? che ho ? verde.",
+     "ku": "her tiştê min kesk e, kesk, kesk.",
+     "ar": "????? ????? ???? ?? ?? ?????."
     },
     {
      "part": "verse",
@@ -2918,7 +3126,11 @@
        "end": 16.25
       }
      ],
-     "es": "Por eso me gusta todo lo verde,"
+     "es": "Por eso me gusta todo lo verde,",
+     "fr": "C?est pourquoi j?aime tout ce qui est vert,",
+     "it": "Per questo amo tutto ci? che ? verde,",
+     "ku": "Ji ber vê yekê ez her tiştê kesk hez dikim,",
+     "ar": "???? ??? ?? ??? ?????"
     },
     {
      "part": "verse",
@@ -2970,7 +3182,11 @@
        "end": 20.625
       }
      ],
-     "es": "porque mi amor es cazador."
+     "es": "porque mi amor es cazador.",
+     "fr": "car mon amoureux est chasseur.",
+     "it": "perch? il mio amore ? un cacciatore.",
+     "ku": "ji ber ku delala min nêçîrvan e.",
+     "ar": "??? ????? ????."
     }
    ],
    "questions": [
@@ -3061,7 +3277,11 @@
        "end": 3.478
       }
      ],
-     "es": "Cucú, cucú,"
+     "es": "Cucú, cucú,",
+     "fr": "Coucou, coucou,",
+     "it": "Cuc?, cuc?,",
+     "ku": "Kûkû, kûkû,",
+     "ar": "????? ?????"
     },
     {
      "part": "verse",
@@ -3095,7 +3315,11 @@
        "end": 6.522
       }
      ],
-     "es": "llama desde el bosque."
+     "es": "llama desde el bosque.",
+     "fr": "On l?entend appeler depuis les bois.",
+     "it": "chiama dal bosco.",
+     "ku": "ji nav daristanê bang dike.",
+     "ar": "????? ?? ??????."
     },
     {
      "part": "verse",
@@ -3135,7 +3359,11 @@
        "end": 9.13
       }
      ],
-     "es": "Cantemos,"
+     "es": "Cantemos,",
+     "fr": "Chantons,",
+     "it": "Cantiamo,",
+     "ku": "Werin em stranan bibêjin,",
+     "ar": "??? ?????"
     },
     {
      "part": "verse",
@@ -3175,7 +3403,11 @@
        "end": 11.739
       }
      ],
-     "es": "bailemos y saltemos,"
+     "es": "bailemos y saltemos,",
+     "fr": "dansons et sautons,",
+     "it": "balliamo e saltiamo,",
+     "ku": "bireqisin û baz bidin,",
+     "ar": "????? ??????"
     },
     {
      "part": "verse",
@@ -3209,7 +3441,11 @@
        "end": 14.348
       }
      ],
-     "es": "la primavera, la primavera"
+     "es": "la primavera, la primavera",
+     "fr": "Printemps, printemps",
+     "it": "primavera, primavera,",
+     "ku": "bihar, bihar,",
+     "ar": "??????? ??????"
     },
     {
      "part": "verse",
@@ -3243,7 +3479,11 @@
        "end": 16.957
       }
      ],
-     "es": "pronto estará aquí."
+     "es": "pronto estará aquí.",
+     "fr": "arrivera bient?t.",
+     "it": "presto arriver?.",
+     "ku": "zû dê were.",
+     "ar": "???? ?????."
     }
    ],
    "questions": [
@@ -3360,7 +3600,11 @@
        "end": 6.429
       }
      ],
-     "es": "Todos los pájaros ya han vuelto,"
+     "es": "Todos los pájaros ya han vuelto,",
+     "fr": "Tous les oiseaux sont d?j? l?,",
+     "it": "Gli uccelli sono gi? tutti qui,",
+     "ku": "Hemû çivîk niha hatine,",
+     "ar": "?? ?????? ??? ???????"
     },
     {
      "part": "verse",
@@ -3406,7 +3650,11 @@
        "end": 10.179
       }
      ],
-     "es": "todos los pájaros, todos."
+     "es": "todos los pájaros, todos.",
+     "fr": "tous les oiseaux, tous sans exception.",
+     "it": "tutti gli uccelli, proprio tutti.",
+     "ku": "hemû çivîk, hemûyan.",
+     "ar": "?? ??????? ??????."
     },
     {
      "part": "verse",
@@ -3458,7 +3706,11 @@
        "end": 15.0
       }
      ],
-     "es": "¡Cuánto canto, cuánta música,"
+     "es": "¡Cuánto canto, cuánta música,",
+     "fr": "Quels chants, quelle musique,",
+     "it": "Che canti, che musica,",
+     "ku": "Çi stran, çi muzîk,",
+     "ar": "?? ??? ?? ?????? ??? ??? ?? ???????"
     },
     {
      "part": "verse",
@@ -3510,7 +3762,11 @@
        "end": 19.286
       }
      ],
-     "es": "silbidos, trinos y gorjeos!"
+     "es": "silbidos, trinos y gorjeos!",
+     "fr": "sifflements, gazouillis, trilles !",
+     "it": "fischi, cinguettii e trilli!",
+     "ku": "fîtîn, çivîk çepçep dikin, çirrîn!",
+     "ar": "????? ??????? ??????!"
     },
     {
      "part": "verse",
@@ -3562,7 +3818,11 @@
        "end": 23.571
       }
      ],
-     "es": "La primavera quiere entrar,"
+     "es": "La primavera quiere entrar,",
+     "fr": "Le printemps veut entrer,",
+     "it": "La primavera vuole entrare in scena,",
+     "ku": "Bihar dixwaze bi rê bikeve,",
+     "ar": "???? ?????? ?? ?????"
     },
     {
      "part": "verse",
@@ -3608,7 +3868,11 @@
        "end": 27.321
       }
      ],
-     "es": "viene con cantos y sonidos."
+     "es": "viene con cantos y sonidos.",
+     "fr": "il vient en chantant et en faisant du bruit.",
+     "it": "arriva con canti e suoni.",
+     "ku": "ew bi stran û deng tê.",
+     "ar": "????? ?? ??????? ????????."
     }
    ],
    "questions": [

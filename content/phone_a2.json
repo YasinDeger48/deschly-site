@@ -87,7 +87,11 @@
      "de": "Gerne. Auf Wiederhören!",
      "tr": "Rica ederim. Hoşça kalın!",
      "en": "You're welcome. Goodbye!",
-     "es": "De nada. ¡Adiós!"
+     "es": "De nada. ¡Adiós!",
+     "fr": "Je vous en prie. Au revoir !",
+     "it": "Prego. Arrivederci!",
+     "ku": "Ser çavan. Bi xatirê te!",
+     "ar": "??? ????? ??????. ??? ??????!"
     }
    ],
    "glossary": [
@@ -242,7 +246,11 @@
      "de": "Gerne. Auf Wiederhören!",
      "tr": "Rica ederim. Hoşça kalın!",
      "en": "You're welcome. Goodbye!",
-     "es": "De nada. ¡Adiós!"
+     "es": "De nada. ¡Adiós!",
+     "fr": "Je vous en prie. Au revoir !",
+     "it": "Prego. Arrivederci!",
+     "ku": "Ser çavan. Bi xatirê te!",
+     "ar": "??? ????? ??????. ??? ??????!"
     }
    ],
    "glossary": [
@@ -703,7 +711,11 @@
      "de": "Auf Wiederhören!",
      "tr": "Hoşça kalın!",
      "en": "Goodbye!",
-     "es": "¡Adiós!"
+     "es": "¡Adiós!",
+     "fr": "Au revoir !",
+     "ar": "إلى اللقاء!",
+     "ku": "Bi xatirê te!",
+     "it": "Arrivederci!"
     }
    ],
    "glossary": [
@@ -1239,7 +1251,11 @@
      "de": "Elif Yılmaz, hallo?",
      "tr": "Alo, ben Elif Yılmaz.",
      "en": "Hello, Elif Yılmaz speaking.",
-     "es": "Hola, habla Elif Yılmaz."
+     "es": "Hola, habla Elif Yılmaz.",
+     "fr": "Bonjour, Elif Y?lmaz ? l?appareil.",
+     "it": "Pronto, sono Elif Y?lmaz.",
+     "ku": "Silav, Elif Y?lmaz e.",
+     "ar": "?????? ??? ???? ?????."
     },
     {
      "who": "Frau Vogel",
@@ -1341,7 +1357,10 @@
      "tr": "ana giriş",
      "en": "main entrance",
      "es": "entrada principal",
-     "ku": "deriyê sereke"
+     "ku": "deriyê sereke",
+     "fr": "entr?e principale",
+     "it": "ingresso principale",
+     "ar": "?????? ???????"
     }
    ],
    "questions": [
@@ -1469,7 +1488,11 @@
      "de": "Vielen Dank. Auf Wiederhören!",
      "tr": "Çok teşekkürler. Hoşça kalın!",
      "en": "Thank you very much. Goodbye!",
-     "es": "Muchas gracias. ¡Adiós!"
+     "es": "Muchas gracias. ¡Adiós!",
+     "fr": "Merci beaucoup. Au revoir !",
+     "it": "Grazie mille. Arrivederci!",
+     "ku": "Gelek spas. Bi xatirê te!",
+     "ar": "???? ?????. ??? ??????!"
     }
    ],
    "glossary": [
@@ -1608,7 +1631,11 @@
      "art": null,
      "tr": "iptal olmak",
      "en": "to be canceled",
-     "es": "estar cancelado"
+     "es": "estar cancelado",
+     "fr": "?tre annul?",
+     "it": "essere annullato",
+     "ku": "betal b?n",
+     "ar": "?? ?????"
     },
     {
      "form": "Buchung",
@@ -2021,7 +2048,11 @@
      "art": null,
      "tr": "iptal olmak",
      "en": "to be canceled",
-     "es": "estar cancelado"
+     "es": "estar cancelado",
+     "fr": "?tre annul?",
+     "it": "essere annullato",
+     "ku": "betal b?n",
+     "ar": "?? ?????"
     },
     {
      "form": "gesperrt",
@@ -2755,7 +2786,11 @@
     {
      "tr": "Elif: Hoşça kalın!",
      "en": "Elif: Goodbye!",
-     "es": "Elif: ¡Adiós!"
+     "es": "Elif: ¡Adiós!",
+     "fr": "Elif : Au revoir !",
+     "it": "Elif: Arrivederci!",
+     "ku": "Elif: Bi xatir? te!",
+     "ar": "????: ??? ??????!"
     }
    ],
    "glossary": [
@@ -3319,7 +3354,11 @@
     {
      "tr": "Elif: Alo, ben Elif Yılmaz.",
      "en": "Elif: Hello, Elif Yılmaz speaking.",
-     "es": "Elif: Hola, soy Elif Yılmaz."
+     "es": "Elif: Hola, soy Elif Yılmaz.",
+     "fr": "Elif : Bonjour, Elif Y?lmaz ? l?appareil.",
+     "it": "Elif: Pronto, sono Elif Y?lmaz.",
+     "ku": "Elif: Silav, Elif Yılmaz diaxive.",
+     "ar": "????: ?????? ???? ????? ?????."
     },
     {
      "tr": "Frau Vogel: İyi günler, ben Park İlkokulundan Vogel.",
@@ -3408,7 +3447,10 @@
       "tr": "ana giriş",
       "en": "main entrance",
       "es": "entrada principal",
-      "ku": "deriyê sereke"
+      "ku": "deriyê sereke",
+      "fr": "entr?e principale",
+      "it": "ingresso principale",
+      "ar": "?????? ???????"
      }
     }
    ],
@@ -3524,7 +3566,11 @@
     {
      "tr": "Elif: Çok teşekkürler. Hoşça kalın!",
      "en": "Elif: Thank you very much. Goodbye!",
-     "es": "Elif: Muchas gracias. ¡Adiós!"
+     "es": "Elif: Muchas gracias. ¡Adiós!",
+     "fr": "Elif : Merci beaucoup. Au revoir !",
+     "it": "Elif: Grazie mille. Arrivederci!",
+     "ku": "Elif: Gelek spas. Bi xatir? te!",
+     "ar": "????: ???? ?????. ??? ??????!"
     }
    ],
    "glossary": [
@@ -3677,7 +3723,11 @@
      "mean": {
       "tr": "iptal olmak",
       "en": "to be canceled",
-      "es": "estar cancelado"
+      "es": "estar cancelado",
+      "fr": "?tre annul?",
+      "it": "essere annullato",
+      "ku": "betal b?n",
+      "ar": "?? ?????"
      }
     },
     {
@@ -4111,7 +4161,11 @@
      "mean": {
       "tr": "iptal olmak",
       "en": "to be canceled",
-      "es": "estar cancelado"
+      "es": "estar cancelado",
+      "fr": "?tre annul?",
+      "it": "essere annullato",
+      "ku": "betal b?n",
+      "ar": "?? ?????"
      }
     },
     {

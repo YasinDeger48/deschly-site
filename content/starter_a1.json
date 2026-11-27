@@ -157,7 +157,11 @@
    "say": {
     "tr": "Açık bir „e“ gibi.",
     "en": "Like the \"e\" in \"bed\".",
-    "es": "Como la «e» de «bed»."
+    "es": "Como la «e» de «bed».",
+    "fr": "Comme le ? e ? dans ? bed ?.",
+    "it": "Come la ?e? in ?bed?.",
+    "ku": "Wekî \"e\" di \"bed\" de.",
+    "ar": "??? ??? e ?? ???? bed."
    },
    "examples": [
     "Käse",
@@ -169,7 +173,11 @@
    "say": {
     "tr": "Türkçedeki „ö“ gibi.",
     "en": "Round your lips and say \"e\".",
-    "es": "Redondea los labios y di «e»."
+    "es": "Redondea los labios y di «e».",
+    "fr": "Arrondis les l?vres et prononce ? e ?.",
+    "it": "Arrotonda le labbra e pronuncia ?e?.",
+    "ku": "Lêvên xwe girover bike û \"e\" bêje.",
+    "ar": "?? ????? ??? e."
    },
    "examples": [
     "schön",
@@ -181,7 +189,11 @@
    "say": {
     "tr": "Türkçedeki „ü“ gibi.",
     "en": "Round your lips and say \"i\".",
-    "es": "Redondea los labios y di «i»."
+    "es": "Redondea los labios y di «i».",
+    "fr": "Arrondis les l?vres et prononce ? i ?.",
+    "it": "Arrotonda le labbra e pronuncia ?i?.",
+    "ku": "Lêvên xwe girover bike û \"i\" bêje.",
+    "ar": "?? ????? ??? i."
    },
    "examples": [
     "Tür",
@@ -193,7 +205,11 @@
    "say": {
     "tr": "Çift „s“ gibi: ss.",
     "en": "A sharp \"ss\".",
-    "es": "Una «ss» fuerte."
+    "es": "Una «ss» fuerte.",
+    "fr": "Un ? ss ? prononc? nettement.",
+    "it": "Una ?ss? sibilante.",
+    "ku": "\"ss\"eke tûj.",
+    "ar": "??? ss ???."
    },
    "examples": [
     "Straße",
@@ -205,7 +221,11 @@
    "say": {
     "tr": "„ay“ diye okunur: drei → dray.",
     "en": "Says \"eye\": drei → \"dry\".",
-    "es": "Suena como «eye»: drei → «dry»."
+    "es": "Suena como «eye»: drei → «dry».",
+    "fr": "Se prononce ? eye ? : drei ? ? dry ?.",
+    "it": "Si pronuncia ?ai?: drei ? ?dry?.",
+    "ku": "Dengê \"eye\" dide: drei → \"dry\".",
+    "ar": "????? ??? eye: drei ? dry."
    },
    "examples": [
     "drei",
@@ -218,7 +238,11 @@
    "say": {
     "tr": "Uzun „i“: Liebe → liibe.",
     "en": "A long \"ee\": Liebe.",
-    "es": "Una «ee» larga: Liebe."
+    "es": "Una «ee» larga: Liebe.",
+    "fr": "Un ? ee ? long : Liebe.",
+    "it": "Una ?i? lunga: Liebe.",
+    "ku": "\"ee\"eke dirêj: Liebe.",
+    "ar": "??? ee ????: Liebe."
    },
    "examples": [
     "Liebe",
@@ -231,7 +255,11 @@
    "say": {
     "tr": "„oy“ diye okunur: heute → hoyte.",
     "en": "Says \"oy\": heute → \"hoy-te\".",
-    "es": "Suena como «oy»: heute → «hoy-te»."
+    "es": "Suena como «oy»: heute → «hoy-te».",
+    "fr": "Se prononce ? oy ? : heute ? ? hoy-te ?.",
+    "it": "Si pronuncia ?oi?: heute ? ?hoy-te?.",
+    "ku": "Dengê \"oy\" dide: heute → \"hoy-te\".",
+    "ar": "????? ??? oy: heute ? hoy-te."
    },
    "examples": [
     "heute",
@@ -244,7 +272,11 @@
    "say": {
     "tr": "„av“ diye okunur: Haus → havs.",
     "en": "Says \"ow\" as in \"house\".",
-    "es": "Suena como «ow» en «house»."
+    "es": "Suena como «ow» en «house».",
+    "fr": "Se prononce comme ? ow ? dans ? house ?.",
+    "it": "Si pronuncia ?au? come in ?house?.",
+    "ku": "Dengê \"ow\" dide, mîna ya di \"house\" de.",
+    "ar": "????? ??? ow ?? ???? house."
    },
    "examples": [
     "Haus",
@@ -256,7 +288,11 @@
    "say": {
     "tr": "„ş“ diye okunur.",
     "en": "Says \"sh\".",
-    "es": "Suena como «sh»."
+    "es": "Suena como «sh».",
+    "fr": "Se prononce ? sh ?.",
+    "it": "Si pronuncia ?sh?.",
+    "ku": "Dengê \"sh\" dide.",
+    "ar": "????? sh."
    },
    "examples": [
     "Schule",
@@ -268,7 +304,11 @@
    "say": {
     "tr": "a, o, u’dan sonra boğazdan hırıltılı „h“ (Buch); başka yerlerde yumuşak „h“ (ich).",
     "en": "After a, o, u a throaty sound (Buch); elsewhere a soft hiss (ich).",
-    "es": "Después de a, o, u tiene un sonido gutural (Buch); en otros casos, un sonido suave (ich)."
+    "es": "Después de a, o, u tiene un sonido gutural (Buch); en otros casos, un sonido suave (ich).",
+    "fr": "Apr?s a, o, u, un son guttural (Buch) ; ailleurs, un sifflement doux (ich).",
+    "it": "Dopo a, o, u ? un suono gutturale (Buch); negli altri casi ? un sibilo dolce (ich).",
+    "ku": "Piştî a, o, u dengekî ji qirikê (Buch); li cihên din dengekî nerm (ich).",
+    "ar": "??? a ?o ?u ???? ????? ????? (Buch)? ??? ??? ??? ???? ????? ????? (ich)."
    },
    "examples": [
     "Buch",
@@ -281,7 +321,11 @@
    "say": {
     "tr": "Kelime başında „şt / şp“: Straße → ştrase.",
     "en": "At the start of a word \"sht / shp\".",
-    "es": "Al principio de una palabra suena como «sht / shp»."
+    "es": "Al principio de una palabra suena como «sht / shp».",
+    "fr": "Au d?but d?un mot, se prononce ? sht / shp ?.",
+    "it": "All?inizio di una parola si pronuncia ?sht / shp?.",
+    "ku": "Di destpêka peyvê de \"sht / shp\" dide.",
+    "ar": "?? ????? ?????? ????? sht / shp."
    },
    "examples": [
     "Straße",
@@ -293,7 +337,11 @@
    "say": {
     "tr": "„ts“ diye okunur: Zug → tsuk.",
     "en": "Says \"ts\": Zug → \"tsook\".",
-    "es": "Suena como «ts»: Zug → «tsook»."
+    "es": "Suena como «ts»: Zug → «tsook».",
+    "fr": "Se prononce ? ts ? : Zug ? ? tsook ?.",
+    "it": "Si pronuncia ?ts?: Zug ? ?tsook?.",
+    "ku": "Dengê \"ts\" dide: Zug → \"tsook\".",
+    "ar": "????? ts: Zug ? tsook."
    },
    "examples": [
     "Zug",
@@ -305,7 +353,11 @@
    "say": {
     "tr": "Çoğunlukla „f“ diye okunur: Vater → fater.",
     "en": "Usually says \"f\": Vater.",
-    "es": "Normalmente suena como «f»: Vater."
+    "es": "Normalmente suena como «f»: Vater.",
+    "fr": "Se prononce g?n?ralement ? f ? : Vater.",
+    "it": "Di solito si pronuncia ?f?: Vater.",
+    "ku": "Bi gelemperî dengê \"f\" dide: Vater.",
+    "ar": "????? ?? ????? f: Vater."
    },
    "examples": [
     "Vater",
@@ -317,7 +369,11 @@
    "say": {
     "tr": "„v“ diye okunur: Wasser → vasser.",
     "en": "Says \"v\": Wasser.",
-    "es": "Suena como «v»: Wasser."
+    "es": "Suena como «v»: Wasser.",
+    "fr": "Se prononce ? v ? : Wasser.",
+    "it": "Si pronuncia ?v?: Wasser.",
+    "ku": "Dengê \"v\" dide: Wasser.",
+    "ar": "????? v: Wasser."
    },
    "examples": [
     "Wasser",
@@ -329,7 +385,11 @@
    "say": {
     "tr": "„y“ diye okunur: ja → ya.",
     "en": "Says \"y\": ja → \"yah\".",
-    "es": "Suena como «y»: ja → «yah»."
+    "es": "Suena como «y»: ja → «yah».",
+    "fr": "Se prononce ? y ? : ja ? ? yah ?.",
+    "it": "Si pronuncia ?y?: ja ? ?yah?.",
+    "ku": "Dengê \"y\" dide: ja → \"yah\".",
+    "ar": "????? y: ja ? yah."
    },
    "examples": [
     "ja",
@@ -341,7 +401,11 @@
    "say": {
     "tr": "Ünlüden sonra okunmaz, ünlüyü uzatır: Uhr → uur.",
     "en": "After a vowel it is silent and makes the vowel long.",
-    "es": "Después de una vocal es muda y alarga la vocal."
+    "es": "Después de una vocal es muda y alarga la vocal.",
+    "fr": "Apr?s une voyelle, il est muet et allonge la voyelle.",
+    "it": "Dopo una vocale ? muta e la vocale si allunga.",
+    "ku": "Piştî dengdarekê bêdeng e û dengdarê dirêj dike.",
+    "ar": "??? ??? ???? ?? ????? ?????? ??? ??? ?????."
    },
    "examples": [
     "Uhr",
@@ -353,7 +417,11 @@
    "say": {
     "tr": "Kelime sonunda hafif bir „a“ gibi: Mutter → mutta.",
     "en": "At the end of a word like a soft \"a\".",
-    "es": "Al final de una palabra suena como una «a» suave."
+    "es": "Al final de una palabra suena como una «a» suave.",
+    "fr": "? la fin d?un mot, se prononce comme un ? a ? doux.",
+    "it": "Alla fine si pronuncia come una ?a? leggera.",
+    "ku": "Di dawiya peyvê de wekî dengekî nerm ê \"a\" ye.",
+    "ar": "?? ????? ?????? ????? ??? a ?????."
    },
    "examples": [
     "Mutter",
@@ -365,7 +433,11 @@
    "say": {
     "tr": "Kelime sonunda „-iş“ gibi (ich’teki ses).",
     "en": "At the end like the \"ch\" in ich.",
-    "es": "Al final suena como la «ch» de ich."
+    "es": "Al final suena como la «ch» de ich.",
+    "fr": "? la fin, se prononce comme le ? ch ? dans ich.",
+    "it": "Alla fine si pronuncia come il ?ch? di ich.",
+    "ku": "Di dawiyê de mîna dengê \"ch\" di ich de ye.",
+    "ar": "?? ??????? ????? ??? ch ?? ich."
    },
    "examples": [
     "zwanzig",
@@ -377,7 +449,11 @@
    "say": {
     "tr": "Kelime sonundaki „e“ de okunur: Name → naame.",
     "en": "A final \"e\" is spoken too: Name.",
-    "es": "La «e» final también se pronuncia: Name."
+    "es": "La «e» final también se pronuncia: Name.",
+    "fr": "Le ? e ? final se prononce aussi : Name.",
+    "it": "Anche la ?e? finale si pronuncia: Name.",
+    "ku": "Di dawiyê de \"e\" jî tê xwendin: Name.",
+    "ar": "????? ??? e ?????? ????: Name."
    },
    "examples": [
     "Name",
@@ -391,7 +467,11 @@
    "mean": {
     "tr": "Merhaba!",
     "en": "Hello!",
-    "es": "¡Hola!"
+    "es": "¡Hola!",
+    "fr": "Bonjour !",
+    "ar": "مرحبًا!",
+    "ku": "Silav!",
+    "it": "Ciao!"
    }
   },
   {
@@ -399,7 +479,11 @@
    "mean": {
     "tr": "Günaydın!",
     "en": "Good morning!",
-    "es": "¡Buenos días!"
+    "es": "¡Buenos días!",
+    "fr": "Bonjour !",
+    "it": "Buongiorno!",
+    "ku": "Beyanî baş!",
+    "ar": "???? ?????!"
    }
   },
   {
@@ -407,7 +491,11 @@
    "mean": {
     "tr": "İyi günler! / Merhaba!",
     "en": "Good day! / Hello!",
-    "es": "¡Buen día! / ¡Hola!"
+    "es": "¡Buen día! / ¡Hola!",
+    "fr": "Bonjour ! / Salut !",
+    "it": "Buon giorno! / Salve!",
+    "ku": "Roj baş! / Silav!",
+    "ar": "????? ????! / ?????!"
    }
   },
   {
@@ -415,7 +503,11 @@
    "mean": {
     "tr": "İyi akşamlar!",
     "en": "Good evening!",
-    "es": "¡Buenas tardes!"
+    "es": "¡Buenas tardes!",
+    "fr": "Bonsoir !",
+    "it": "Buonasera!",
+    "ku": "Êvar baş!",
+    "ar": "???? ?????!"
    }
   },
   {
@@ -423,7 +515,11 @@
    "mean": {
     "tr": "İyi geceler!",
     "en": "Good night!",
-    "es": "¡Buenas noches!"
+    "es": "¡Buenas noches!",
+    "fr": "Bonne nuit !",
+    "it": "Buonanotte!",
+    "ku": "Şev baş!",
+    "ar": "???? ??? ???!"
    }
   },
   {
@@ -431,7 +527,11 @@
    "mean": {
     "tr": "Hoşça kal!",
     "en": "Bye!",
-    "es": "¡Hasta luego!"
+    "es": "¡Hasta luego!",
+    "fr": "Salut !",
+    "it": "Ciao!",
+    "ku": "Bi xatirê te!",
+    "ar": "?? ???????!"
    }
   },
   {
@@ -439,7 +539,11 @@
    "mean": {
     "tr": "Görüşmek üzere! (resmî)",
     "en": "Goodbye! (formal)",
-    "es": "¡Adiós! (formal)"
+    "es": "¡Adiós! (formal)",
+    "fr": "Au revoir ! (formel)",
+    "it": "Arrivederci! (formale)",
+    "ku": "Bi xatirê te! (fermî)",
+    "ar": "??? ??????! (????? ?????)"
    }
   },
   {
@@ -447,7 +551,11 @@
    "mean": {
     "tr": "Teşekkürler!",
     "en": "Thank you!",
-    "es": "¡Gracias!"
+    "es": "¡Gracias!",
+    "fr": "Merci !",
+    "it": "Grazie!",
+    "ku": "Spas!",
+    "ar": "????!"
    }
   },
   {
@@ -455,7 +563,11 @@
    "mean": {
     "tr": "Lütfen! / Rica ederim!",
     "en": "Please! / You are welcome!",
-    "es": "¡Por favor! / ¡De nada!"
+    "es": "¡Por favor! / ¡De nada!",
+    "fr": "S?il vous pla?t ! / De rien !",
+    "it": "Per favore! / Prego!",
+    "ku": "Ji kerema xwe! / Ser çavan!",
+    "ar": "?? ????! / ????!"
    }
   },
   {
@@ -487,7 +599,11 @@
    "mean": {
     "tr": "İyiyim, teşekkürler. Ya sen?",
     "en": "Fine, thanks. And you?",
-    "es": "Bien, gracias. ¿Y tú?"
+    "es": "Bien, gracias. ¿Y tú?",
+    "fr": "?a va bien, merci. Et toi ?",
+    "it": "Bene, grazie. E tu?",
+    "ku": "Baş im, spas. Tu çawa yî?",
+    "ar": "????? ????. ?????"
    }
   },
   {
@@ -495,7 +611,11 @@
    "mean": {
     "tr": "Evet. / Hayır.",
     "en": "Yes. / No.",
-    "es": "Sí. / No."
+    "es": "Sí. / No.",
+    "fr": "Oui. / Non.",
+    "it": "S?. / No.",
+    "ku": "Erê. / Na.",
+    "ar": "???. / ??."
    }
   },
   {
@@ -515,7 +635,11 @@
    "mean": {
     "tr": "Bir kez daha, lütfen.",
     "en": "Once more, please.",
-    "es": "Otra vez, por favor."
+    "es": "Otra vez, por favor.",
+    "fr": "Encore une fois, s?il vous pla?t.",
+    "it": "Ancora una volta, per favore.",
+    "ku": "Careke din, ji kerema xwe.",
+    "ar": "??? ???? ?? ????."
    }
   }
  ]

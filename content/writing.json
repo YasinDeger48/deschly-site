@@ -927,20 +927,32 @@
    "title": {
     "tr": "Mesaj: Marketten ne alalım?",
     "en": "Message: what shall we buy?",
-    "es": "Mensaje: ¿qué vamos a comprar?"
+    "es": "Mensaje: ¿qué vamos a comprar?",
+    "fr": "Message : qu’est-ce qu’on achète ?",
+    "it": "Messaggio: che cosa dobbiamo comprare?",
+    "ku": "Peyam: Em ê çi bikirin?",
+    "ar": "رسالة: ماذا نشتري؟"
    },
    "prompt": "Sie gehen heute einkaufen. Schreiben Sie Ihrem Mitbewohner Jonas eine Nachricht.",
    "help": {
     "tr": "Ne alacağını yaz, ona bir şey isteyip istemediğini sor ve ne zaman eve döneceğini söyle.",
     "en": "Say what you will buy, ask if he wants something and say when you are back.",
-    "es": "Di qué vas a comprar, pregúntale si quiere algo y dile cuándo vuelves."
+    "es": "Di qué vas a comprar, pregúntale si quiere algo y dile cuándo vuelves.",
+    "fr": "Dis ce que tu vas acheter, demande-lui s’il veut quelque chose et dis quand tu reviens.",
+    "it": "Di’ che cosa comprerai, chiedigli se vuole qualcosa e digli quando torni.",
+    "ku": "Bibêje tu ê çi bikirî, bipirse gelo ew tiştekî dixwaze û bêje tu kengî vedigerî.",
+    "ar": "قل ماذا ستشتري، واسأله إن كان يريد شيئًا، وأخبره متى ستعود."
    },
    "points": [
     {
      "label": {
       "tr": "Ne alacaksın",
       "en": "What you buy",
-      "es": "Qué compras"
+      "es": "Qué compras",
+      "fr": "Ce que tu achètes",
+      "it": "Che cosa compri",
+      "ku": "Tiştê ku tu dikirî",
+      "ar": "ما ستشتريه"
      },
      "say": "Ich kaufe Brot, Milch und Käse.",
      "keys": [
@@ -957,7 +969,11 @@
      "label": {
       "tr": "Ona soru",
       "en": "Ask him",
-      "es": "Pregúntale"
+      "es": "Pregúntale",
+      "fr": "Demande-lui",
+      "it": "Chiedigli",
+      "ku": "Ji wî bipirse",
+      "ar": "اسأله"
      },
      "say": "Brauchst du auch etwas?",
      "keys": [

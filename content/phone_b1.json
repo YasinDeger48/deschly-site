@@ -817,7 +817,11 @@
      "de": "Hallo?",
      "tr": "Alo?",
      "en": "Hello?",
-     "es": "¿Diga?"
+     "es": "¿Diga?",
+     "fr": "All? ?",
+     "it": "Pronto?",
+     "ku": "Alo?",
+     "ar": "????"
     },
     {
      "who": "Tom",
@@ -1201,7 +1205,11 @@
      "de": "Hallo?",
      "tr": "Alo?",
      "en": "Hello?",
-     "es": "¿Diga?"
+     "es": "¿Diga?",
+     "fr": "All? ?",
+     "it": "Pronto?",
+     "ku": "Alo?",
+     "ar": "????"
     },
     {
      "who": "Frau Wolf",
@@ -2482,7 +2490,11 @@
     {
      "tr": "Elif: Alo?",
      "en": "Elif: Hello?",
-     "es": "¿Diga?"
+     "es": "¿Diga?",
+     "fr": "Elif : All? ?",
+     "it": "Elif: Pronto?",
+     "ku": "Elif: Alo?",
+     "ar": "????: ????"
     },
     {
      "tr": "Tom: Selam Elif, Tom ben. Cumartesi vaktin var mı?",
@@ -2833,7 +2845,11 @@
     {
      "tr": "Elif: Alo?",
      "en": "Elif: Hello?",
-     "es": "¿Diga?"
+     "es": "¿Diga?",
+     "fr": "Elif : All? ?",
+     "it": "Elif: Pronto?",
+     "ku": "Elif: Alo?",
+     "ar": "????: ????"
     },
     {
      "tr": "Frau Wolf: Günaydın Elif. Yarın sabah vardiyasını alabilir misin?",
